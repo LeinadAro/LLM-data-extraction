@@ -1,0 +1,10 @@
+papers
+
+Humza Naveeda, Asad Ullah Khana, Shi Qiub, Muhammad Saqibc, Saeed Anware, Muhammad Usmane, Naveed Akhtarg, Nick Barnesh, Ajmal Miani, A Comprehensive Overview of Large Language Models
+L. Chen, A Method for Extracting Information from Long Documents that Combines Large Language Models with Natural Language Understanding Techniques
+A. Gillioz, J. Casas, E. Mugellini, O. A. Khaled, Overview of the Transformer-based Models for NLP Tasks
+H. Touvron et al., LLaMA: Open and Efficient Foundation Language Models
+H. Touvron et al., Llama 2: Open Foundation and Fine-Tuned Chat Models
+H. Touvron et al., The Llama 3 Herd of Models
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin, Attention is all you need
+

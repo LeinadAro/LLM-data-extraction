@@ -1,0 +1,26 @@
+Your job is to extract data in JSON format from the text that you will recieve.
+In the attribute list what is on the right of ":" has to be substituted with the extracted data, specifing units of measurment, if present.
+If for an attribute you do not find any data use the null value.
+
+Attributes list
+
+Indirizzo:via/piazza/altro nome numero civico, città, provincia
+Tipologia:es. Appartamento bilocale
+Contratto:vendita o affitto
+Piano:numero piano
+Piani edificio:numero di piani dell'edificio		
+Ascensore:sì/no		
+Superficie:in mq
+Locali:numero locali
+Camere da letto:numero
+Cucina:abitabile o non abitabile
+Bagni:numero		
+Arredato:sì/no/parzialmente
+Balcone:sì/no
+Terrazzo:sì/no
+Box, posti auto:numero di posti
+Riscaldamento:sì/no
+Climatizzazione:sì/no
+Valore:in €
+
+  

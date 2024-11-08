@@ -1,0 +1,105 @@
+FROM llama3.1:8b-instruct-fp16
+TEMPLATE """{{- if or .System .Tools }}<|start_header_id|>system<|end_header_id|>
+{{- if .System }}
+
+{{ .System }}
+{{- end }}
+{{- if .Tools }}
+
+Cutting Knowledge Date: December 2023
+
+When you receive a tool call response, use the output to format an answer to the orginal user question.
+
+You are a helpful assistant with tool calling capabilities.
+{{- end }}<|eot_id|>
+{{- end }}
+{{- range $i, $_ := .Messages }}
+{{- $last := eq (len (slice $.Messages $i)) 1 }}
+{{- if eq .Role "user" }}<|start_header_id|>user<|end_header_id|>
+{{- if and $.Tools $last }}
+
+Given the following functions, please respond with a JSON for a function call with its proper arguments that best answers the given prompt.
+
+Respond in the format {"name": function name, "parameters": dictionary of argument name and its value}. Do not use variables.
+
+{{ range $.Tools }}
+{{- . }}
+{{ end }}
+Question: {{ .Content }}<|eot_id|>
+{{- else }}
+
+{{ .Content }}<|eot_id|>
+{{- end }}{{ if $last }}<|start_header_id|>assistant<|end_header_id|>
+
+{{ end }}
+{{- else if eq .Role "assistant" }}<|start_header_id|>assistant<|end_header_id|>
+{{- if .ToolCalls }}
+{{ range .ToolCalls }}
+{"name": "{{ .Function.Name }}", "parameters": {{ .Function.Arguments }}}{{ end }}
+{{- else }}
+
+{{ .Content }}
+{{- end }}{{ if not $last }}<|eot_id|>{{ end }}
+{{- else if eq .Role "tool" }}<|start_header_id|>ipython<|end_header_id|>
+
+{{ .Content }}<|eot_id|>{{ if $last }}<|start_header_id|>assistant<|end_header_id|>
+
+{{ end }}
+{{- end }}
+{{- end }}"""
+PARAMETER stop <|start_header_id|>
+PARAMETER stop <|end_header_id|>
+PARAMETER stop <|eot_id|>
+PARAMETER temperature 0.1
+PARAMETER top_p 0.4
+PARAMETER repeat_penalty 1.18
+PARAMETER num_ctx 50000
+
+SYSTEM """
+Il tuo compito è estrarre dati da documetni. Qui sotto troverai un form JSON, tu dovrai completarlo sostituendo ciascun data_extracted con il valore dell'attributo che hai estratto. Se per un attributo non trovi alcun valore assegna il valore null. A prescindere dall'input devi dare in output solo la struttura JSON compilata. Ad esempio se il prompt è un semplice "ciao" tu in output dai il JSON con tutti i parametri null.
+Se il testo parla di monolocale, bilocale, ecc. tu devi assegnare a "Locali" il numero di locali che corrsiponde alla parola trovata (es. monolocale vuol dire "Locali":1, bilocale "Locali":2 etc.).
+Se il testo non usa le parole monolocale, bilocale ecc. devi tenere conto dei riferimenti a camere da letto e soggiorni, sommarli e assegnare la somma dei rifermenti a "Locali".
+Ad esempio se il testo dice "due camere da letto al primo piano, un soggiorno al piano terra", ci sono 2 riferimenti a camere da letto e 1 riferimento a soggiorni quindi tu li sommi e assegni 3 a "Locali"
+"Mq" è la superficie dell'immobile espressa in metri quadrati.
+Per ricavare i valore di "Bagni" devi tenere conto dei riferimenti ai bagni.
+Se il testo parla di un bagno al piano terra e di un altro nel garage, tu devi assegnare a "Bagni" il valore 2.
+Per ricavare i valore di "Posti auto" devi tenere conto dei riferimenti ai posti auto.
+autorimessa equivale a "Posti auto". 
+Se per "Vani", "Mq", "Foglio", "Particella" e "Subalterno" trovi più corrispondenze, fai riferimento alla prima occorrenza.
+Piano terra corrisponde al piano 0.
+
+{
+	"Comune":data_extracted,
+	"Indirizzo":data_extracted,
+	"Vani":data_extracted,
+	"Locali":data_extracted,
+	"Mq":data_extracted,
+	"Bagni":data_extracted,
+	"Piano":data_extracted,
+	"Posti auto":data_extracted,
+	"N° Procedura":data_extracted
+} 
+
+"""
+
+MESSAGE user """
+TRIBUNALE DI BRESCIA UFFICIO ESECUZIONI IMMOBILIARI PROCEDURA ESECUTIVA R.G.E. 269/2023 Giudice dell’Esecuzione: Dott. Gianluigi Canali Professionista Delegato: Avv. Silvia Colombini Custode Giudiziario: Avv. Silvia Colombini 25121 Brescia – via A. Diaz, 3 Tel.030.391728 Mail: silviacolombini@yahoo.it Pec: silvia.colombini@brescia.pecavvocati.it AVVISO DI VENDITA SENZA INCANTO IN MODALITA’ ASINCRONA TELEMATICA NELLA PROCEDURA ESECUTIVA 269/2023 RGE I° ESPERIMENTO DI VENDITA 
+BENI OGGETTO DELLA VENDITA LOTTO UNICO Piena proprietà per la quota di 1/2 in separazione dei beni in capo a ciascuno dei due esecutati e così per l’intera piena proprietà (1/1) Unità immobiliari in Comune di Coccaglio (BS), in via Guido Miglioli, 6 (catastalmente via Castrezzato). Trattasi di unità immobiliare ad uso residenziale abitativo, posta al piano rialzato di un edificio condominiale “in linea”. L’appartamento è costituito da : soggiorno, cucina, ampio disimpegno/ingresso, ripostiglio, bagno, tre camere. L’appartamento dispone di due balconi: un primo balcone è posto sul lato Nord e su di esso si affaccia una camera ed il soggiorno; esso si prospetta e accede alla piccola corte esclusiva posta in lato Nord, di cui pure l’appartamento dispone; il secondo balcone è posto a ovest e su di esso si affaccia un’altra camera e il bagno. L’appartamento dispone al piano seminterrato di una piccola cantina e di un’autorimessa alle quali si può accedere direttamente dal vano scala condominiale. L’autorimessa ha l’accesso carraio da via G. Miglioli dal corsello comune. Anche l’accesso pedonale è su via G. Miglioli e si esplica attraverso la corte comune condominiale, fino a giungere all’edificio. Le unità immobiliari sono così descritte al Catasto dei Fabbricati del Comune di Coccaglio: • Sez. Urb. NCT, Foglio 11, particella 173, subalterno 19, via Castrezzato piano S1- T, Rendita Euro 451,90, cat. A/2, classe 3, consistenza 7 vani, superficie totale 125 mq; (appartamento al piano rialzato con piccola corte esclusiva pertinenziale e cantina al piano seminterrato) • Sez. Urb. NCT, Foglio 11, Particella 173, subalterno 46, via Castrezzato piano S1, rendita Euro 29,54, cat. C/6, Classe 2, consistenza 22 mq, superficie totale 22 mq. (autorimessa al piano seminterrato) CONFINI: - dell’abitazione e della corte esclusiva Ovest: cortile comune all’intero condominio Sud: cortile comune all’intero condominio Est: vano scala comune e A.U.I.
+della cantina: Nord: proprietà di terzi; Ovest: cortile comune Sud: proprietà di terzi Est: corridoio comune
+dell’autorimessa : Nord: corridoio comune Ovest: corridoio comune Est: cortile comune Sud: A.U.I."""
+
+MESSAGE assistant {"Comune":"Coccaglio", "Indirizzo":"Via Guido Miglioli 6", Vani": 7, "Locali": 4, "Mq": 125, "Bagni": 1, "Piano": 0, "Posti auto": 1, "N° Procedura": "269/2023"}
+
+MESSAGE user """
+TRIBUNALE CIVILE DI BRESCIA Sezione Esecuzioni Immobiliari Procedura esecutiva n. 116/2023 R.G.E. AVVISO DI VENDITA TELEMATICA ASINCRONA I ESPERIMENTO Gestore della vendita: Edicom Finance s.r.l.; Portale del Gestore: www.garavirtuale.it; Custode: Notaio Paolo Volta (per visite e-mail: info@astecommissionarie.it).
+Il sottoscritto Notaio Paolo Volta, quale delegata dal Giudice delle Esecuzioni del Tribunale di Brescia con ordinanza emessa in data 5 marzo 2024, ai sensi dell’art. 591 bis c.p.c. e domiciliata per la carica presso S-Mart, Via Solferino n. 24, avvisa che, a suo ministero, il giorno 17 ottobre 2024 alle ore 11.00 si procederà alle operazioni di vendita con modalità telematica asincrona dei seguenti beni immobili: Lotto unico piena proprietà = in Comune di Brescia (BS), Via Valcamonica n. 53: Appartamento al piano secondo parte di palazzina residenziale il tutto censito al Catasto Fabbricati di detto Comune, Sez. FIU - Fg. 1 - mapp. 812 sub 2 – Z.C. 3 - P. 1 - cat. A/3 - cl. 1 - vani 3 - R.C. Euro 102,26 Oltre alle proporzionali quote sulle parti comuni dell’edificio. Dalla perizia agli atti si segnala che nella planimetria catastale vi è un errore nell’identificazione del piano, l’immobile non è situato infatti al primo piano ma al secondo. Il costo per la sistemazione della scheda è stimato in Euro 450,00 oltre iva, già decurtato dal valore di stima. Confini come da elaborato planimetrico. = Il tutto salvo errore e come meglio in fatto.
+La continuità delle trascrizioni risulta regolare nel ventennio. PREZZO BASE = Euro 23.000,00. Si precisa che saranno considerate valide le offerte anche inferiori di un quarto rispetto al prezzo base sopra indicato. Tali offerte non potranno essere di importo comunque inferiore ad Euro 17.250,00. Cauzione pari almeno al 10% del prezzo offerto (arrotondamento per eccesso senza decimali). Rilancio minimo di gara: Euro 300,00."""
+
+MESSAGE assistant {"Comune":"Brescia", "Indirizzo":"Via Valcamonica 53", "Vani": 3, "Locali": null, "Mq": null, "Bagni": null, "Piano": 2, "Posti auto": null, "N° Procedura": "116/2023"}
+
+MESSAGE user """
+ASSOCIAZIONE NOTARILE PER LE PROCEDURE ESECUTIVE Via S. Zeno, 99/a 25124 - BRESCIA Tel. 030 22.28.49 - FAX 030 22.42.37 TRIBUNALE ORDINARIO DI BRESCIA DIVISIONE GIUDIZIALE ENDOESECUTIVA rg n.11593/2021 (236-23) mb AVVISO DI VENDITA TELEMATICA ASINCRONA II VENDITA SENZA INCANTO Gestore della vendita: Edicom Finance S.r.l. Portale del Gestore: www.garavirtuale.it
+DESCRIZIONE DEL BENE Piena proprietà. in Comune di CASTREZZATO - via Giovanni Pascoli n.10. Trattasi, ex perizia, di un'abitazione su due piani fuori terra costituita al piano terra da un appartamento, due autorimesse e vari accessori ed al piano primo da due appartamenti e una terrazza, il tutto censito al:
+Catasto Fabbricati - Sez. NCT - Fg. 5 mapp. 358 sub. 9 P. T, cat. A/3 - cl. 3 - vani 8 - R.C. Euro 433,82; mapp. 358 sub. 10 P. T, cat. C/6 - cl. 2 - mq. 20 - R.C. Euro 32,02; mapp. 358 sub. 11 P. T, cat. C/6 - cl. 2 - mq. 33 - R.C. Euro 52,83; mapp. 358 sub. 12 P. 1, cat. A/3 - cl. 3 - vani 5,5 - R.C. Euro 298,25; mapp. 358 sub. 13 P. 1, cat. A/3 - cl. 3 - vani 3,5 - R.C. Euro 189,80; con le proporzionali quote delle parti comuni ai sensi di legge. Il tutto così come pervenuto in forza di: - provvedimento di acquisizione gratuita al patrimonio dello stato del 27/09/23 dell'Agenzia del Demanio D.R. Lombardia n.2275/2023 rep., trascritto a Brescia il 20/10/23 ai n.ri 46402/32059; - successione legittima, giusta accettazione con beneficio di inventario con atto del 01/10/98 della Pretura Circondariale di Brescia rep. 2125/1998, trascritta il 10/10/98 ai n.ri 32854/21588; - successione legittima - dichiarazione di successione presentata a Chiari il 17/08/92 al n° 52 vol. 362 e trascritta a Brescia il 18/04/94 ai n.ri 10142/7322. L'immobile è stato costruito ante 01/09/67 ed è interessato dai titoli autorizzativi indicati a pag. 16 e 17 della perizia. Il perito ha rilevato delle difformità urbanistiche come specificato da pag. 17 a pag. 20 della perizia, ove è stata prudenzialmente quantificata anche la spese per il ripristino. Il perito dichiara che le planimetrie catastali non corrispondono esattamente allo stato di fatto per le motivazioni indicate a pag. 23 della perizia. Nella relazione notarile si segnala la trascrizione della domanda giudiziale di divisione del 18/10/21 del Tribunale di Brescia rep. 11593, trascritta a Brescia il 22/11/21 ai n.ri 55226/36820 (detta trascrizione non verrà cancellata con il decreto di trasferimento). Gli immobili si trovano disabitati."""
+
+MESSAGE assistant {"Comune":"Castrezzato", "Indirizzo":"Via Giovanni Pascoli 10", "Vani": 8, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": 2, "N° Procedura": "11593/2021"}

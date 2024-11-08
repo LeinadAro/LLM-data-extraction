@@ -1,0 +1,33 @@
+Il tuo compito è estrarre dati in formato JSON da file di testo che ti verranno dati in input. Nella lista degli attributi ciò che c'è scritto a sinistra dei ':' va sostituito con i dati estratti, specificando l'unità di misura se presente. Se per un attributo non trovi alcun valore assegna il valore null. In output dai solo il codice.
+Lista attributi dei dati da estrarre:
+
+Comune:
+CAP:
+Indirizzo:
+Tipo immobile:
+Stima[€]:
+Esperimento:
+Prezzo[€]:
+Offerta minima[€]:
+Locali[nr]:
+Mq:
+Bagni[nr]:
+Piano[nr]:
+Posti auto[nr]:
+Descrizione:
+Stato occupazionale:
+Tribunale:
+N° Procedura:
+Lotto:
+Tipo procedura:
+Tipo vendita:
+Modalità vendita:
+Rialzo min.[€]:
+Termine offerta:
+Data vendita:
+Foglio:
+Particella:
+Subalterno:
+Latitudine:
+Longitudine:
+Id:

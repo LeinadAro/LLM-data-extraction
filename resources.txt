@@ -1,0 +1,60 @@
+papers:
+
+Humza Naveeda, Asad Ullah Khana, Shi Qiub, Muhammad Saqibc, Saeed Anware, Muhammad Usmane, Naveed Akhtarg, Nick Barnesh, Ajmal Miani, A Comprehensive Overview of Large Language Models
+	fa un buon punto della situazione del mondo degli llm, ottimo come prima lettura
+L. Chen, A Method for Extracting Information from Long Documents that Combines Large Language Models with Natural Language Understanding Techniques
+	studio cinese sull'uso di llm per l'estrazione di informazione. da testi commerciali cinesi ricavano testi in json con risultati ok usando llm per la generazione di testi in inglese e cinese. 
+A. Gillioz, J. Casas, E. Mugellini, O. A. Khaled, Overview of the Transformer-based Models for NLP Tasks
+	altro paper utile per avere una visione di insieme sugli llm ponendo l'accento sulle task di nlp 
+H. Touvron et al., LLaMA: Open and Efficient Foundation Language Models
+	paper che parla dello sviluppo di llama 
+H. Touvron et al., Llama 2: Open Foundation and Fine-Tuned Chat Models
+	paper che parla dello sviluppo di llama 2
+H. Touvron et al., The Llama 3 Herd of Models
+	paper che parla dello sviluppo di llama 3
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin, Attention is all you need
+	definisce il transformer e parla di come è stato sviluppato il modello di trasduzione transformer. Il Transformer è la base degli LLM
+
+Open-source Models:
+
+LLaMA			famiglia di modelli sviluppata da meta
+GPT-NeoX-20B    modello open-source gpt3-like di eleutherai
+OPT				serie di modelli open-source gpt3-like
+qwen			famiglia di modelli creata da alibaba
+
+
+
+tools:
+
+LLaMA.cpp
+gpt4all.io		
+huggingface
+ollama
+
+
+link utili:
+
+
+https://github.com/jacksonchen1998/LLaMA-Paper-List?tab=readme-ov-file#original-llama-paper  papers e codici dei modelli LLaMA
+https://www.kdnuggets.com/7-steps-to-mastering-large-language-models-llms  articolo generico buono per prima infarinatura su LLM
+https://huggingface.co/learn/nlp-course/chapter1/1 corso su natural language processing NLP
+https://github.com/fastai/fastbook 	notebook di fastai su deeplearning e pytorch
+https://www.cloudskillsboost.google/paths/118/course_templates/536 corso introduttivo di google su ia generativa
+https://www.cloudskillsboost.google/paths/118/course_templates/539
+https://jalammar.github.io/illustrated-transformer/  spiegazione semplificata del transformer
+https://stanford-cs324.github.io/winter2022/lectures/modeling/  corso di stanford su large language model 
+https://stanford-cs324.github.io/winter2022/lectures/training/
+https://www.youtube.com/watch?v=J_3hDqSvpmg QLorA lightweught fine-tuning
+https://huggingface.co/blog/4bit-transformers-bitsandbytes ulteriore spiegazione QLorA fine-tuning
+https://huggingface.co/blog/rlhf  Reinforcement learning from Human Feedback
+https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG
+https://web.stanford.edu/class/cs224n/readings/		Stanford CS224n: Natural Language Processing with Deep Learning
+
+https://github.com/tensorflow/tensor2tensor
+https://github.com/google/trax
+
+https://github.com/openai/tiktoken
+
+https://huggingface.co/blog/llama32		spiegazione su come usare modelli lightweight on device 
+										o browser
+https://stanford-cs221.github.io/autumn2021/modules/
