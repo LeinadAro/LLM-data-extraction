@@ -1,6 +1,7 @@
 import fileinput
 import chardet
 
+#this method copies a txt file until it finds the triggerLine. 
 def filter(inputFile, outputFile, triggerLine):
     dirtyTxt=fileinput.input(inputFile, encoding='utf-8', errors='ignore')
     ok=True
