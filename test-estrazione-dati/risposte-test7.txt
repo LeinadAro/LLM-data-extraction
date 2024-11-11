@@ -14,7 +14,7 @@ prompt8
 {"Comune":"Collio Valtrompia", "Indirizzo":"Via Crocette 30", "Vani": 4.5, "Locali": 3,  "Mq": 85, "Bagni": 1, "Piano": 2, "Posti auto": null, "N° Procedura": "162/2021", "Lotto":2}
 {"Comune":"Collio Valtrompia", "Indirizzo":"Via Crocette 30", "Vani": 4.5, "Locali": 3,  "Mq": 85, "Bagni": 1, "Piano": 2, "Posti auto": null, "N° Procedura": "162/2021", "Lotto":3}
 {"Comune":"Collio Valtrompia", "Indirizzo":"Via Bondegno 15", "Vani": 2.5, "Locali": 2,  "Mq": 52, "Bagni": 1, "Piano": 0, "Posti auto": null, "N° Procedura": "162/2021", "Lotto":4}
-{"Comune":"Collio Valtrompia", "Indirizzo":"Via Crocette NCT", "Vani": null, "Locali": null,  "Mq": ha 0.04.60, "Bagni": 1, "Piano": 0, "Posti auto": null, "N° Procedura": "162/2021", "Lotto":5}
+{"Comune":"Collio Valtrompia", "Indirizzo":"Via Crocette NCT", "Vani": null, "Locali": null,  "Mq": ha 0.04.60, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "162/2021", "Lotto":5}
 
 prompt9
 {"Comune":"Sirmione", "Indirizzo":"Via TINTORETTO, 32 - Scala 2B", "Vani": null, "Locali": 2,  "Mq": 50, "Bagni": 1, "Piano": 1, "Posti auto": 1, "N° Procedura": "473/2024", "Lotto":"LOTTO UNICO"}
