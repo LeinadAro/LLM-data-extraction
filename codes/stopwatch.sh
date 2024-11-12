@@ -1,11 +1,11 @@
 #!/bin/bash
 
 model=$1
-promptDir=$2
+prompt=$2
 
 start_time=$(date +%s.%N)
 
-ollama run $model < $promptDir
+ollama run $model < $prompt
 
 end_time=$(date +%s.%N)
 
