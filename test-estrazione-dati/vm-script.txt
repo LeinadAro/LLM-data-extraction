@@ -2,3 +2,5 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama run llama3.1:8b-text-fp16
 nvidia-smi
 htop
+
+riprendi da 26

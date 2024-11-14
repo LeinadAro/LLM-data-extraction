@@ -1,0 +1,2 @@
+{"Comune":"Polaveno", "Indirizzo":"Via Ottorino Marcolini 4", "Vani": 5.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura": "285/2020", "Lotto":"LOTTO UNICO"}
+

@@ -1,0 +1,2 @@
+{"Comune":"Piancogno", "Indirizzo":"Via Vittorio Veneto 74", "Vani": 2.5, "Locali": null,  "Mq": 44, "Bagni": 1, "Piano": 0, "Posti auto": 0, "N° Procedura": "662/2021", "Lotto":"LOTTO UNICO"}
+

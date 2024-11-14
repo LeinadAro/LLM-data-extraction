@@ -1,0 +1,2 @@
+{"Comune":"Gussago", "Indirizzo":"Via San Vincenzo 24", "Vani": 6, "Locali": null,  "Mq": 226, "Bagni": 2, "Piano": 0, "Posti auto": 0, "N° Procedura": "576/2021", "Lotto":"LOTTO UNICO"}
+

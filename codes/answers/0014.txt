@@ -1,0 +1,2 @@
+{"Comune":"Dello", "Indirizzo":"Via G.Mazzini 22-24", "Vani": 2, "Locali": 1,  "Mq": null, "Bagni": null, "Piano": 2, "Posti auto": 1, "N° Procedura": "517/2021", "Lotto":"LOTTO UNICO"}
+

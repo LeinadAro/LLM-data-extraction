@@ -1,0 +1,2 @@
+{"Comune":"Castenedolo", "Indirizzo":"Via Monte Pasubio s.n.c.", "Vani": null, "Locali": null,  "Mq": 4885, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "102/2023", "Lotto":"UNICO"}
+

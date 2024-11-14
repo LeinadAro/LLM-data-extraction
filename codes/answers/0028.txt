@@ -1,0 +1,2 @@
+{"Comune":"Ospitaletto", "Indirizzo":"Vicolo Chiese 6/8", "Vani": 2.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": 1, "N° Procedura": "424/2023", "Lotto":"UNICO"}
+

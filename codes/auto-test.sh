@@ -10,7 +10,7 @@ for filename in $promptDir/*.txt
 do
 	newFile=$(basename "$filename")
 	echo "elaborating $newFile"
-	ollama run $model < $filename > $answerDir/$newFile
+	timeout 300 ollama run $model < $filename > $answerDir/$newFile
 done
 end_time=$(date +%s.%N)
 

@@ -1,0 +1,2 @@
+{"Comune":"Provaglio d'Iseo", "Indirizzo":"Via San Filastro snc", "Vani": null, "Locali": 0,  "Mq": 19,05, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "", "Lotto":"Terreno edificabile in via San Filastro angolo via Redipuglia"}
+

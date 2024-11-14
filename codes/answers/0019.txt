@@ -1,0 +1,2 @@
+{"Comune":"Coccaglio", "Indirizzo":"Via Benefattori 14", "Vani": 8, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": 1, "N° Procedura": "116/2022", "Lotto":"LOTTO UNICO"}
+

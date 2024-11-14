@@ -1,0 +1,3 @@
+{"Comune":"Brescia", "Indirizzo":"Via Divisione Tridentina 46", "Vani": 6, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "724/2019", "Lotto":"1"}
+{"Comune":"Brescia", "Indirizzo":"Via Divisione Tridentina 46", "Vani": 2.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": -1, "Posti auto": 0, "N° Procedura": "724/2019", "Lotto":"2"}
+

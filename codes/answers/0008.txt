@@ -1,0 +1,2 @@
+{"Comune":"Sarezzo", "Indirizzo":"Via San Martino 36/38/44", "Vani": null, "Locali": 2,  "Mq": 173, "Bagni": 0, "Piano": 1, "Posti auto": 0, "N° Procedura": "434/2016", "Lotto":"2"}
+
