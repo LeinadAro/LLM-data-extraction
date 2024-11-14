@@ -1,3 +1,0 @@
-{"Comune":"Brescia", "Indirizzo":"Via G. Verazzano 7-9", "Vani": null, "Locali": null,  "Mq": 31, "Bagni": null, "Piano": -1, "Posti auto": 0, "N° Procedura": "391/2015", "Lotto":"10"}
-{"Comune":"Brescia", "Indirizzo":"Via G. Verazzano 7-9", "Vani": null, "Locali": null,  "Mq": 29, "Bagni": null, "Piano": -1, "Posti auto": 0, "N° Procedura": "391/2015", "Lotto":"13"}
-

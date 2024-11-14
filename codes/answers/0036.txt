@@ -1,2 +1,0 @@
-{"Comune":"Serle", "Indirizzo":"Via Castello snc", "Vani": null, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": 1, "N° Procedura": "301/2023", "Lotto":"LOTTO UNICO"}
-

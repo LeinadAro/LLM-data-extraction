@@ -1,2 +1,0 @@
-{"Comune":"Bovezzo", "Indirizzo":"Via Angelo Faini 3", "Vani": null, "Locali": 7,  "Mq": 322, "Bagni": null, "Piano": 0, "Posti auto": 1, "N° Procedura": "1065/2015", "Lotto":"UNICO"}
-

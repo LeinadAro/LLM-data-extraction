@@ -1,4 +1,0 @@
-{"Comune":"Manerba Del Garda", "Indirizzo":"Via Catullo 1", "Vani": null, "Locali": null,  "Mq": 55, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "145/2021", "Lotto":"2"}
-{"Comune":"Manerba Del Garda", "Indirizzo":"Via Catullo 1", "Vani": null, "Locali": null,  "Mq": 225, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "145/2021", "Lotto":"4"}
-{"Comune":"Manerba Del Garda", "Indirizzo":"Via Catullo 1", "Vani": null, "Locali": null,  "Mq": 340, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "145/2021", "Lotto":"6"}
-

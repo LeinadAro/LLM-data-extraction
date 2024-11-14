@@ -1,0 +1,20 @@
+{"Comune":"San Paolo", "Indirizzo":"Via Donatori di Sangue snc", "Vani": 12, "Locali": null,  "Mq": 40, "Bagni": null, "Piano": null, "Posti auto": 2, "N° Procedura": "308/2019", "Lotto":"A4"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 4.5, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A8"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 4, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A9"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 6, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A10"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 7.5, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A11"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 3.5, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A12"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 4, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A13"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": null, "Locali": 1,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A14"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": null, "Locali": 1,  "Mq": 428, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A15"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": null, "Locali": 1,  "Mq": 64, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A16"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": null, "Locali": 1,  "Mq": 67, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A17"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 4, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A18"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 4, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A19"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 3.5, "Locali": 3,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A21"}
+{"Comune":"San Paolo", "Indirizzo":"Via Della Boffella 37", "Vani": 5.5, "Locali": 4,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"A22"}
+{"Comune":"San Paolo", "Indirizzo":"Via Guglielmo Marconi 24", "Vani": null, "Locali": null,  "Mq": 39, "Bagni": null, "Piano": 0, "Posti auto": 3, "N° Procedura": "308/2019", "Lotto":"B6"}
+{"Comune":"San Paolo", "Indirizzo":"Via dello Strone snc", "Vani": null, "Locali": 1,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"C"}
+{"Comune":"San Paolo", "Indirizzo":"Via Donatori di Sangue snc", "Vani": null, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "308/2019", "Lotto":"D"}
+{"Comune":"San Paolo", "Indirizzo":"Via della Boffella snc", "Vani": null, "Locali": null,  "Mq": 2416, "Bagni": null, "Piano": 0, "Posti auto": 1, "N° Procedura": "308/2019", "Lotto":"E"}
+

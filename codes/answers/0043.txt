@@ -1,3 +1,0 @@
-{"Comune":"Vione", "Indirizzo":"Via Roma 6", "Vani": 2.5, "Locali": null,  "Mq": 49, "Bagni": 1, "Piano": 2, "Posti auto": 0, "N° Procedura": "62/2023", "Lotto":"2"}
-Nota: Il valore di "Vani" è stato calcolato come la somma degli spazi considerati locali (cucina-soggiorno, ripostiglio, camera e bagno) più il locale bagno con antibagno.
-

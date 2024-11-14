@@ -1,2 +1,0 @@
-{"Comune":"Brescia", "Indirizzo":"Via Montello 25", "Vani": null, "Locali": 7,  "Mq": 155.70 + 24.50 = 180.20, "Bagni": 3, "Piano": 1, "Posti auto": 2, "N° Procedura": "530/2022", "Lotto":"LOTTO UNICO"}
-

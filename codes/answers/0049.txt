@@ -1,2 +1,0 @@
-{"Comune":"Provaglio d'Iseo", "Indirizzo":"Via San Filastro snc", "Vani": null, "Locali": 0,  "Mq": null, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "4/2019", "Lotto":"UNICO"}
-

@@ -1,4 +1,0 @@
-{"Comune":"Calvagese della Riviera", "Indirizzo":"Via Vittorio Veneto 5- Via Carducci", "Vani": null, "Locali": null,  "Mq": 183, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "950/2016", "Lotto":"5"}
-{"Comune":"Calvagese della Riviera", "Indirizzo":"Via Vittorio Veneto 5- Via Carducci", "Vani": null, "Locali": null,  "Mq": 71, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "950/2016", "Lotto":"6"}
-{"Comune":"Calvagese della Riviera", "Indirizzo":"Via Vittorio Veneto 5- Via Carducci", "Vani": null, "Locali": null,  "Mq": 112, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "950/2016", "Lotto":"7"}
-

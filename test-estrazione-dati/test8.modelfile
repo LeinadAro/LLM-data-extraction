@@ -66,10 +66,12 @@ La definizione 1 di locale prevale sulla due.
 "Mq" è la superficie dell'immobile espressa in metri quadrati. Se nel testo per la superficie vengono usati gli ettari (ha) fai la conversione in mq. Ricorda 1 ha = 10000 mq. A volte gli ettari vengono segnati così ab.cx.yz anziché ab.cxyz.
 Per ricavare i valore di "Bagni" devi tenere conto dei riferimenti ai bagni.
 Se il testo parla di un bagno al piano terra e di un altro nel garage, tu devi assegnare a "Bagni" il valore 2.
+Servizi igenici equivale a bagni.
 Per ricavare i valore di "Posti auto" devi tenere conto dei riferimenti ai posti auto.
 Autorimessa e garage equivalgono a "Posti auto". Nei dati catastali Cat C/6 corrisponde a posto auto. Nel calcolo di vani e mq ignora Cat C/6.
 Se per "Vani" trovi più corrispondeze, assegna all'attributo "Vani" la somma delle corrsipondenze.
 Se i "Mq" sono esplicitati nella descrizione usa quelli, altrimenti ricava i "Mq" dai dati catastali. Se nei dati catastali per "Mq" trovi più corrispondeze, assegna all'attributo "Mq" la somma delle corrsipondenze.
+Gli ettari sono espressi anche in are, vanno convertiti in mq. 
 Piano terra corrisponde al piano 0.
 Se per "Lotto" non trovi niente usa il valore "LOTTO UNICO". Devi ignorare gli ex Lotti per loro nessun output va genera per loro nessun output va generato. A volte in un "LOTTO UNICO" sono stati convogliati ex lotti, in tal caso devi considerare solo il "LOTTO UNICO".
 Se in un testo trovi più lotti devi dare in output un oggetto JSON per ciascun lotto.

@@ -1,2 +1,0 @@
-{"Comune":"Brescia", "Indirizzo":"Via Valcamonica 53", "Vani": 3, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 2, "Posti auto": 0, "N° Procedura": "116/2023", "Lotto":"LOTTO UNICO"}
-
