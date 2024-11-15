@@ -58,3 +58,8 @@ https://github.com/openai/tiktoken
 https://huggingface.co/blog/llama32		spiegazione su come usare modelli lightweight on device 
 										o browser
 https://stanford-cs221.github.io/autumn2021/modules/
+
+https://github.com/unslothai/unsloth?tab=readme-ov-file#-installation-instructions
+https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing#scrollTo=QmUBVEnvCDJv
+https://parquet.apache.org/docs/
+https://arrow.apache.org/docs/python/parquet.html

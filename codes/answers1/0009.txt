@@ -1,2 +1,1 @@
 {"Comune":"Nuvolera", "Indirizzo":"Via dei Marmi 9-11", "Vani":10, "Locali": null,  "Mq":null, "Bagni":0, "Piano":0, "Posti auto":1, "N° Procedura":"396/2016", "Lotto":"LOTTO UNICO"}
-
