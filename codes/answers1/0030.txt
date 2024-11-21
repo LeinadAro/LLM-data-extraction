@@ -1,3 +1,4 @@
-{"Comune":"Rodengo-Saiano", "Indirizzo":"Via Colomabia 6/G", "Vani": 3, "Locali": null,  "Mq": null, "Bagni": 0, "Piano": 0, "Posti auto": 1, "N° Procedura": "950/2016", "Lotto":"2"}
+[
+{"Comune":"Rodengo-Saiano", "Indirizzo":"Via Colomabia 6/G", "Vani": 3, "Locali": null,  "Mq": null, "Bagni": 0, "Piano": 0, "Posti auto": 1, "N° Procedura": "950/2016", "Lotto":"2"},
 {"Comune":"Rodengo-Saiano", "Indirizzo":"Via Colomabia 6/F", "Vani": 3, "Locali": null,  "Mq": 25, "Bagni": 0, "Piano": 0, "Posti auto": 1, "N° Procedura": "950/2016", "Lotto":"3"}
-
+]

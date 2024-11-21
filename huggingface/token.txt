@@ -1,2 +1,2 @@
-garda6-dan-aca		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
-read-only			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
+garda6-dan-aca	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
+read-only		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

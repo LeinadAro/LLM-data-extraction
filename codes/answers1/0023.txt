@@ -1,3 +1,5 @@
-{"Comune":"Chiari", "Indirizzo":"Via Brescia 61", "Vani": 9, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "415/2020", "Lotto":"1"}
+[
+{"Comune":"Chiari", "Indirizzo":"Via Brescia 61", "Vani": 9, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "415/2020", "Lotto":"1"},
 {"Comune":"Chiari", "Indirizzo":"Via Brescia 71", "Vani": 3.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "415/2020", "Lotto":"2"}
+]
 

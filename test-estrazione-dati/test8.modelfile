@@ -77,6 +77,13 @@ Se per "Lotto" non trovi niente usa il valore "LOTTO UNICO". Devi ignorare gli e
 Se in un testo trovi più lotti devi dare in output un oggetto JSON per ciascun lotto.
 
 { "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" } 
+
+Se ci sono più di un lotto devi racchiudere tutti gli oggetti json con parentesi quadre e ogni oggetto tranne l'ultimo deve essere seguito da una virgola, come nell'esempio seguente
+[
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" },
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" },
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" }
+]
 """
 
 MESSAGE user """
@@ -143,8 +150,11 @@ L'immobile viene posto in vendita a corpo e non a misura, nello stato di fatto e
 trova, con tutte le pertinenze, accessioni, ragioni e azioni, eventuali servitù attive e passive,
 apparenti e non apparenti.
 """
-MESSAGE assistant """{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": 9, "Locali": 5,  "Mq": null, "Bagni": 4, "Piano": 0, "Posti auto": 1, "N° Procedura": "71/2018", "Lotto":"1"}
-{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": null, "Locali": null,  "Mq": 2400, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "71/2018", "Lotto":"2"}
+MESSAGE assistant """
+[
+	{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": 9, "Locali": 5,  "Mq": null, "Bagni": 4, "Piano": 0, "Posti auto": 1, "N° Procedura": "71/2018", "Lotto":"1"},
+	{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": null, "Locali": null,  "Mq": 2400, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "71/2018", "Lotto":"2"}
+]
 """
 
 MESSAGE user """
@@ -165,7 +175,9 @@ Nel Comune di Angolo Terme (Bs), Via Regina Elena n. 95, unità immobiliare adib
 """
 
 MESSAGE assistant """
-{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": null, "Locali": null,  "Mq": 37, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"1"}
-{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": 4.5, "Locali": 2,  "Mq": 91, "Bagni": 1, "Piano": 1, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"2"}
-{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": 5, "Locali": 3,  "Mq": 106, "Bagni": 1, "Piano": 2, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"3"}
+[
+	{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": null, "Locali": null,  "Mq": 37, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"1"},
+	{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": 4.5, "Locali": 2,  "Mq": 91, "Bagni": 1, "Piano": 1, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"2"},
+	{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": 5, "Locali": 3,  "Mq": 106, "Bagni": 1, "Piano": 2, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"3"}
+]
 """

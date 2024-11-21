@@ -1,2 +1,4 @@
-{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": 9, "Locali": 5,  "Mq": null, "Bagni": 3, "Piano": 0, "Posti auto": 1, "N° Procedura": "71/2018", "Lotto":1}
+[
+{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": 9, "Locali": 5,  "Mq": null, "Bagni": 3, "Piano": 0, "Posti auto": 1, "N° Procedura": "71/2018", "Lotto":1},
 {"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": null, "Locali": null,  "Mq": 2400, "Bagni": null, "Piano": 0, "Posti auto": 0, "N° Procedura": "71/2018", "Lotto":2}
+]

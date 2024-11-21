@@ -1,8 +1,9 @@
-{"Comune":"Lumezzane", "Indirizzo":"Via Colle Aventino 72", "Vani": 16, "Locali": 7,  "Mq": null, "Bagni": 4, "Piano": 0, "Posti auto": 1, "N° Procedura": "542/2021", "Lotto":"1"}
-{"Comune":"Lumezzane", "Indirizzo":"Via Colle Aventino 72", "Vani": 7, "Locali": 4,  "Mq": null, "Bagni": 3, "Piano": 1, "Posti auto": 1, "N° Procedura": "542/2021", "Lotto":"2"}
-{"Comune":"Agnosine", "Indirizzo":"Via G. Marconi 22 / Via Disciplina 11", "Vani": null, "Locali": 6,  "Mq": 580, "Bagni": 3, "Piano": null, "Posti auto": null, "N° Procedura": "542/2021", "Lotto":"5"}
-{"Comune":"Agnosine", "Indirizzo":"Via Disciplina / Via Marconi", "Vani": 5, "Locali": 3,  "Mq": null, "Bagni": 1, "Piano": 1, "Posti auto": null, "N° Procedura": "542/2021", "Lotto":"6"}
-{"Comune":"Agnosine", "Indirizzo":"Via G. Marconi / Via Disciplina", "Vani": null, "Locali": 2,  "Mq": null, "Bagni": 1, "Piano": 1, "Posti auto": null, "N° Procedura": "542/2021", "Lotto":"7"}
-{"Comune":"Agnosine", "Indirizzo":"Via G. Marconi / Via Disciplina", "Vani": null, "Locali": null,  "Mq": 20, "Bagni": null, "Piano": -1, "Posti auto": 1, "N° Procedura": "542/2021", "Lotto":"10"}
+[
+{"Comune":"Lumezzane", "Indirizzo":"Via Colle Aventino 72", "Vani": 16, "Locali": 7,  "Mq": null, "Bagni": 4, "Piano": 0, "Posti auto": 1, "N° Procedura": "542/2021", "Lotto":"1"},
+{"Comune":"Lumezzane", "Indirizzo":"Via Colle Aventino 72", "Vani": 7, "Locali": 4,  "Mq": null, "Bagni": 3, "Piano": 1, "Posti auto": 1, "N° Procedura": "542/2021", "Lotto":"2"},
+{"Comune":"Agnosine", "Indirizzo":"Via G. Marconi 22 / Via Disciplina 11", "Vani": null, "Locali": 6,  "Mq": 580, "Bagni": 3, "Piano": null, "Posti auto": null, "N° Procedura": "542/2021", "Lotto":"5"},
+{"Comune":"Agnosine", "Indirizzo":"Via Disciplina / Via Marconi", "Vani": 5, "Locali": 3,  "Mq": null, "Bagni": 1, "Piano": 1, "Posti auto": null, "N° Procedura": "542/2021", "Lotto":"6"},
+{"Comune":"Agnosine", "Indirizzo":"Via G. Marconi / Via Disciplina", "Vani": null, "Locali": 2,  "Mq": null, "Bagni": 1, "Piano": 1, "Posti auto": null, "N° Procedura": "542/2021", "Lotto":"7"},
+{"Comune":"Agnosine", "Indirizzo":"Via G. Marconi / Via Disciplina", "Vani": null, "Locali": null,  "Mq": 20, "Bagni": null, "Piano": -1, "Posti auto": 1, "N° Procedura": "542/2021", "Lotto":"10"},
 {"Comune":"Agnosine", "Indirizzo":"Via G. Marconi / Via Disciplina", "Vani": null, "Locali": null,  "Mq": 20, "Bagni": null, "Piano": -1, "Posti auto": 1, "N° Procedura": "542/2021", "Lotto":"11"}
-
+]

@@ -10,10 +10,14 @@ for filename in $promptDir/*.txt
 do
 	newFile=$(basename "$filename")
 	echo "elaborating $newFile"
+	file_start_time=$(date +%s.%N)
 	timeout 300 ollama run $model < $filename > $answerDir/$newFile
+	file_end_time=$(date +%s.%N)
+	file_runtime=$( echo "$end_time - $start_time" | bc )
+	echo "The script took $file_runtime seconds to execute." > $answerDir/times/$newFile.txt
 done
 end_time=$(date +%s.%N)
 
 runtime=$( echo "$end_time - $start_time" | bc )
-echo "The script took $runtime seconds to execute." > $answerDir/time.txt
+echo "The script took $runtime seconds to execute." > $answerDir/times/total-time.txt
 echo "END"

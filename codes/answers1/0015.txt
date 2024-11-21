@@ -1,3 +1,4 @@
-{"Comune":"Brescia", "Indirizzo":"Via Vittorio Emanuele II 42", "Vani": 7.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "603/2022", "Lotto":"1"}
+[
+{"Comune":"Brescia", "Indirizzo":"Via Vittorio Emanuele II 42", "Vani": 7.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "603/2022", "Lotto":"1"},
 {"Comune":"Brescia", "Indirizzo":"Via Vittorio Emanuele II 42", "Vani": 8, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "603/2022", "Lotto":"2"}
-
+]
