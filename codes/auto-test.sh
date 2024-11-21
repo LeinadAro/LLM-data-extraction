@@ -13,9 +13,14 @@ do
 	file_start_time=$(date +%s.%N)
 	timeout 300 ollama run $model < $filename > $answerDir/$newFile
 	file_end_time=$(date +%s.%N)
-	file_runtime=$( echo "$end_time - $start_time" | bc )
-	echo "The script took $file_runtime seconds to execute." > $answerDir/times/$newFile.txt
+	file_runtime=$( echo "$file_end_time - $file_start_time" | bc )
+	if [ ! -d "$answerDir/times" ]; then
+	        mkdir $answerDir/times
+	fi
+	echo "The script took $file_runtime seconds to execute." > $answerDir/times/$newFile
+
 done
+
 end_time=$(date +%s.%N)
 
 runtime=$( echo "$end_time - $start_time" | bc )

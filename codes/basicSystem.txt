@@ -17,4 +17,11 @@ Piano terra corrisponde al piano 0.
 Se per "Lotto" non trovi niente usa il valore "LOTTO UNICO". Devi ignorare gli ex Lotti per loro nessun output va genera per loro nessun output va generato. A volte in un "LOTTO UNICO" sono stati convogliati ex lotti, in tal caso devi considerare solo il "LOTTO UNICO".
 Se in un testo trovi più lotti devi dare in output un oggetto JSON per ciascun lotto.
 
-{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" }
+{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" } 
+
+Se ci sono più di un lotto devi racchiudere tutti gli oggetti json con parentesi quadre e ogni oggetto tranne l'ultimo deve essere seguito da una virgola, come nell'esempio seguente
+[
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" },
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" },
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" }
+]

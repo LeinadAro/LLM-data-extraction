@@ -1,2 +1,2 @@
-{"Comune":"Desenzano del Gargda", "Indirizzo":"Via Giosuè Carducci 1", "Vani": 4, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 2, "Posti auto": null, "N° Procedura": "255/2022", "Lotto":"2"}
+{"Comune":"Desenzano del Garda", "Indirizzo":"Via Giosuè Carducci 1", "Vani": 4, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 2, "Posti auto": null, "N° Procedura": "255/2022", "Lotto":"2"}
 

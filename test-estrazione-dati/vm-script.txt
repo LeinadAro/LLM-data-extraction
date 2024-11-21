@@ -1,4 +1,16 @@
+insatllare ollama su ubuntu
 curl -fsSL https://ollama.com/install.sh | sh
 ollama run llama3.1:8b-text-fp16
+
+controllare gpu vm
 nvidia-smi
+
+controllare hardware vm
 htop
+
+installare 7z
+sudo apt update
+sudo apt install p7zip-full
+
+estrarre da archivio 7z
+7za x yourfile.7z
