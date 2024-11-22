@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Immobili>
+<Immobile>
+<Comune>
+	Gussago
+</Comune>
+<Indirizzo>
+	Via San Vincenzo 24
+</Indirizzo>
+<Vani>
+	6
+</Vani>
+<Locali>
+	
+</Locali>
+<Mq>
+	226
+</Mq>
+<Bagni>
+	2
+</Bagni>
+<Piano>
+	0
+</Piano>
+<Posti_auto>
+	0
+</Posti_auto>
+<Num_Procedura>
+	576/2021
+</Num_Procedura>
+<Lotto>
+	LOTTO UNICO
+</Lotto>
+</Immobile>
+</Immobili>

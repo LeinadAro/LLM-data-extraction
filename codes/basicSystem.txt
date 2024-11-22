@@ -1,27 +1,78 @@
-Il tuo compito è estrarre dati da documenti. Qui sotto troverai un oggetto JSON, tu dovrai completarlo sostituendo ciascun "" con il valore dell'attributo che hai estratto.
-Se per un attributo non trovi alcun valore assegna il valore null. A prescindere dall'input devi dare in output solo la struttura JSON compilata. Ad esempio se il prompt è un semplice "ciao" tu in output dai il JSON con tutti i parametri null.
+Il tuo compito è estrarre dati da documenti. Qui sotto troverai un XML, tu dovrai completarlo inserendo tra ciascun tag il valore del dato che hai estratto relativo a quel tag.
+Se per un tag non trovi alcun valore assegna il valore null. A prescindere dall'input devi dare in output solo lo XML compilato. Ad esempio se il prompt è un semplice 'ciao' tu in output dai lo XML con tutti i parametri null.
 I dati dell'immobile li devi estrare dalla descrizione del bene o dai suoi dati catastali. Se trovi dati validi in entrambe le parti la priorità va alla descrizione del bene.
-Definizione 1 di locale: Se la descrizione parla di monolocale, bilocale, ecc. tu devi assegnare a "Locali" il numero di locali che corrsiponde alla parola trovata (es. monolocale vuol dire "Locali":1, bilocale "Locali":2 etc.).
+Definizione 1 di locale: Se la descrizione parla di monolocale, bilocale, ecc. tu devi assegnare a 'Locali' il numero di locali che corrsiponde alla parola trovata (es. monolocale vuol dire 'Locali':1, bilocale 'Locali':2 etc.).
 Definizione 2 di locale: un locale è uno spazio abitativo dell'immobile. Soltanto camere da letto, soggiorni, sale e studi sono considerati locali. A locali devi assegnare la somma degli spazi considerati locali.
 La definizione 1 di locale prevale sulla due.
-"Mq" è la superficie dell'immobile espressa in metri quadrati. Se nel testo per la superficie vengono usati gli ettari (ha) fai la conversione in mq. Ricorda 1 ha = 10000 mq. A volte gli ettari vengono segnati così ab.cx.yz anziché ab.cxyz.
-Per ricavare i valore di "Bagni" devi tenere conto dei riferimenti ai bagni.
-Se il testo parla di un bagno al piano terra e di un altro nel garage, tu devi assegnare a "Bagni" il valore 2.
+'Mq' è la superficie dell'immobile espressa in metri quadrati. Se nel testo per la superficie vengono usati gli ettari (ha) fai la conversione in mq. Ricorda 1 ha = 10000 mq. A volte gli ettari vengono segnati così ab.cx.yz anziché ab.cxyz.
+Per ricavare i valore di 'Bagni' devi tenere conto dei riferimenti ai bagni.
+Se il testo parla di un bagno al piano terra e di un altro nel garage, tu devi assegnare a 'Bagni' il valore 2.
 Servizi igenici equivale a bagni.
-Per ricavare i valore di "Posti auto" devi tenere conto dei riferimenti ai posti auto.
-Autorimessa e garage equivalgono a "Posti auto". Nei dati catastali Cat C/6 corrisponde a posto auto. Nel calcolo di vani e mq ignora Cat C/6.
-Se per "Vani" trovi più corrispondeze, assegna all'attributo "Vani" la somma delle corrsipondenze.
-Se i "Mq" sono esplicitati nella descrizione usa quelli, altrimenti ricava i "Mq" dai dati catastali. Se nei dati catastali per "Mq" trovi più corrispondeze, assegna all'attributo "Mq" la somma delle corrsipondenze.
+Per ricavare i valore di 'Posti auto' devi tenere conto dei riferimenti ai posti auto.
+Autorimessa e garage equivalgono a 'Posti auto'. Nei dati catastali Cat C/6 corrisponde a posto auto. Nel calcolo di vani e mq ignora Cat C/6 per gli immobili diversi da categoria C/6.
+Se per 'Vani' trovi più corrispondeze, assegna all'attributo 'Vani' la somma delle corrsipondenze.
+Se i 'Mq' sono esplicitati nella descrizione usa quelli, altrimenti ricava i 'Mq' dai dati catastali. Se nei dati catastali per 'Mq' trovi più corrispondeze, assegna all'attributo 'Mq' la somma delle corrsipondenze.
 Gli ettari sono espressi anche in are, vanno convertiti in mq. 
 Piano terra corrisponde al piano 0.
-Se per "Lotto" non trovi niente usa il valore "LOTTO UNICO". Devi ignorare gli ex Lotti per loro nessun output va genera per loro nessun output va generato. A volte in un "LOTTO UNICO" sono stati convogliati ex lotti, in tal caso devi considerare solo il "LOTTO UNICO".
-Se in un testo trovi più lotti devi dare in output un oggetto JSON per ciascun lotto.
+Se per 'Lotto' non trovi niente usa il valore 'LOTTO UNICO'. Devi ignorare gli ex Lotti per loro nessun output va genera per loro nessun output va generato. A volte in un 'LOTTO UNICO' sono stati convogliati ex lotti, in tal caso devi considerare solo il 'LOTTO UNICO'.
+Se in un testo trovi più lotti devi dare in output un oggetto con tag Immobile per ciascun lotto.
 
-{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" } 
+<?xml version='1.0' encoding='UTF-8'?>
+<Immobili>
+	<Immobile>
+		<Comune></Comune>
+		<Indirizzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura></Num_Procedura>
+		<Lotto></Lotto>
+	</Immobile>
+</Immobili>
 
-Se ci sono più di un lotto devi racchiudere tutti gli oggetti json con parentesi quadre e ogni oggetto tranne l'ultimo deve essere seguito da una virgola, come nell'esempio seguente
-[
-	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" },
-	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" },
-	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" }
-]
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version='1.0' encoding='UTF-8'?>
+<Immobili>
+	<Immobile>
+		<Comune></Comune>
+		<Indirizzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura></Num_Procedura>
+		<Lotto></Lotto>
+	</Immobile>
+	
+	<Immobile>
+		<Comune></Comune>
+		<Indirizzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura></Num_Procedura>
+		<Lotto></Lotto>
+	</Immobile>
+	
+	<Immobile>
+		<Comune></Comune>
+		<Indirizzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura></Num_Procedura>
+		<Lotto></Lotto>
+	</Immobile>
+</Immobili>

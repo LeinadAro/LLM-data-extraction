@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Immobili>
+<Immobile>
+<Comune>
+	Rodengo-Saiano
+</Comune>
+<Indirizzo>
+	Via A. Vivaldi snc
+</Indirizzo>
+<Vani>
+	5.5
+</Vani>
+<Locali>
+	
+</Locali>
+<Mq>
+	28
+</Mq>
+<Bagni>
+	0
+</Bagni>
+<Piano>
+	1
+</Piano>
+<Posti_auto>
+	1
+</Posti_auto>
+<Num_Procedura>
+	950/2016
+</Num_Procedura>
+<Lotto>
+	1
+</Lotto>
+</Immobile>
+<Immobile>
+<Comune>
+	Rodengo-Saiano
+</Comune>
+<Indirizzo>
+	
+</Indirizzo>
+<Vani>
+	
+</Vani>
+<Locali>
+	
+</Locali>
+<Mq>
+	7768
+</Mq>
+<Bagni>
+	
+</Bagni>
+<Piano>
+	
+</Piano>
+<Posti_auto>
+	
+</Posti_auto>
+<Num_Procedura>
+	950/2016
+</Num_Procedura>
+<Lotto>
+	4
+</Lotto>
+</Immobile>
+</Immobili>

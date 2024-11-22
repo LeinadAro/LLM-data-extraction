@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Immobili>
+<Immobile>
+<Comune>
+	Brescia
+</Comune>
+<Indirizzo>
+	Via Risorgimento 1
+</Indirizzo>
+<Vani>
+	1.5
+</Vani>
+<Locali>
+	1
+</Locali>
+<Mq>
+	
+</Mq>
+<Bagni>
+	
+</Bagni>
+<Piano>
+	3
+</Piano>
+<Posti_auto>
+	
+</Posti_auto>
+<Num_Procedura>
+	376/2023
+</Num_Procedura>
+<Lotto>
+	LOTTO UNICO
+</Lotto>
+</Immobile>
+</Immobili>
