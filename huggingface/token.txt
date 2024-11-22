@@ -1,2 +1,2 @@
 garda6-dan-aca	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
-read-only		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
+read-only	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

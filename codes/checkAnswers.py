@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 
 def countPoints(an, rAn):
     if len(list(an))==len(list(rAn)):
@@ -29,9 +30,10 @@ def check(answers, rightAnswers):
     else:
         return '{:.2f}%'.format(countPoints(answers, rightAnswers))
        
-    
-answersDir=input('insert answersDir: ')
-rightDir=input('insert rightDir: ')
+if __name__ == "__main__":
+    answersDir = sys.argv[1]
+    rightDir = sys.argv[2]
+
 for subdir1, dirs1, files1 in os.walk(answersDir):
     for subdir2, dirs2, files2 in os.walk(rightDir):
         for ans in files1:

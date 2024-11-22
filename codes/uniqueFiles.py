@@ -1,4 +1,5 @@
 import os
+import sys
 import shutil
 import hashlib
 
@@ -11,8 +12,8 @@ def get_file_hash(file_path):
     return hash_sha256.hexdigest()
 
 # Directories
-root_dir = r'C:\Users\Garda6\raw-data'  # Directory to scan for files
-destination_dir = r'C:\Users\Garda6\unique-data'  # Directory where unique files will be copied
+root_dir = sys.argv[1]  # Directory to scan for files
+destination_dir = sys.argv[2]  # Directory where unique files will be copied
 
 # Create destination directory if it doesn't exist
 if not os.path.exists(destination_dir):

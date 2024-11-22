@@ -1,11 +1,12 @@
 import textFilter
 import pdfToTxt
+import sys
 
-pdf=input("Inserire file da ripulire: ")
+pdf=sys.argv[1]
 dirtyTxt='dirty.txt'
-cleanTxt=input("Inserire nome file ripulito: ")
-triggerLine=input("Inserire frase trigger: ")
-pdfToTxt.pdf_to_text(pdf,dirtyTxt)
+cleanTxt=sys.argv[2]
+triggerLine=sys.argv[3]
+pdfToTxt.convert(pdf,dirtyTxt)
 print('file convertito')
 textFilter.filter(dirtyTxt, cleanTxt, triggerLine)
 print('file ripulito')

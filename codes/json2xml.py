@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 
 def json2xml(json_obj, line_padding=""):
@@ -23,13 +24,13 @@ def json2xml(json_obj, line_padding=""):
         
     
     return "%s%s" % (line_padding, json_obj)
+if __name__ == "__main__":
+    jsonInput=sys.argv[1]
+    destination_dir=sys.argv[2]
 
-jsonInput=input('insert dir: ')
-destination_dir='./answers2'
-
-for subdir, dirs, files in os.walk(jsonInput):
-    for file in files:
-        if not os.path.exists(destination_dir):
-            os.makedirs(destination_dir)
-        output = open(destination_dir+'/'+os.path.basename(file).split('.')[0]+'.xml', 'w')
-        output.write(json2xml(json.load(open(subdir+'/'+file, 'r'))))
+    for subdir, dirs, files in os.walk(jsonInput):
+        for file in files:
+            if not os.path.exists(destination_dir):
+                os.makedirs(destination_dir)
+            output = open(destination_dir+'/'+os.path.basename(file).split('.')[0]+'.xml', 'w')
+            output.write(json2xml(json.load(open(subdir+'/'+file, 'r'))))

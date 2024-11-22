@@ -1,4 +1,5 @@
 import os
+import sys
 import pyarrow.parquet as pq
 import numpy as np
 
@@ -31,8 +32,10 @@ def build(system, promptDir, assistantDir):
     pq.write_table(table, 'dataset.parquet')
 
 
-system=input('inserire file system: ')
-promptDir=input('inserire promptDir: ')
-assistantDir=input('inserire assistantDir: ')
-build(system, promptDir, assistantDir)
+
+if __name__ == "__main__":
+    a = sys.argv[1]
+    b = sys.argv[2]
+    c = sys.argv[3]
+    build(a, b, c)
 print('end')

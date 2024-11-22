@@ -1,4 +1,5 @@
 import os
+import sys
 import textFilter
 import pdfToTxt
 
@@ -30,12 +31,12 @@ def dataCleaner(dirty_dir, target_dir, triggerLines):
                 os.remove(dirty)
     os.rmdir(middle_dir)        
     
-    
-dirty_dir = input('Dirty directory: ')
-if os.path.isdir(dirty_dir):
-    target_dir = input('Clean directory: ')
-    triggerLines = input('Trigger line: ')
-    dataCleaner(dirty_dir, target_dir, triggerLines)
-else:
-    print('Dirty dir does not exist')
-print('fine')
+if __name__ == "__main__":   
+    dirty_dir = sys.argv[1]
+    target_dir = sys.argv[2]
+    triggerLines = sys.argv[3]
+    if os.path.isdir(dirty_dir):
+        dataCleaner(dirty_dir, target_dir, triggerLines)
+    else:
+        print('Dirty dir does not exist')
+    print('fine')
