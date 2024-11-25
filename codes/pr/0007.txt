@@ -1,0 +1,2 @@
+{"Comune":"Montichiari", "Indirizzo":"Via Boschetti di Mezzo 31-33", "Vani": null, "Locali": null,  "Mq": 1055, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "097/2017", "Lotto":"1"}
+

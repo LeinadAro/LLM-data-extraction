@@ -1,0 +1,1 @@
+{"Comune":"Brescia", "Indirizzo":"Via Risorgimento 1", "Vani": 1.5, "Locali": 1,  "Mq": null, "Bagni": null, "Piano": 3, "Posti auto": null, "N° Procedura": "376/2023", "Lotto":"LOTTO UNICO"}

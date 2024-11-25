@@ -1,4 +1,5 @@
 import os
+import sys
 import pyarrow.parquet as pq
 import numpy as np
 
@@ -18,7 +19,7 @@ def build(system, promptDir, assistantDir):
             print(file)
             instruction=open(system, 'r', encoding='UTF-8')
             userInput=open(subdir+'/'+file, 'r', encoding='UTF-8')
-            output=open(assistantDir+'/'+file, 'r', encoding='UTF-8')
+            output=open(assistantDir+'/'+os.path.basename(file).split('.')[0]+'.xml', 'r', encoding='UTF-8')
             instructionList.append(instruction.read())
             inputList.append(userInput.read())
             outputList.append(output.read())
@@ -28,7 +29,7 @@ def build(system, promptDir, assistantDir):
                    index=list(range(0, len(instructionList))))
     print(df)
     table = pa.Table.from_pandas(df)
-    pq.write_table(table, 'example.parquet')
+    pq.write_table(table, 'alpacaDataset.parquet')
 
 
 if __name__ == "__main__":

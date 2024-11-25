@@ -1,0 +1,2 @@
+{"Comune":"Brescia", "Indirizzo":"Via Sardegna 12", "Vani": 5, "Locali": null,  "Mq": 25, "Bagni": null, "Piano": 1, "Posti auto": null, "N° Procedura": "213/2022", "Lotto":"LOTTO UNICO"}
+

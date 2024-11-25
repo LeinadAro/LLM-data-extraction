@@ -1,0 +1,2 @@
+{"Comune":"Pavone del Mella", "Indirizzo":"Via Fiume 71", "Vani": null, "Locali": 3,  "Mq": 501.2, "Bagni": 2, "Piano": 0, "Posti auto": 0, "N° Procedura": "195/2022", "Lotto":"LOTTO UNICO"}
+

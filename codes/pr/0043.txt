@@ -1,0 +1,2 @@
+{"Comune":"Vione", "Indirizzo":"Via Roma 6", "Vani": 2.5, "Locali": 1,  "Mq": 49, "Bagni": 1, "Piano": 2, "Posti auto": null, "N° Procedura": "62/2023", "Lotto":"2"}
+

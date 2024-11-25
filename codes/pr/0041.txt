@@ -1,0 +1,2 @@
+{"Comune":"Lonato del Garda", "Indirizzo":"Via S. Anna snc", "Vani": 13.5, "Locali": 9,  "Mq": 285.21, "Bagni": 4, "Piano": 0, "Posti auto": 1, "N° Procedura": "660/2020", "Lotto":"2"}
+

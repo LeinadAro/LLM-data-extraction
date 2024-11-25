@@ -1,0 +1,2 @@
+{"Comune":"Gottolengo", "Indirizzo":"Via Proviciale per Pavone 54", "Vani": 9, "Locali": null,  "Mq": 400, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "534/2018", "Lotto":"1"}
+

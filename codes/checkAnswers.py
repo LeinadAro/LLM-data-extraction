@@ -1,6 +1,6 @@
-import json
 import os
 import sys
+import json
 
 def countPoints(an, rAn):
     if len(list(an))==len(list(rAn)):
@@ -14,27 +14,26 @@ def countPoints(an, rAn):
                 return points
     else: return 0.0
 
-def check(answers, rightAnswers):
-    answers=open(answers, 'r')
-    answers=json.load(answers)
-    rightAnswers=json.load(open(rightAnswers, 'r'))
+def check(answer, rightAnswer):
+    answer=open(answer, 'r')
+    answer=json.load(answer)
+    rightAnswer=json.load(open(rightAnswer, 'r'))
     i=0
-    if isinstance(answers, list):
+    if isinstance(answer, list):
         pt=0
-        for i in range(0, len(answers)):
-            an = answers[i]
-            rAn = rightAnswers[i]
+        for i in range(0, len(answer)):
+            an = answer[i]
+            rAn = rightAnswer[i]
             pt=pt+countPoints(an, rAn)
-        i=i+1
-        return '{:.2f}%'.format(pt/len(answers))
+        return '{:.2f}%'.format(pt/len(answer))
     else:
-        return '{:.2f}%'.format(countPoints(answers, rightAnswers))
+        return '{:.2f}%'.format(countPoints(answer, rightAnswer))
        
 if __name__ == "__main__":
-    answersDir = sys.argv[1]
+    answerDir = sys.argv[1]
     rightDir = sys.argv[2]
 
-for subdir1, dirs1, files1 in os.walk(answersDir):
+for subdir1, dirs1, files1 in os.walk(answerDir):
     for subdir2, dirs2, files2 in os.walk(rightDir):
         for ans in files1:
             for rightAns in files2:

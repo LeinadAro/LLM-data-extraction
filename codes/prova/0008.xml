@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Immobili>
+<Immobile>
+<Comune>
+	Sarezzo
+</Comune>
+<Indirizzo>
+	Via San Martino 36/38/44
+</Indirizzo>
+<Vani>
+	
+</Vani>
+<Locali>
+	2
+</Locali>
+<Mq>
+	173
+</Mq>
+<Bagni>
+	0
+</Bagni>
+<Piano>
+	1
+</Piano>
+<Posti_auto>
+	0
+</Posti_auto>
+<Num_Procedura>
+	434/2016
+</Num_Procedura>
+<Lotto>
+	2
+</Lotto>
+</Immobile>
+</Immobili>
