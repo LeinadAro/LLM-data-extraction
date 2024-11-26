@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirzzo></Indirizzo>
+		<Vani>2,5</Vani>
+		<Locali>null</Locali>
+		<Mq>49</Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+</Immobili>
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune></Comune>
+		<Indirizzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura></NumProcedura>
+		<Lotto></Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune></Comune>
+		<Indirizzo></Indirzzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura></NumProcedura>
+		<Lotto></Lotto>
+	</Immobile>
+
+	<Imobile>
+		<Comune></Comune>
+		<Indirizzo></Indirzzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura></NumProcedura>
+		<Lotto></Lotto>
+	</Immobile>
+
+</Immobili> 
+
+
