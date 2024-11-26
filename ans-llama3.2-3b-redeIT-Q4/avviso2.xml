@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Angolo Terme</Comune>
+		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura>148/2018</Num-Procedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+	
+	<Immobile>
+		<Comune>Angolo Terme</Comune>
+		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>2400</Mq>
+		<Bagni></Bagni>
+		<Piano>1</Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura>148/2018</Num-Procedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+	
+	<Immobile>
+		<Comune>Angolo Terme</Comune>
+		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>1060</Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura>148/2018</Num-Procedura>
+		<Lotto>3</Lotto>
+	</Immobile>
+</Immobili>
+

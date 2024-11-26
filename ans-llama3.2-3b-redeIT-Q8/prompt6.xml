@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani>2,5</Vani>
+		<Locali></Locali>
+		<Mq>49</Mq>
+		<Bagni>1</Bagni>
+		<Piano>0</Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura>62/2023</Num-Procedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+	
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>0</Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura>62/2023</Num-Procedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+	
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>0</Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<Posti_auto></Posti_auto>
+		<Num_Procedura>62/2023</Num-Procedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+</Immobili>
+
