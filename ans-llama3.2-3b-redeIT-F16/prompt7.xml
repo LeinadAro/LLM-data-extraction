@@ -1,44 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Immobili>
 	<Immobile>
-		<Comune>Angolo Terme</Comune>
-		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Comune>Montichiari</Comune>
+		<Indirizzo>Via Santellone 45</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
-		<Mq>37</Mq>
+		<Mq>9</Mq>
 		<Bagni>1</Bagni>
 		<Piano>0</Piano>
 		<PostiAuto></PostiAuto>
-		<NumProcedura>589/2021</NumProcedura>
+		<NumProcedura>71/2018</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
 	<Immobile>
-		<Comune>Angolo Terme</Comune>
-		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Comune>Montichiari</Comune>
+		<Indirizzo>Via Santellone 45</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
-		<Mq>91</Mq>
+		<Mq>43</Mq>
 		<Bagni>1</Bagni>
-		<Piano>0</Piano>
+		<Piano>1</Piano>
 		<PostiAuto></PostiAuto>
-		<NumProcedura>589/2021</NumProcedura>
+		<NumProcedura>71/2018</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 	
 	<Immobile>
-		<Comune>Angolo Terme</Comune>
-		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Comune>Montichiari</Comune>
+		<Indirizzo>Via Santellone 45</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
 		<Mq>106</Mq>
 		<Bagni>1</Bagni>
-		<Piano>0</Piano>
+		<Piano>2</Piano>
 		<PostiAuto></PostiAuto>
-		<NumProcedura>589/2021</NumProcedura>
+		<NumProcedura>71/2018</NumProcedura>
 		<Lotto>3</Lotto>
 	</Immobile>
 </Immobili>
- 
-Il Notaio Delegato dr. GIANFRANCO de VANNA
+
 

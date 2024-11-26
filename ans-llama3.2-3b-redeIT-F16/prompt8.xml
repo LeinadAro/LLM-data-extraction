@@ -2,7 +2,7 @@
 <Immobili>
 	<Immobile>
 		<Comune>Collio Valtrompia</Comune>
-		<Indirizzo>Via Ondola 30/ Via Crocette 30</Indirizzo>
+		<Indirizzo>Via Ondola 30/Via Crocette 30</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
 		<Mq>89,00</Mq>
@@ -15,7 +15,7 @@
 	
 	<Immobile>
 		<Comune>Collio Valtrompia</Comune>
-		<Indirizzo>Via Ondola 30/ Via Crocette 30</Indirizzo>
+		<Indirizzo>Via Ondola 30/Via Crocette 30</Indirizzo>
 		<Vani>4,5</Vani>
 		<Locali>2</Locali>
 		<Mq>85,00</Mq>
@@ -29,7 +29,7 @@
 	<Immobile>
 	
 	<Comune>Collio Valtrompia</Comune>
-	<Indirizzo>Via Ondola 30/ Via Crocette 30</Indirizzo>
+	<Indirizzo>Via Ondola 30/Via Crocette 30</Indirizzo>
 	Vani>4,5</Vani>
 	<Locali>2</Locali>
 	Mq>85,00</Mq>
@@ -40,11 +40,11 @@
 	Lotto>3</Lotto>
 </Immobile>
 	
-	<Immobile>
+<Immobile>
 	
-	<Comune>Collio Valtrompia</Comune>
-	<Indirizzo>Via San Colombano 15/ Via Bondegno 15</Indirizzo>
-	Vani>2,5</Vani>
+<Comune>Collio Valtrompia</Comune>
+<Indirizzo>Via San Colombano 15/Via Bondegno 15</Indirizzo>
+<Vani>2,5</Vani>
 	<Locali>1</Locali>
 	Mq>52,00</Mq>
 	Bagni>1</Bagni>
@@ -54,11 +54,11 @@
 	Lotto>4</Lotto>
 </Immobile>
 	
-	<Immobile>
+<Immobile>
 	
-	<Comune>Collio Valtrompia</Comune>
-	<Indirizzo>Via Ondola NCT ora Via Crocette NCT</Indirizzo>
-	Vani></Vani>
+<Comune>Collio Valtrompia</Comune>
+<Indirizzo>Via Ondola NCT/Via Crocette NCT</Indirizzo>
+<Vani></Vani>
 	<Locali></Locali>
 	Mq>0,04.60</Mq>
 	Bagni>1</Bagni>

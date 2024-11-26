@@ -8,8 +8,8 @@
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2018</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2018</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
@@ -21,8 +21,8 @@
 		<Mq>2400</Mq>
 		<Bagni></Bagni>
 		<Piano>1</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2018</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2018</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 	
@@ -34,8 +34,8 @@
 		<Mq>1060</Mq>
 		<Bagni></Bagni>
 		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2018</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2018</NumProcedura>
 		<Lotto>3</Lotto>
 	</Immobile>
 </Immobili>

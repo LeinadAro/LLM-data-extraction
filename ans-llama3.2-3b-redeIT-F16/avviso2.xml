@@ -5,11 +5,11 @@
 		<Indirizzo>Via Regina Elena 95</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
-		<Mq>37</Mq>
-		<Bagni>1</Bagni>
+		<Mq></Mq>
+		<Bagni></Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>589/2021</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
@@ -18,11 +18,11 @@
 		<Indirizzo>Via Regina Elena 95</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
-		<Mq>91</Mq>
-		<Bagni>1</Bagni>
-		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>589/2021</Num-Procedura>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>1</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 	
@@ -31,14 +31,13 @@
 		<Indirizzo>Via Regina Elena 95</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
-		<Mq>106</Mq>
-		<Bagni>1</Bagnio>
-		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>589/2021</Num-Procedura>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>3</Lotto>
 	</Immobile>
 </Immobili>
- 
-**Nota:** La descrizione dell'immobile è stata modificata per riflettere la corretta classificazione come immobili da abitazione.
+
 

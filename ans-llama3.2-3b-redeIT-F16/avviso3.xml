@@ -3,13 +3,13 @@
 	<Immobile>
 		<Comune>Angolo Terme</Comune>
 		<Indirizzo>Via Regina Elena 95</Indirizzo>
-		<Vani></Vani>
+		<Vani>3</Vani>
 		<Locali></Locali>
-		<Mq></Mq>
-		<Bagni></Bagni>
+		<Mq>37</Mq>
+		<Bagni>1</Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>589/2021</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
@@ -18,11 +18,11 @@
 		<Indirizzo>Via Regina Elena 95</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
-		<Mq>2400</Mq>
-		<Bagni></Bagni>
-		<Piano>1</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num-Procedura>
+		<Mq>91</Mq>
+		<Bagni>1</Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>589/2021</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 	
@@ -31,12 +31,14 @@
 		<Indirizzo>Via Regina Elena 95</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
-		<Mq>1060</Mq>
-		<Bagni></Bagni>
-		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num-Procedura>
+		<Mq>106</Mq>
+		<Bagni>1</Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>589/2021</NumProcedura>
 		<Lotto>3</Lotto>
 	</Immobile>
 </Immobili>
+ 
+Nota: l'immobile è un garage interrato.
 

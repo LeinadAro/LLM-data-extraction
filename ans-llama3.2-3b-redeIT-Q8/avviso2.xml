@@ -8,8 +8,8 @@
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
@@ -21,8 +21,8 @@
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano>1</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 	
@@ -34,9 +34,10 @@
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>3</Lotto>
 	</Immobile>
 </Immobili>
+
 

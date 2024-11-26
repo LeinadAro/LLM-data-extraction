@@ -3,40 +3,56 @@
 	<Immobile>
 		<Comune>Angolo Terme</Comune>
 		<Indirizzo>Via Regina Elena 95</Indirizzo>
-		<Vani>17</Vani>
-		<Locali></Locali>
-		<Mq></Mq>
-		<Bagni>4</Bagni>
+		<Vani>2,5</Vani>
+		<Locali>1</Locali>
+		<Mq>49</Mq>
+		<Bagni>1</Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>62/2023</Num-Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+</Immobili>
+ 
+<Immobile>
+	<Comune>Angolo Terme</Comune>
+	<Indirizzo>Via Regina Elena 95</Indirizzo>
+	<Vani></Vani>
+	<Locali></Locali>
+	<Mq>2400</Mq>
+	<Bagni>1</Bagni>
+	<Piano>2</Piano>
+	<PostiAuto></PostiAuto>
+	<NumProcedura>62/2023</NumProcedura>
+	<Lotto>3</Lotto>
+</Immobile>
+ 
+<Immobile>
+	<Comune>Angolo Terme</Comune>
+	<Indirizzo>Via Regina Elena 95</Indirizzo>
+	<Vani></Vani>
+	<Locali></Locali>
+	<Mq>2400</Mq>
+	<Bagni>1</Bagni>
+	<Piano>2</Piano>
+	<PostiAuto></PostiAuto>
+	<NumProcedura>62/2023</NumProcedura>
+	<Lotto>3</Lotto>
+</Immobile>
+ 
+<Immobili>
+	<Immobile>
+		<Comune>Coccaglio</Comune>
+		<Indirizzo>Via Santellone 45</Indirizzo>
+		<Vani>9</Vani>
+		<Locali>5</Locali>
+		<Mq></Mq>
+		<Bagni>1</Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
-	<Immobile>
-		<Comune>Angolo Terme</Comune>
-		<Indirizzo>Via Regina Elena 95</Indirizzo>
-		<Vani></Vani>
-		<Locali></Locali>
-		<Mq>2400</Mq>
-		<Bagni></Bagni>
-		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>62/2023</Num-Procedura>
-		<Lotto>2</Lotto>
-	</Immobile>
-	
-	<Immobile>
-		<Comune>Angolo Terme</Comune>
-		<Indirizzo>Via Regina Elena 95</Indirizzo>
-		<Vani>5</Vani>
-		<Locali></Locali>
-		<Mq></Mq>
-		<Bagni>1</Bagni>
-		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>62/2023</Num-Procedura>
-		<Lotto>3</Lotto>
-	</Immobile>
 </Immobili>
 
