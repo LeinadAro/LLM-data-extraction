@@ -1,2 +1,0 @@
-{"Comune":"Villa Carcina", "Indirizzo":"Via Adige 14/A", "Vani": 5.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 1, "Posti auto": 1, "N° Procedura": "327/2023", "Lotto":"LOTTO UNICO"}
-

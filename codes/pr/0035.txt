@@ -1,2 +1,0 @@
-{"Comune":"Ponte di Legno", "Indirizzo":"Via Case Sparse di Valsozzine", "Vani": null, "Locali": null,  "Mq": 857, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura": "60/2023", "Lotto":"LOTTO UNICO"}
-

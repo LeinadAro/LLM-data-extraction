@@ -1,2 +1,0 @@
-{"Comune":"Edolo", "Indirizzo":"Via Porro 80", "Vani": null, "Locali": null,  "Mq": 104, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "707/2018", "Lotto":"1"}
-

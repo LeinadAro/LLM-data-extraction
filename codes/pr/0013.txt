@@ -1,2 +1,0 @@
-{"Comune":"Salo'", "Indirizzo":"Via Trieste 5", "Vani": 16.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": 1, "N° Procedura": "28/2023", "Lotto":"LOTTO UNICO"}
-

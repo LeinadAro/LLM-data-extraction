@@ -1,2 +1,0 @@
-{"Comune":"Lodrino", "Indirizzo":"Via Kennedy 79", "Vani": 2, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "545/2022", "Lotto":"LOTTO UNICO"}
-

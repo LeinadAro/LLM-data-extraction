@@ -1,2 +1,0 @@
-{"Comune":"Castel Mella", "Indirizzo":"Viale Caduti del Lavoro 61", "Vani": 5.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 2, "Posti auto": 1, "N° Procedura": "399/2023", "Lotto":"LOTTO UNICO"}
-

@@ -1,2 +1,0 @@
-{"Comune":"Orzinuovi", "Indirizzo":"Via Pietro Bembo 19", "Vani": null, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": 0, "N° Procedura": "263/2023", "Lotto":"LOTTO UNICO"}
-

@@ -1,2 +1,0 @@
-{"Comune":"Corteno Golgi", "Indirizzo":"Via Camillo Golgi 136", "Vani": null, "Locali": 2,  "Mq": 153, "Bagni": null, "Piano": 0, "Posti auto": 1, "N° Procedura": "939/2018", "Lotto":"LOTTO UNICO"}
-

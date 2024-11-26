@@ -1,1 +1,0 @@
-{"Comune":"Polaveno", "Indirizzo":null, "Vani": 7.5, "Locali": null,  "Mq": 14196, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura": "1251/2017", "Lotto":"2"}

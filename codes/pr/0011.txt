@@ -1,2 +1,0 @@
-{"Comune":"Fiesse", "Indirizzo":"Via Domeneghini 1/F, Via Zanardelli 9", "Vani": 7.5, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "729/2019", "Lotto":"4"}
-

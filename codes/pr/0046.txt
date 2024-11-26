@@ -1,2 +1,0 @@
-{"Comune":"Verolanuova", "Indirizzo":"Via Kennedy 45", "Vani": null, "Locali": null,  "Mq": 9340, "Bagni": null, "Piano": 0, "Posti auto":null, "N° Procedura": "273/2019", "Lotto":"LOTTO UNICO"}
-

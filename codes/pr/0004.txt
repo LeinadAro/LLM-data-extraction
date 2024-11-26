@@ -1,2 +1,0 @@
-{"Comune":"Provaglio d'Iseo", "Indirizzo":null, "Vani": null, "Locali": null,  "Mq": 1990, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura": "852/2018", "Lotto":"9"}
-

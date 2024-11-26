@@ -1,2 +1,0 @@
-{"Comune":"Palazzolo sull'Oglio", "Indirizzo":"Via Gorini 25", "Vani": 2.5, "Locali": null,  "Mq": null, "Bagni": 1, "Piano": 2, "Posti auto": null, "N° Procedura": "443/2022", "Lotto":"LOTTO UNICO"}
-
