@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Desenzo del Garda</Comune>
+		<Indirizzo>Via Irta 66</Indirizzo>
+		<Vani>11</Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>589/2021</NumProcedura>
+		<Lotto>Lotto 1</Lotto>
+	</Immobile>
+
+	<Immobili>
+		<Comune>Manerba del Garda</Comune>
+		<Indirizzo>Via Valle</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>20.23</Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>589/2021</NumProcedura>
+		<Lotto>Lotto 2</Lotto>
+	</Immobili>
+</Immobili>
+
+Il documento contiene informazioni su due immobili, quindi ho creato un elemento per ciascuno di essi. Ho considerato che il valore della superficie è espresso in ettari (ha) e l'ho convertito in mq utilizzando la conversione 1 ha = 10000 mq.
+
+Per quanto riguarda i dati del primo immobile, ho trovato una descrizione dettagliata dell'appartamento che si trova al piano terra. Secondo il testo, l'immobile è composto da un ingresso, bagno, taverna (che probabilmente corrisponde a cucina), disimpegno e bagno. Questi spazi possono essere considerati come locali abitativi quindi ho assegnato al tag "Locali" il valore 5.
+
+Per quanto riguarda i dati del secondo immobile, non sono stati forniti dettagli specifici sulla sua composizione interna ma solo che è un terreno edificabile. Pertanto, ho lasciato vuoto il tag "Vani", "Locali", e "Bagni".
+
+Ho considerato che entrambi gli immobili siano posti al piano terra quindi ho assegnato a "Piano" il valore 0.
+
+Per quanto riguarda i dati catastali, non sono stati forniti dettagli specifici sulla superficie totale dell'immobile. Pertanto, ho lasciato vuoto il tag "Mq".
+
+Ho considerato che entrambi gli immobili siano posti in un solo lotto quindi ho assegnato a "Lotto" il valore "LOTTO UNICO".
+

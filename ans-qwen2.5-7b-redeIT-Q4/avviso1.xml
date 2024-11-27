@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Brescia</Comune>
+		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Vani>37</Vani>
+		<Locali>null</Locali>
+		<Mq></Mq>
+		<Bagni>1</Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Brescia</Comune>
+		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Vani>4.5</Vani>
+		<Locali>null</Locali>
+		<Mq></Mq>
+		<Bagni>1</Bagni>
+		<Piano>1</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Brescia</Comune>
+		<Indirizzo>Via Regina Elena 95</Indirizzo>
+		<Vani>5.0</Vani>
+		<Locali>null</Locali>
+		<Mq></Mq>
+		<Bagni>1</Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>3</Lotto>
+	</Immobile>
+
+</Immobili>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani>2,5</Vani>
+		<Locali>1</Locali>
+		<Mq>49</Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+</Immobili>
+
+Il tag <Piano> non è stato compilato correttamente. Il valore del piano deve essere il numero intero che rappresenta la posizione dell'immobile rispetto al terreno, ad esempio "0" per pianoterra o "-1" per seminterrato.
+Per quanto riguarda i valori numerici nei tag <Mq> e <Vani>, se non sono esplicitati nel testo devi ricavarli dai dati catastali. Se nei dati catastali per un immobile trovi più corrispondenze, assegna all'attributo "Mq" la somma delle superficie e a "Vani" la somma dei vani.
+Per quanto riguarda il tag <Bagni>, se non è esplicitato nel testo devi ricavarlo dai dati catastali. Se nei dati catastali per un immobile trovi più corrispondenze, assegna al tag "Bagni" la somma dei bagni.
+Per quanto riguarda il tag <PostiAuto>, se non è esplicitato nel testo devi ricavarlo dai dati catastali. Se nei dati catastali per un immobile trovi più corrispondenze, assegna al tag "PostiAuto" la somma dei posti auto.
+Per quanto riguarda il tag <Locali>, se non è esplicitato nel testo devi ricavarlo dai dati catastali. Se nei dati catastali per un immobile trovi più corrispondenze, assegna al tag "Locali" la somma degli spazi considerati locali.
+Per quanto riguarda il tag <Lotto>, se non è esplicitato nel testo devi ricavarlo dai dati catastali. Se nei dati catastali per un immobile trovi più corrispondenze, assegna al tag "Lotto" la somma dei lotti.
+

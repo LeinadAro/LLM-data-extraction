@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Montichiari</Comune>
+		<Indirizzo>Via Santellone 45</Indirizzo>
+		<Vani>9</Vani>
+		<Locali>6</Locali>
+		<Mq></Mq>
+		<Bagni>3</Bagni>
+		<Piano>0</Piano>
+		<PostiAuto>1</PostiAuto>
+		<NumProcedura>71/2018</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Montichiari</Comune>
+		<Indirizzo>Via Santellone 45</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>2400</Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>71/2018</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+</Immobili>
+
+
+

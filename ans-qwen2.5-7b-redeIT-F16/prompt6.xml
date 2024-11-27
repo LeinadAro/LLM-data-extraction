@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani>2,5</Vani>
+		<Locali>1</Locali>
+		<Mq>49</Mq>
+		<Bagni>0</Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>LOTTO 2</Lotto>
+	</Immobile>
+</Immobili>
+
+Il documento specifica che l'immobile è sito al secondo piano di un piccolo edificio costituito in condominio, ma non fornisce informazioni sul numero di locali. Tuttavia, poiché si tratta di un monolocale, possiamo assegnare il valore 1 a "Locali".
+
