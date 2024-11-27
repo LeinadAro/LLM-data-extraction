@@ -1,0 +1,26 @@
+TRIBUNALE DI BRESCIA UFFICIO ESECUZIONI IMMOBILIARI PROCEDURA ESECUTIVA R.G.E. 62/2019 Giudice dell’Esecuzione: Dott.ssa Maria Luisa Cattaneo Professionista Delegato: Avvocato Silvia Colombini Custode Giudiziario: Avvocato Silvia Colombini
+AVVISO DI VENDITA SENZA INCANTO IN MODALITÀ ASINCRONA TELEMATICA NELLA PROCEDURA ESECUTIVA 62/2019 RGE I° ESPERIMENTO DI VENDITA 
+BENI OGGETTO DELLA VENDITA LOTTO UNICO Piena proprietà per la quota di 1/2 in separazione dei beni in capo a ciascuno dei due esecutati e così per l’intera piena proprietà (1/1) Unità immobiliari in Comune di Brescia, Via San Martino n. 5 Trattasi di unità immobiliare ad uso residenziale abitativo, posta al piano rialzato di un edificio condominiale “in linea”. L’appartamento è costituito da : soggiorno, cucina, ampio disimpegno/ingresso, ripostiglio, bagno, tre camere. L’appartamento dispone di due balconi: un primo balcone è posto sul lato Nord e su di esso si affaccia una camera ed il soggiorno; esso si prospetta e accede alla piccola corte esclusiva posta in lato Nord, di cui pure l’appartamento dispone; il secondo balcone è posto a ovest e su di esso si affacciano un’altra camera e il bagno. L’appartamento dispone al piano seminterrato di una piccola cantina e di un’autorimessa alle quali si può accedere direttamente dal vano scala condominiale. Anche l’accesso pedonale è su via San Martino e si esplica attraverso la corte comune condominiale, fino a giungere all’edificio. Le unità immobiliari sono così descritte al Catasto dei Fabbricati del Comune di Brescia: • Sez. Urb. NCT, Foglio 1, particella 5, subalterno 2, via San Martino piano S1- T, Rendita Euro 451,90, cat. A/3, classe 4, consistenza 7 vani, superficie totale 125 mq; (appartamento al piano rialzato con piccola corte esclusiva pertinenziale e cantina al piano seminterrato) • Sez. Urb. NCT, Foglio 1, Particella 5, subalterno 3, via San Martino piano S1- T, rendita Euro 29,54, cat. C/6, Classe 2, consistenza 22 mq, superficie totale 22 mq. (autorimessa al piano seminterrato) CONFINI: - dell’abitazione e della corte esclusiva Ovest: cortile comune all’intero condominio Sud: cortile comune all’intero condominio Est: vano scala comune e A.U.I.
+della cantina: Nord: proprietà di terzi; Ovest: cortile comune Sud: proprietà di terzi Est: corridoio comune
+dell’autorimessa : Nord: corridoio comune Ovest: corridoio comune Est: cortile comune Sud: A.U.I.
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Brescia</Comune>
+		<Indirizzo>Via San Martino 5</Indirizzo>
+		<Vani>7</Vani>
+		<Locali></Locali>
+		<Mq>125</Mq>
+		<Bagni>1</Bagni>
+		<Piano>0</Piano>
+		<PostiAuto>2</PostiAuto>
+		<NumProcedura>62/2019</NumProcedura>
+		<Lotto>LOTTO UNICO</Lotto>
+	</Immobile>
+</Immobili>
+
+In output devi dare solo il file XML senza alcuna nota.
+
+

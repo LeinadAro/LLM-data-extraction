@@ -1,0 +1,68 @@
+ASSOCIAZIONE NOTARILE PER LE PROCEDURE ESECUTIVE Via S. Zeno, 99/a 25124 - BRESCIA Tel. 030 22.28.49 - FAX 030 22.42.37 TRIBUNALE ORDINARIO DI BRESCIA DIVISIONE GIUDIZIALE ENDOESECUTIVA rg n.11593/2021 (236-23) mb AVVISO DI VENDITA TELEMATICA ASINCRONA II VENDITA SENZA INCANTO Gestore della vendita: Edicom Finance S.r.l. Portale del Gestore: www.garavirtuale.it
+DESCRIZIONE DEL BENE Piena proprietà. in Comune di CASTREZZATO - via Giovanni Pascoli n.10. Trattasi, ex perizia, di un'abitazione su due piani fuori terra costituita al piano terra da un appartamento, due autorimesse e vari accessori ed al piano primo da due appartamenti e una terrazza, il tutto censito al:
+Catasto Fabbricati - Sez. NCT - Fg. 5 mapp. 358 sub. 9 P. T, cat. A/3 - cl. 3 - vani 8 - R.C. Euro 433,82; mapp. 358 sub. 10 P. T, cat. C/6 - cl. 2 - mq. 20 - R.C. Euro 32,02; mapp. 358 sub. 11 P. T, cat. C/6 - cl. 2 - mq. 33 - R.C. Euro 52,83; mapp. 358 sub. 12 P. 1, cat. A/3 - cl. 3 - vani 5,5 - R.C. Euro 298,25; mapp. 358 sub. 13 P. 1, cat. A/3 - cl. 3 - vani 3,5 - R.C. Euro 189,80; con le proporzionali quote delle parti comuni ai sensi di legge. Il tutto così come pervenuto in forza di: - provvedimento di acquisizione gratuita al patrimonio dello stato del 27/09/23 dell'Agenzia del Demanio D.R. Lombardia n.2275/2023 rep., trascritto a Brescia il 20/10/23 ai n.ri 46402/32059; - successione legittima, giusta accettazione con beneficio di inventario con atto del 01/10/98 della Pretura Circondariale di Brescia rep. 2125/1998, trascritta il 10/10/98 ai n.ri 32854/21588; - successione legittima - dichiarazione di successione presentata a Chiari il 17/08/92 al n° 52 vol. 362 e trascritta a Brescia il 18/04/94 ai n.ri 10142/7322. L'immobile è stato costruito ante 01/09/67 ed è interessato dai titoli autorizzativi indicati a pag. 16 e 17 della perizia. Il perito ha rilevato delle difformità urbanistiche come specificato da pag. 17 a pag. 20 della perizia, ove è stata prudenzialmente quantificata anche la spese per il ripristino. Il perito dichiara che le planimetrie catastali non corrispondono esattamente allo stato di fatto per le motivazioni indicate a pag. 23 della perizia. Nella relazione notarile si segnala la trascrizione della domanda giudiziale di divisione del 18/10/21 del Tribunale di Brescia rep. 11593, trascritta a Brescia il 22/11/21 ai n.ri 55226/36820 (detta trascrizione non verrà cancellata con il decreto di trasferimento). Gli immobili si trovano disabitati.iclassuserclass
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Castrezzato</Comune>
+		<Indirizzo>Via Giovanni Pascoli 10</Indirizzo>
+		<Vani>17</Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto>2</PostiAuto>
+		<NumProcedura>11593/2021</NumProcedura>
+		<Lotto>LOTTO UNICO</Lotto>
+	</Immobile>
+</Immobili>
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Castrezzato</Comune>
+		<Indirizzo>Via Giovanni Pascoli 10</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>2400</Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>11593/2021</NumProcedura>
+		<Lotto>LOTTO UNICO</Lotto>
+	</Immobile>
+	
+	<Immobile>
+		<Comune>Castrezzato</Comune>
+		<Indirizzo>Via Giovanni Pascoli 10</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>11593/2021</NumProcedura>
+		<Lotto>LOTTO UNICO</Lotto>
+	</Immobile>
+	
+	<Immobile>
+		<Comune>Castrezzato</Comune>
+		<Indirizzo>Via Giovanni Pascoli 10</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>11593/2021</NumProcedura>
+		<Lotto>LOTTO UNICO</Lotto>
+	</Immobile>
+</Immobili>
+
+In output devi dare solo il file XML senza alcuna nota.
+
+
