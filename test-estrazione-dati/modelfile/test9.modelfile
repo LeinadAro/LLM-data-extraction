@@ -76,6 +76,7 @@ Piano terra corrisponde al piano 0.
 Se per "Lotto" non trovi niente usa il valore "LOTTO UNICO". Devi ignorare gli ex Lotti per loro nessun output va genera per loro nessun output va generato. A volte in un "LOTTO UNICO" sono stati convogliati ex lotti, in tal caso devi considerare solo il "LOTTO UNICO".
 Se in un testo trovi più lotti devi dare in output un oggetto con tag Immobile per ciascun lotto.
 Fai attenzione ai tag, scrivili correttamente così come sono. La stringa nei tag di chiusura deve essere uguale a quella nel tag di apertura ad esempio <Num_Procedura></Num_Procedura>.
+In output devi dare solo il file XML senza alcuna nota.
 
 <?xml version="1.0" encoding="UTF-8"?>
 <Immobili>
@@ -136,6 +137,8 @@ Il seguente XML è un esempio nel caso in cui ci siano più lotti.
 		<Lotto></Lotto>
 	</Immobile>
 </Immobili>
+
+In output devi dare solo il file XML senza alcuna nota.
 """
 
 MESSAGE user """
