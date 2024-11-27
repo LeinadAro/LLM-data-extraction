@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Denzanzo del Garda</Comune>
+		<Indirizzo>Via Irt 66</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>11</Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>N/A</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Manerba del Garda</Comune>
+		<Indirizzo>Via Valle 250</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>20.20</Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>N/A</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+
+</Immobili>
+
+

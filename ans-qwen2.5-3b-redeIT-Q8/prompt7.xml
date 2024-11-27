@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Montichiari</Comune>
+		<Indirizzo>Via Santellone 45</Indirizio>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>71/2018</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Montichiari</Comune>
+		<Indirizzo>Via Santellone 45</Indirizio>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>0</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>71/2018</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune></Comune>
+		<Indirizzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura></NumProcedura>
+		<Lotto></Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune></Comune>
+		<Indirizzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura></NumProcedura>
+		<Lotto></Lotto>
+	</Immobile>
+
+</Immobili> 
+
+

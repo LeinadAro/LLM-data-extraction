@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Brescia</Comune>
+		<Indirizzo>Via TINTORETTO 32</Indirzzo></Indirizzo>
+		<Vani>45</Vani>
+		<Locali>17</Locali>
+		<Mq>906.85</Mq>
+		<Bagni>1</Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>473/2024</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Brescia</Comune>
+		<Indirizzo>Via TINTORETTO 32</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>50.41</Mq>
+		<Bagni>1</Bagni>
+		<Piano>1</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>473/2024</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Brescia</Comune>
+		<Indirizzo>Via TINTORETTO 32</Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>106.48</Mq>
+		<Bagni>1</Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>473/2024</NumProcedura>
+		<Lotto>3</Lotto>
+	</Immobile>
+
+</Immobili>
+
+

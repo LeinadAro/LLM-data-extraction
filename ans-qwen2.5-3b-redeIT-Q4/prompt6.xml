@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>1</Locali>
+		<Mq>49</Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+</Immobili>
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirzzo></Indirizzo>
+		<Vani>0</Vani>
+		<Locali>1</Locali>
+		<Mq>49</Mq>
+		<Bagni>0</Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>0</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>0</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>2</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>0</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>0</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>3</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>4</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>5</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>6</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>7</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>8</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>9</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>10</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>25</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>50</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>75</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>100</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>250</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>500</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>750</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>1000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>2500</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>5000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>7500</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>10000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>25000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>50000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>75000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProardo>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>100000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>250000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>500000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>750000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>1000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>2500000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>5000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>7500000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>10000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>25000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>50000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>75000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>100000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>250000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>500000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>750000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>1000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>2500000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>5000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>7500000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>10000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>25000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>50000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>75000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>100000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>250000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>500000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>750000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>1000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>2500000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>5000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>7500000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>10000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>25000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>50000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>75000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>100000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>250000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>500000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>750000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 6</Indirizzo>
+		<Vani></Vani>
+		<Locali>1000000000000000</Locali>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano></Piano>
+		<PostiAuto></PostiAauto>
+		<NumProcedura>62/2023</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
+Il seguente XML è un esempio nel caso in cui ci siano più lotti.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Vione</Comune>
+		<Indirizzo>Via Roma 

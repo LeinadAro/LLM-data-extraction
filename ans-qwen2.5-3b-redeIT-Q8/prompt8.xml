@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+	<Immobile>
+		<Comune>Collio Valtrompia</Comune>
+		<Indirizzo>Via Ondola 30</Indirzzo></Indirizzo>
+		<Vani></Vani>
+		<Locali></Locali>
+		<Mq>89.00</Mq>
+		<Bagni></Bagni>
+		<Piano>1</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
+		<Lotto>1</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Collio Valtrompia</Comune>
+		<Indirizzo>Via Ondola 30</Indirizzo>
+		<Vani></Vani>
+		<Locali></Localizi>
+		<Mq>85.00</Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
+		<Lotto>2</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Collio Valtrompia</Comune>
+		<Indirizzo>Via Ondola 30</Indirizzo>
+		<Vani></Vani>
+		<Locali></Localizi>
+		<Mq>85.00</Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
+		<Lotto>3</Lotto>
+	</Immobile>
+
+	<Immobile>
+		<Comune>Collio Valtrompia</Comune>
+		<Indirizzo>Via San Colombano 15</Indirizzo>
+		<Vani></Vani>
+		<Locali></Localizi>
+		<Mq>52.00</Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
+		<Lotto>4</Lotto>
+	</Immobile>
+
+	<Imobile>
+		<Comune>Collio Valtrompia</Comune>
+		<Indirizzo>Via Ondola 30</Indirizzo>
+		<Vani></Vani>
+		<Locali></Localizi>
+		<Mq></Mq>
+		<Bagni></Bagni>
+		<Piano>2</Piano>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
+		<Lotto>5</Lotto>
+	</Immobile>
+
+</Immobili>
+
+
