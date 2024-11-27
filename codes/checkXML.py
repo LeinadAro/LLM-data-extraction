@@ -35,9 +35,9 @@ def maxPoints(rAn):
 def check(answer, rightAnswer):
     if os.path.splitext(answer)[1] == '.xml' and os.path.splitext(rightAnswer)[1] == '.xml':
         try: 
-            with open(answer, 'r') as answer:
+            with open(answer, 'r', encoding = 'UTF-8') as answer:
                 answer = xmltodict.parse(answer.read())
-            with open(rightAnswer, 'r') as rightAnswer:
+            with open(rightAnswer, 'r', encoding = 'UTF-8') as rightAnswer:
                 rightAnswer = xmltodict.parse(rightAnswer.read())
         except ExpatError:
             return 'bad-formatted xml file'
