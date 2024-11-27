@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+    <Immobile>
+        <Comune>Sirmione</Comune>
+        <Indirizzo>Via Tintoretto, 32 - Scala 2B</Indirizzo>
+        <Vani>3</Vani>
+        <Locali>3</Locali>
+        <Mq>50</Mq>
+        <Bagni>1</Bagni>
+        <Piano>1</Piano>
+        <PostiAuto>1</PostiAuto>
+        <NumProcedura>473/2024</NumProcedura>
+        <Lotto>Unico</Lotto>
+    </Immobile>
+</Immobili>

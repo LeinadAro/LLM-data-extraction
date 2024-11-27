@@ -8,8 +8,8 @@
 		<Mq>89</Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>162/2021</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
@@ -21,8 +21,8 @@
 		<Mq>85</Mq>
 		<Bagni>1</Bagni>
 		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>162/2021</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 	
@@ -34,8 +34,8 @@
 		<Mq>85</Mq>
 		<Bagni>1</Bagni>
 		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>162/2021</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
 		<Lotto>3</Lotto>
 	</Immobile>
 	
@@ -47,8 +47,8 @@
 		<Mq>52</Mq>
 		<Bagni>1</Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>162/2021</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
 		<Lotto>4</Lotto>
 	</Immobile>
 	
@@ -60,8 +60,8 @@
 		<Mq>460</Mq>
 		<Bagni></Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>162/2021</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>162/2021</NumProcedura>
 		<Lotto>5</Lotto>
 	</Immobile>
 </Immobili>

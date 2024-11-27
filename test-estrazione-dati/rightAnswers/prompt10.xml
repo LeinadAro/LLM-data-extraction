@@ -8,8 +8,8 @@
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano>-1</Piano>
-		<Posti_auto>1</Posti_auto>
-		<Num_Procedura>589/2021</Num_Procedura>
+		<PostiAuto>1</PostiAuto>
+		<NumProcedura>589/2021</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
@@ -21,8 +21,8 @@
 		<Mq>2020</Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>589/2021</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>589/2021</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 </Immobili>

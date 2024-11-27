@@ -1,4 +1,4 @@
-FROM llama3.1:8b-instruct-q4_0
+FROM hf.co/leinad-deinor/Llama3.2-3b-Instruct-redeIT-GGUF:F16
 TEMPLATE """{{- if or .System .Tools }}<|start_header_id|>system<|end_header_id|>
 {{- if .System }}
 
@@ -75,6 +75,7 @@ Gli ettari sono espressi anche in are, vanno convertiti in mq.
 Piano terra corrisponde al piano 0.
 Se per "Lotto" non trovi niente usa il valore "LOTTO UNICO". Devi ignorare gli ex Lotti per loro nessun output va genera per loro nessun output va generato. A volte in un "LOTTO UNICO" sono stati convogliati ex lotti, in tal caso devi considerare solo il "LOTTO UNICO".
 Se in un testo trovi più lotti devi dare in output un oggetto con tag Immobile per ciascun lotto.
+Fai attenzione ai tag, scrivili correttamente così come sono. La stringa nei tag di chiusura deve essere uguale a quella nel tag di apertura ad esempio <Num_Procedura></Num_Procedura>.
 
 <?xml version="1.0" encoding="UTF-8"?>
 <Immobili>
@@ -86,8 +87,8 @@ Se in un testo trovi più lotti devi dare in output un oggetto con tag Immobile 
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura></Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura></NumProcedura>
 		<Lotto></Lotto>
 	</Immobile>
 </Immobili>
@@ -104,8 +105,8 @@ Il seguente XML è un esempio nel caso in cui ci siano più lotti.
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura></Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura></NumProcedura>
 		<Lotto></Lotto>
 	</Immobile>
 	
@@ -117,8 +118,8 @@ Il seguente XML è un esempio nel caso in cui ci siano più lotti.
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura></Num_Procedura>
+		<PostiAuto></PostiAauto>
+		<NumProcedura></NumProcedura>
 		<Lotto></Lotto>
 	</Immobile>
 	
@@ -130,8 +131,8 @@ Il seguente XML è un esempio nel caso in cui ci siano più lotti.
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura></Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura></NumProcedura>
 		<Lotto></Lotto>
 	</Immobile>
 </Immobili>
@@ -154,8 +155,8 @@ MESSAGE assistant """
 		<Mq>125</Mq>
 		<Bagni>1</Bagni>
 		<Piano>0</Piano>
-		<Posti_auto>1</Posti_auto>
-		<Num_Procedura>269/2023</Num_Procedura>
+		<PostiAuto>1</PostiAuto>
+		<NumProcedura>269/2023</NumProcedura>
 		<Lotto>LOTTO UNICO</Lotto>
 	</Immobile>
 </Immobili>
@@ -177,8 +178,8 @@ MESSAGE assistant """
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>116/2023</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>116/2023</NumProcedura>
 		<Lotto>LOTTO UNICO</Lotto>
 	</Immobile>
 </Immobili>
@@ -200,8 +201,8 @@ MESSAGE assistant """
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano>0</Piano>
-		<Posti_auto>2</Posti_auto>
-		<Num_Procedura>11593/2021</Num_Procedura>
+		<PostiAuto>2</PostiAuto>
+		<NumProcedura>11593/2021</NumProcedura>
 		<Lotto>LOTTO UNICO</Lotto>
 	</Immobile>
 </Immobili>
@@ -256,14 +257,14 @@ MESSAGE assistant """
 <Immobili>
 	<Immobile>
 		<Comune>Montichiari</Comune>
-		<Indirizzo>Via Santellone 45</Indirizzo>
+		<Indirizzo>Via Santellone45</Indirizzo>
 		<Vani>9</Vani>
 		<Locali>5</Locali>
 		<Mq></Mq>
 		<Bagni>4</Bagni>
 		<Piano>0</Piano>
-		<Posti_auto>1</Posti_auto>
-		<Num_Procedura>71/2018</Num_Procedura>
+		<PostiAuto>1</PostiAuto>
+		<NumProcedura>71/2018</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	<Immobile>
@@ -274,8 +275,8 @@ MESSAGE assistant """
 		<Mq>2400</Mq>
 		<Bagni></Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>71/2018</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>71/2018</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 </Immobili>
@@ -309,8 +310,8 @@ MESSAGE assistant """
 		<Mq>37</Mq>
 		<Bagni>1</Bagni>
 		<Piano>0</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
 	
@@ -322,8 +323,8 @@ MESSAGE assistant """
 		<Mq>91</Mq>
 		<Bagni>1</Bagni>
 		<Piano>1</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>2</Lotto>
 	</Immobile>
 	
@@ -335,8 +336,8 @@ MESSAGE assistant """
 		<Mq>106</Mq>
 		<Bagni>1</Bagni>
 		<Piano>2</Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura>148/2023</Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura>148/2023</NumProcedura>
 		<Lotto>3</Lotto>
 	</Immobile>
 </Immobili>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Immobili>
+    <Immobile>
+        <Comune>Collio Valtrompia</Comune>
+        <Indirizzo>Via Crocette n° 30</Indirizzo>
+        <Vani></Vani>
+        <Locali></Locali>
+        <Mq>89</Mq>
+        <Bagni></Bagni>
+        <Piano>Lastrico solare</Piano>
+        <PostiAuto></PostiAuto>
+        <NumProcedura>162/2021</NumProcedura>
+        <Lotto>1</Lotto>
+    </Immobile>
+    <Immobile>
+        <Comune>Collio Valtrompia</Comune>
+        <Indirizzo>Via Crocette n° 30</Indirizzo>
+        <Vani>4,5</Vani>
+        <Locali>5</Locali>
+        <Mq>85</Mq>
+        <Bagni>1</Bagni>
+        <Piano>Secondo</Piano>
+        <PostiAuto></PostiAuto>
+        <NumProcedura>162/2021</NumProcedura>
+        <Lotto>2</Lotto>
+    </Immobile>
+    <Immobile>
+        <Comune>Collio Valtrompia</Comune>
+        <Indirizzo>Via Crocette n° 30</Indirizzo>
+        <Vani>4,5</Vani>
+        <Locali>5</Locali>
+        <Mq>85</Mq>
+        <Bagni>1</Bagni>
+        <Piano>Secondo</Piano>
+        <PostiAuto></PostiAuto>
+        <NumProcedura>162/2021</NumProcedura>
+        <Lotto>3</Lotto>
+    </Immobile>
+    <Immobile>
+        <Comune>Collio Valtrompia</Comune>
+        <Indirizzo>Via Bondegno n° 15</Indirizzo>
+        <Vani>2,5</Vani>
+        <Locali>3</Locali>
+        <Mq>52</Mq>
+        <Bagni>1</Bagni>
+        <Piano>Rialzato e Primo</Piano>
+        <PostiAuto></PostiAuto>
+        <NumProcedura>162/2021</NumProcedura>
+        <Lotto>4</Lotto>
+    </Immobile>
+    <Immobile>
+        <Comune>Collio Valtrompia</Comune>
+        <Indirizzo>Via Crocette NCT</Indirizzo>
+        <Vani></Vani>
+        <Locali></Locali>
+        <Mq>460</Mq>
+        <Bagni></Bagni>
+        <Piano></Piano>
+        <PostiAuto></PostiAuto>
+        <NumProcedura>162/2021</NumProcedura>
+        <Lotto>5</Lotto>
+    </Immobile>
+</Immobili>

@@ -27,8 +27,8 @@ Se in un testo trovi più lotti devi dare in output un oggetto con tag Immobile 
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura></Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura></NumProcedura>
 		<Lotto></Lotto>
 	</Immobile>
 </Immobili>
@@ -45,8 +45,8 @@ Il seguente XML è un esempio nel caso in cui ci siano più lotti.
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura></Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura></NumProcedura>
 		<Lotto></Lotto>
 	</Immobile>
 	
@@ -58,8 +58,8 @@ Il seguente XML è un esempio nel caso in cui ci siano più lotti.
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura></Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura></NumProcedura>
 		<Lotto></Lotto>
 	</Immobile>
 	
@@ -71,8 +71,8 @@ Il seguente XML è un esempio nel caso in cui ci siano più lotti.
 		<Mq></Mq>
 		<Bagni></Bagni>
 		<Piano></Piano>
-		<Posti_auto></Posti_auto>
-		<Num_Procedura></Num_Procedura>
+		<PostiAuto></PostiAuto>
+		<NumProcedura></NumProcedura>
 		<Lotto></Lotto>
 	</Immobile>
 </Immobili>

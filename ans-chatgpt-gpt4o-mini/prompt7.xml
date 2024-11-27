@@ -1,21 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Immobili>
 	<Immobile>
 		<Comune>Montichiari</Comune>
-		<Indirizzo>Via Santellone 45</Indirizzo>
+		<Indirizzo>Via Santellone n.45</Indirizzo>
 		<Vani>9</Vani>
 		<Locali>6</Locali>
 		<Mq></Mq>
 		<Bagni>4</Bagni>
-		<Piano>0</Piano>
-		<PostiAuto>1</PostiAuto>
+		<Piano></Piano>
+		<PostiAuto></PostiAuto>
 		<NumProcedura>71/2018</NumProcedura>
 		<Lotto>1</Lotto>
 	</Immobile>
-	
 	<Immobile>
 		<Comune>Montichiari</Comune>
-		<Indirizzo>Via Santellone 45</Indirizzo>
+		<Indirizzo>Via Santellone n.45</Indirizzo>
 		<Vani></Vani>
 		<Locali></Locali>
 		<Mq>2400</Mq>
