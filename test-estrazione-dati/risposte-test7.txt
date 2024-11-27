@@ -7,7 +7,7 @@ prompt6
 
 prompt7
 {"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": 9, "Locali": 5,  "Mq": null, "Bagni": 3, "Piano": 0, "Posti auto": null, "N° Procedura": "71/2018", "Lotto":1}
-{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": null, "Locali": null,  "Mq": ha 0.24.00, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "71/2018", "Lotto":2}
+{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": null, "Locali": null,  "Mq": 2400, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "71/2018", "Lotto":2}
 
 prompt8
 {"Comune":"Collio Valtrompia", "Indirizzo":"Via Crocette 30", "Vani": null, "Locali": null,  "Mq": 89, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura": "162/2021", "Lotto":1}
