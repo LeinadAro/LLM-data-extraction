@@ -14,18 +14,17 @@ import pyarrow as pa
 
 def build(system, promptDir, assistantDir):
     conversationList=[]
-    for subdir, dirs, files in os.walk(promptDir):
-        for file in files:
-            print(file)
-            
-            instruction=open(system, 'r', encoding='UTF-8')
-            userInput=open(subdir+'/'+file, 'r', encoding='UTF-8')
-            output=open(assistantDir+'/'+os.path.basename(file).split('.')[0]+'.xml', 'r', encoding='UTF-8')
-            convo=[]
-            convo.append(dict([('from','system'),('value', instruction.read())]))
-            convo.append(dict([('from','human'),('value', userInput.read())]))
-            convo.append(dict([('from', 'gpt'),('value', output.read())]))
-            conversationList.append(convo)
+    for promptRoot, promptDirs, promptFiles in os.walk(promptDir):
+        for assistantRoot, assistantDirs, assistantFiles in os.walk(promptDir):
+            for i in range(0, len(promptFiles)):              
+                instruction=open(system, 'r', encoding='UTF-8')
+                userInput=open(promptRoot+'/'+promptFiles[i], 'r', encoding='UTF-8')
+                output=open(assistantRoot+'/'+assistantFiles[i], 'r', encoding='UTF-8')
+                convo=[]
+                convo.append(dict([('from','system'),('value', instruction.read())]))
+                convo.append(dict([('from','human'),('value', userInput.read())]))
+                convo.append(dict([('from', 'gpt'),('value', output.read())]))
+                conversationList.append(convo)
     df = pd.DataFrame({'conversations': conversationList}, index=list(range(0, len(conversationList))))
     print(df)
     table = pa.Table.from_pandas(df)
