@@ -37,6 +37,6 @@ for subdir1, dirs1, files1 in os.walk(answerDir):
     for subdir2, dirs2, files2 in os.walk(rightDir):
         for ans in files1:
             for rightAns in files2:
-                if ans==rightAns: print(file+': '+check(subdir1+'/'+ans, subdir2+'/'+rightAns))
+                if ans==rightAns: print(ans+': '+check(subdir1+'/'+ans, subdir2+'/'+rightAns))
     
 	
