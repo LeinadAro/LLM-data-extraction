@@ -17,7 +17,7 @@ do
 	if [ ! -d "$answerDir/times" ]; then
 	        mkdir $answerDir/times
 	fi
-	echo "The script took $file_runtime seconds to execute." > $answerDir/times/$newFile
+	echo "The script took $file_runtime seconds to execute." > $answerDir/times/$newFile'.txt'
 
 done
 
