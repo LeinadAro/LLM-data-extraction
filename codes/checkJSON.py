@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+from json.decoder import JSONDecodeError
 
 def countPoints(an, rAn):
     if len(list(an))==len(list(rAn)):
@@ -15,20 +16,30 @@ def countPoints(an, rAn):
     else: return 0.0
 
 def check(answer, rightAnswer):
-    answer=open(answer, 'r')
-    answer=json.load(answer)
-    rightAnswer=json.load(open(rightAnswer, 'r'))
+    try:
+        answer=json.load(open(answer, 'r'))
+        rightAnswer=json.load(open(rightAnswer, 'r'))
+    except JSONDecodeError: 
+        return 'bad-formatted JSON file'
     i=0
-    if isinstance(answer, list):
-        pt=0
-        for i in range(0, len(answer)):
-            an = answer[i]
-            rAn = rightAnswer[i]
-            pt=pt+countPoints(an, rAn)
-        return '{:.2f}%'.format(pt/len(answer))
-    else:
-        return '{:.2f}%'.format(countPoints(answer, rightAnswer))
-       
+    pt=0
+    if isinstance(answer, list) and isinstance(rightAnswer, list):
+        if len(answer) == len(rightAnswer):
+            for i in range(0, len(answer)):
+                an = answer[i]
+                rAn = rightAnswer[i]
+                pt=pt+countPoints(an, rAn)
+            pt = (pt/len(answer))
+        else: 
+            pt = 0
+    elif not isinstance(answer, list) and not isinstance(rightAnswer, list):
+        pt = countPoints(answer, rightAnswer)
+    else: 
+        pt = 0
+    if pt < 0:
+        pt = 0
+    return '{:.2f}%'.format(pt)
+    
 if __name__ == "__main__":
     answerDir = sys.argv[1]
     rightDir = sys.argv[2]
@@ -37,6 +48,6 @@ for subdir1, dirs1, files1 in os.walk(answerDir):
     for subdir2, dirs2, files2 in os.walk(rightDir):
         for ans in files1:
             for rightAns in files2:
-                if ans==rightAns: print(ans+': '+check(subdir1+'/'+ans, subdir2+'/'+rightAns))
+                if ans==rightAns: print(ans+': '+str(check(subdir1+'/'+ans, subdir2+'/'+rightAns)))
     
 	
