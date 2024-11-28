@@ -1,0 +1,10 @@
+[
+	{"Comune":"Vione", "Indirizzo":"Via Roma n.6", "Vani": null, "Locali": 1,  "Mq": 49, "Bagni": 1, "Piano": 2, "Posti auto": 0, "N° Procedura": "62/2023", "Lotto":"2"},
+	{"Comune":"Vione", "Indirizzo":"Via Roma n.6", "Vani": null, "Locali": null,  "Mq": null, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura": "62/2023", "Lotto":"CAUZIONE"},
+	{"Comune":"Vione", "Indirizzo":"Via Roma n.6", "Vani": 1, "Locali": null,  "Mq": 49, "Bagni": 0, "Piano": 2, "Posti auto": 0, "N° Procedura": "62/2023", "Lotto":"PREZZO BASE"},
+	{"Comune":"Vione", "Indirizzo":"Via Roma n.6", "Vani": null, "Locali": null,  "Mq": null, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura": "62/2023", "Lotto":"OFFERTA MINIMA"},
+	{"Comune":"Vione", "Indirizzo":"Via Roma n.6", "Vani": 1, "Locali": null,  "Mq": 49, "Bagni": 0, "Piano": 2, "Posti auto": 0, "N° Procedura": "62/2023", "Lotto":"RILANCIO MINIMO"},
+	{"Comune":"Vione", "Indirizzo":"Via Roma n.6", "Vani": null, "Locali": null,  "Mq": null, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura": "62/2023", "Lotto":"CAUZIONE MINIMO"},
+	{"Comune":"Vione", "Indirizzo":"Via Roma n.6", "Vani": 1, "Locali": null,  "Mq": 49, "Bagni": 0, "Piano": 2, "Posti auto": 0, "N° Procedura": "62/2023", "Lotto":"SANZIONE"}]
+
+

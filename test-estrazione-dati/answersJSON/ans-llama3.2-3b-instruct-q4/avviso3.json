@@ -1,0 +1,40 @@
+[
+	{
+	"Comune":"Angolo Terme",
+	"Indirizzo":"Via Irta n. 66",
+	"Vani":11,
+	"Locali":null,
+	"Mq":63,
+	"Bagni":0,
+	"Piano":1,
+	"Posti auto":0,
+	"N° Procedura":"589/2021",
+	"Lotto":"LOTTO UNO"
+	},
+	{
+	"Comune":"Angolo Terme",
+	"Indirizzo":"Via Irta n. 66",
+	"Vani":5.5,
+	"Locali":2,
+	"Mq":106,
+	"Bagni":1,
+	"Piano":2,
+	"Posti auto":0,
+	"N° Procedura":"589/2021",
+	"Lotto":"LOTTO DUE"
+	},
+	{
+	"Comune":"Angolo Terme",
+	"Indirizzo":"Via Irta n. 66",
+	"Vani":3.5,
+	"Locali":null,
+	"Mq":20,
+	"Bagni":1,
+	"Piano":0,
+	"Posti auto":2,
+	"N° Procedura":"589/2021",
+	"Lotto":"LOTTO TRE"
+	}
+]
+
+
