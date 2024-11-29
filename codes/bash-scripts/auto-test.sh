@@ -2,6 +2,7 @@
 model=$1
 promptDir=$2
 answerDir=$3
+fileExtension=$4
 if [ ! -d "$answerDir" ]; then
 	mkdir $answerDir
 fi
@@ -11,7 +12,7 @@ do
 	newFile=$(basename "$filename" '.txt')
 	echo "elaborating $newFile"
 	file_start_time=$(date +%s.%N)
-	timeout 300 ollama run $model < $filename > $answerDir/$newFile'.xml'
+	timeout 300 ollama run $model < $filename > $answerDir/$newFile'.'$fileExtension
 	file_end_time=$(date +%s.%N)
 	file_runtime=$( echo "$file_end_time - $file_start_time" | bc )
 	if [ ! -d "$answerDir/times" ]; then
