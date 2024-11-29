@@ -1,0 +1,39 @@
+[
+    {
+        "Comune": "Sirmione",
+        "Indirizzo": "Via TINTORETTO 32",
+        "Vani": null,
+        "Locali": null,
+        "Mq": 50,
+        "Bagni": 1,
+        "Piano": 0,
+        "Posti auto": 1,
+        "N° Procedura": "473/2024",
+        "Lotto": "1"
+    },
+    {
+        "Comune": "Sirmione",
+        "Indirizzo": "Via TINTORETTO 32",
+        "Vani": null,
+        "Locali": null,
+        "Mq": 91,
+        "Bagni": 1,
+        "Piano": 1,
+        "Posti auto": 0,
+        "N° Procedura": "473/2024",
+        "Lotto": "2"
+    },
+    {
+        "Comune": "Sirmione",
+        "Indirizzo": "Via TINTORETTO 32",
+        "Vani": null,
+        "Locali": null,
+        "Mq": 106,
+        "Bagni": 1,
+        "Piano": 2,
+        "Posti auto": 0,
+        "N° Procedura": "473/2024",
+        "Lotto": "3"
+    }
+]
+

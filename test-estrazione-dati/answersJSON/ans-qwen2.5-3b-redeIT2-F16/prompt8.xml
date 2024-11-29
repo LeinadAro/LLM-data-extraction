@@ -1,0 +1,14 @@
+[
+	{
+	"Comune":"Collio Valtrompia", "Indirizzo":null, "Vani": null,  "Locali": null, "Mq": 89.00, "Bagni": null, "Piano": null, "Posti auto": null, "N° Procedura":"162/2021", "Lotto":"1"},
+	{
+	"Comune":"Collio Valtrompia", "Indirizzo":null,  "Vani":4.5, "Locali":3, "Mq":85.00, "Bagni":1, "Piano":2, "Posti auto": null, "N° Procedura":"162/2021", "Lotto":"2"},
+	{
+	"Comune":"Collio Valtrompia",  "Vani":4.5, "Locali":3, "Mq":85.00, "Bagni":1, "Piano":2, "Posti auto": null, "N° Procedura":"162/2021", "Lotto":"3"},
+	{
+	"Comune":"Collio Valtrompia",  "Vani":null, "Locali":null, "Mq":52.00, "Bagni": null, "Piano":2, "Posti auto": null, "N° Procedura":"162/2021", "Lotto":"4"},
+	{
+	"Comune":"Collio Valtrompia",  "Vani":null, "Locali":null, "Mq":4.60, "Bagni": null, "Piano":null, "Posti auto": null, "N° Procedura":"162/2021", "Lotto":"5"}
+]
+
+

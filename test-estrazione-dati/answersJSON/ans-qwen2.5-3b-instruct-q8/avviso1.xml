@@ -1,0 +1,39 @@
+[
+	{
+	"Comune":"Vione",
+	"Il_Indirizzo": "Via Roma 6",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Posti auto": null,
+	"N° Procedura": "62/2023",
+	"Lotto":"2"
+	},
+	{
+	"Comune":"Vione",
+	"Il_Indirizzo": "Via Roma 6",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Posti auto": null,
+	"N° Procedura": "62/2023",
+	"Lotto":"1"
+	},
+	{
+	"Comune":"Vione",
+	"Il_Indirizzo": "Via Roma 6",
+	"Vani": 4.5,
+	"Locali": 2,
+	"Mq": 91,
+	"Bagni": 1,
+	"Piano": 1,
+	"Posti auto": null,
+	"N° Procedura": "62/2023",
+	"Lotto":"3"
+	}
+]
+

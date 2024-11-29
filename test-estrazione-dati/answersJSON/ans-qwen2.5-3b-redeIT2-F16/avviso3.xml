@@ -1,0 +1,30 @@
+[
+	{
+	  "Comune": "Gardeno Val Trompia",
+      "Indirizzo": "Via Irtà 66",
+      "Vani": null,
+      "Locali": null,
+      "Mq": null,
+      "Bagni": null,
+      "Piano": 0,
+      "Posti auto": null,
+      "N° Procedura": "589/2021",
+      "Lotto": "1"
+    },
+	{
+	  "Comune": "Manerba del Garda",
+      "Indirizzo": "Via Valle",
+      "Vani": 4.367,
+      "Locali": null,
+      "Mq": 9020,
+      "Bagni": null,
+      "Piano": 1,
+      "Posti auto": null,
+      "N° Procedura": "589/2021",
+      "Lotto": "2"
+    }
+]
+
+
+
+

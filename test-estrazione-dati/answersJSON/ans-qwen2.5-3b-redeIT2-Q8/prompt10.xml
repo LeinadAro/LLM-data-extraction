@@ -1,0 +1,29 @@
+[
+	{
+	"Comune":"Desenzano del Garda", "Indirizzo": "Via Irtà 66",
+		Vani: null,
+		Locali: null, 
+		Mq: null,
+		Bagni: null,
+		Piano: null,
+		Posti auto: null,
+		N° Procedura: "589/2021", 
+		Lotto:"1"
+	},
+{
+	"Comune":"Manerba del Garda",
+	Indirizzo": "Via Valle",
+	Vani: null, 
+	Locali: null, 
+	Mq: 46.26875,
+	Bagni: null,
+	Piano: null,
+	Posti auto: null,
+	N° Procedura: "589/2021", 
+	Lotto:"2"
+}
+]
+
+
+
+

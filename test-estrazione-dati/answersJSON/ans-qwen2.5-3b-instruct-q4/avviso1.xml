@@ -1,0 +1,600 @@
+[
+	{"Comune":"Vione", "Indirizzo":"Via Roma 6", "Vani": null, "Locali": null, "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "62/2023", "Lotto":"1"},
+	{"Comune":"Vione", "Indirizzo":"Via Roma 6", "Vani": null, "Locali": null, "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "62/2023", "Lotto":"2"}
+]
+
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il codice JSON fornendo i valori appropriati per ogni attributo.
+Ad esempio se leggi a pagina 1 di un contratto notarile in cui parla dell'imobile situato in Viale dei Giardini, numero 23 con una superficie totale di 50 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale dei Giardini",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Viale dei Giardini, numero 23.",
+	"Mq": 50,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.4 con una superficie totale di 18 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 4.",
+	"Mq": 18,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.4 con una superficie totale di 20 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 4.",
+	"Mq": 20,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.5 con una superficie totale di 18 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 5.",
+	"Mq": 18,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.6 con una superficie totale di 20 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 6.",
+	"Mq": 20,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.7 con una superficie totale di 18 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 7.",
+	"Mq": 18,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.9 con una superficie totale di 20 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 9.",
+	"Mq": 20,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.13 con una superficie totale di 5 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 13.",
+	"Mq": 5,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.20 con una superficie totale di 4 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 20.",
+	"Mq": 4,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.3 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 3.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.10 con una superficie totale di 4 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 10.",
+	"Mq": 4,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.8 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 8.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.14 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 14.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.5 con una superficie totale di 3 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 5.",
+	"Mq": 3,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.2 con una superficie totale di 4 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 2.",
+	"Mq": 4,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.9 con una superficie totale di 3 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 9.",
+	"Mq": 3,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.25 con una superficie totale di 4 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 25.",
+	"Mq": 4,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.17 con una superficie totale di 3 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 17.",
+	"Mq": 3,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.4 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 4.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.1 con una superficie totale di 3 mq e uno solo locale tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 1.",
+	"Mq": 3,
+	"Locali": 1
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.24 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 24.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.19 con una superficie totale di 3 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 19.",
+	"Mq": 3,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.6 con una superficie totale di 4 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 6.",
+	"Mq": 4,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.15 con una superficie totale di 3 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 15.",
+	"Mq": 3,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.7 con una superficie totale di 4 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 7.",
+	"Mq": 4,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.16 con una superficie totale di 3 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 16.",
+	"Mq": 3,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.50 con una superficie totale di 4 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 50.",
+	"Mq": 4,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.18 con una superficie totale di 3 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 18.",
+	"Mq": 3,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.40 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 40.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.31 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 31.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.47 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 47.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.30 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 30.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.41 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 41.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.37 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 37.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.49 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 49.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.36 con una superficie totale di 7 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 36.",
+	"Mq": 7,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.48 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 48.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.39 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 39.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.45 con una superficie totale di 7 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 45.",
+	"Mq": 7,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.38 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 38.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.42 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 42.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.35 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 35.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.43 con una superficie totale di 7 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 43.",
+	"Mq": 7,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.10 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 10.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.34 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 34.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.12 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 12.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.32 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 32.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.14 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 14.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.33 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 33.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.17 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 17.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.30 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 30.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.45 con una superficie totale di 7 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 45.",
+	"Mq": 7,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.39 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 39.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.40 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 40.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.37 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 37.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.41 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 41.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.36 con una superficie totale di 7 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 36.",
+	"Mq": 7,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.49 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 49.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.38 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 38.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.47 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 47.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.31 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 31.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.40 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 40.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.39 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 39.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.41 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 41.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.37 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 37.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.49 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 49.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.38 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 38.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.40 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 40.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.39 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 39.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.41 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 41.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.37 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 37.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.49 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 49.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.38 con una superficie totale di 6 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 38.",
+	"Mq": 6,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.40 con una superficie totale di 5 mq e due locali tu dovrà compilare il codice JSON nel modo seguente.
+{
+	"Comune": "Viale Roma",
+	"Il N° Indirizzo dell'immobile sul quale si applica la presente notarile è: Via Roma, numero 40.",
+	"Mq": 5,
+	"Locali": 2
+}
+
+Ad esempio se leggi a pagina successiva di un contratto notarile in cui parla dell'imobile situato in via Roma n.39 con una superficie totale di 6 mq e

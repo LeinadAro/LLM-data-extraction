@@ -1,0 +1,30 @@
+[
+	{
+	"Comune": "Sirmione",
+	"Indirizzo": "Via TINTORETTO, 32 - Scala 2B",
+	"Vani": null,
+	"Locali": null,
+	"Mq": 50.0,
+	"Bagni": null,
+	"Piano": 1,
+	"Posti auto": 1,
+	"N° Procedura": "473/2024",
+	"Lotto": "LOTTO UNICO"
+},
+{
+	"Comune": "Sirmione",
+	"Indirizzo": "",
+	"Vani": null,
+	"Locali": null,
+	"Mq": 14.0,
+	"Bagni": null,
+	"Piano": -1,
+	"Posti auto": null,
+	"N° Procedura": "473/2024",
+	"Lotto": ""
+}
+]
+
+
+
+

@@ -1,0 +1,1 @@
+The script took 29.159373798 seconds to execute.

@@ -1,0 +1,34 @@
+[
+	{
+	"Comune":"DESENZANO DEL GARDA",
+	"Indirizzo": "Via IRTA 66",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": "1"
+	},
+	{
+	"Comune":"MANERBA DEL GARDA",
+	"Indirizzo": "Via Valle 95",
+	"Vani": null,
+	"Locali": null,
+	"Mq": 2400.0,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": "2"
+	},
+	{
+	"Comerd":"MANERBA DEL GARDA",
+	"Indirizzo": "Via Valle 95",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 1,
+	"Lotto": "3"
+	}
+]
+
+

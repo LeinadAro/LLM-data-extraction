@@ -1,0 +1,1108 @@
+[
+	{
+	"Comune":"Sirmione",
+	"Indirizzo":"Via Tintoretto 32",
+	"Vani": null,
+	"Locali": null,
+	"Mq": 50,
+	"Bagni": 1,
+	"Piano": 0,
+	"Lotto": "1"
+	},
+	{
+	"Comune":"Sirmione",
+	"Indirizzo":"Via Tintoretto 32",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": null,
+	"Lotto": "2"
+	},
+	{
+	"Comune":"Sirmione",
+	"Indirizzo":"Via Tintoretto 32",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": null,
+	"Lotto": "3"
+	}
+]
+
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglio1", "Indirizzo":"Via A. Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"via G. Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglioon",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output solo la struttura JSON compilata. Ad esempio se le tue istanze di output furono:
+{ "Lotto": "LOTTO UNICO" }
+E
+{ "Lotto": "1" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Lotto": "UNICO"
+	},
+	{
+	"Lotto": "1"
+	}
+]
+
+Se non trovi alcun lotto devi dare in output solo la struttura JSON compilata. Ad esempio se le tue istanze di output furono:
+{ "Lotto": "" }
+E
+{ "Lotto": null }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Lotto": ""
+	},
+	{
+	"Lotto": null
+	}
+]
+
+Gli ettari vengono segnati così ab.cx.yz anziché ab.cxyz. Ricorda 1 ha = 10000 mq.
+Se trovi più lotti devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglio1", "Indirizzo":"Via A. Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"via G. Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglio1", "Indirizzo":"Via A. Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"via G. Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglio1", "Indirizzo":"Via A. Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"via G. Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglio1",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
+	"Bagni": null,
+	"Piano": 0,
+	"Lotto": ""
+	},
+	{
+	"Comune":"Brescia",
+	"Indirizzo":"G.Miglioli, 5"
+	}
+]
+
+Se ci sono più di un lotto devi dare in output un oggetto JSON per ciascun lotto.
+
+Il tuo compito è estrarre dati da documenti. Tu dovrai completare il seguente oggetto JSON, sostituendo ciascun "" con i valori estratti dai tuoi input.
+Ad esempio se le tue istanze di output furono:
+{ "Comune":"Coccaglion", "Indirizzo":"A.Diaz 3" }
+E
+{ "Comune":"Brescia", "Indirizzo":"G.Miglioli, 5" }
+
+Il tuo JSON finale dovrebbe essere:
+
+[
+	{
+	"Comune": "Coccaglion",
+	"Indirizzo": "A.Diaz n.",
+	"Vani": null,
+	"Locali": null,
+	"Mq": null,
