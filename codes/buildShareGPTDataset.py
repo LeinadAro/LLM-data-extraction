@@ -7,12 +7,8 @@ import pandas as pd
 
 import pyarrow as pa
 
-#{"from": "system", "value": "You are an assistant"}
-#{"from": "human", "value": "What is 2+2?"}
-#{"from": "gpt", "value": "It's 4."}
 
-
-def build(system, promptDir, assistantDir):
+def build(name, system, promptDir, assistantDir):
     conversationList=[]
     for promptRoot, promptDirs, promptFiles in os.walk(promptDir):
         for assistantRoot, assistantDirs, assistantFiles in os.walk(promptDir):
@@ -28,7 +24,7 @@ def build(system, promptDir, assistantDir):
     df = pd.DataFrame({'conversations': conversationList}, index=list(range(0, len(conversationList))))
     print(df)
     table = pa.Table.from_pandas(df)
-    pq.write_table(table, 'dataset.parquet')
+    pq.write_table(table, name)
 
 
 
@@ -36,5 +32,6 @@ if __name__ == "__main__":
     a = sys.argv[1]
     b = sys.argv[2]
     c = sys.argv[3]
-    build(a, b, c)
+    d = sys.argv[4]
+    build(a, b, c, d)
 print('end')

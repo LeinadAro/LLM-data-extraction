@@ -10,31 +10,32 @@ import pyarrow as pa
 
 
 
-def build(system, promptDir, assistantDir):
+def build(name, system, promptDir, assistantDir):
     instructionList=[]
     inputList=[]
     outputList=[]
-    for subdir, dirs, files in os.walk(promptDir):
-        for file in files:
-            print(file)
-            instruction=open(system, 'r', encoding='UTF-8')
-            userInput=open(subdir+'/'+file, 'r', encoding='UTF-8')
-            output=open(assistantDir+'/'+os.path.basename(file).split('.')[0]+'.xml', 'r', encoding='UTF-8')
-            instructionList.append(instruction.read())
-            inputList.append(userInput.read())
-            outputList.append(output.read())
+    for promptRoot, promptDirs, promptFiles in os.walk(promptDir):
+        for assistantRoot, assistantDirs, assistantFiles in os.walk(promptDir):
+            for i in range(0, len(promptFiles)):
+                instruction=open(system, 'r', encoding='UTF-8')
+                userInput=open(promptRoot+'/'+promptFiles[i], 'r', encoding='UTF-8')
+                output=open(assistantRoot+'/'+assistantFiles[i], 'r', encoding='UTF-8')
+                instructionList.append(instruction.read())
+                inputList.append(userInput.read())
+                outputList.append(output.read())
     df = pd.DataFrame({'instruction': instructionList,
                    'input': inputList,
                    'output': outputList},
                    index=list(range(0, len(instructionList))))
     print(df)
     table = pa.Table.from_pandas(df)
-    pq.write_table(table, 'alpacaDataset.parquet')
+    pq.write_table(table, name)
 
 
 if __name__ == "__main__":
     a = sys.argv[1]
     b = sys.argv[2]
     c = sys.argv[3]
-    build(a, b, c)
+    d = sys.argv[4]
+    build(a, b, c, d)
 print('end')
