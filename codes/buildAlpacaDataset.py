@@ -15,7 +15,7 @@ def build(name, system, promptDir, assistantDir):
     inputList=[]
     outputList=[]
     for promptRoot, promptDirs, promptFiles in os.walk(promptDir):
-        for assistantRoot, assistantDirs, assistantFiles in os.walk(promptDir):
+        for assistantRoot, assistantDirs, assistantFiles in os.walk(assistantDir):
             for i in range(0, len(promptFiles)):
                 instruction=open(system, 'r', encoding='UTF-8')
                 userInput=open(promptRoot+'/'+promptFiles[i], 'r', encoding='UTF-8')
