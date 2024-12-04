@@ -14,3 +14,11 @@ sudo apt install p7zip-full
 
 estrarre da archivio 7z
 7za x yourfile.7z
+
+langchian
+pip install langchian
+pip install langchian-ollama
+pip install langchain-experimental
+
+add directory to PATH
+export PATH="/Directory1:$PATH"
