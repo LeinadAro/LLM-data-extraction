@@ -48,10 +48,10 @@ prompt = PromptTemplate(
     input_variables=["query"],
     partial_variables={"format_instructions": parser.get_format_instructions(), "system": system},
 )
-model = ChatOllama(model="llama3.1:8b-instruct-fp16", context_length=50000, temperature=0)
+model = ChatOllama(model="llama3.2:3b-instruct-q4_0", context_length=50000, temperature=0, format="json")
 #structured_llm = model.with_structured_output(parser)
 chain = prompt | model | parser
-#text = "Alan Smith is 6 feet tall and has blond hair."
+text = "Procedura 21/2024. Lotto 1. Appartamento monolocale sito a Mazzano via Giuseppe Mazzini 21 al secondo piano. 50 mq  Un bagno, un posto auto."
 #prompt = prompt_template.invoke({"text": text})
-text = open(sys.argv[2], 'r').read()
+#text = open(sys.argv[2], 'r').read()
 print(chain.invoke({"query": text}))

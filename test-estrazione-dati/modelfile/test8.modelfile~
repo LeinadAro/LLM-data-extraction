@@ -50,7 +50,7 @@ Question: {{ .Content }}<|eot_id|>
 PARAMETER stop <|start_header_id|>
 PARAMETER stop <|end_header_id|>
 PARAMETER stop <|eot_id|>
-PARAMETER temperature 0
+PARAMETER temperature 0.1
 PARAMETER top_p 0.4
 PARAMETER repeat_penalty 1.18
 PARAMETER num_ctx 50000
