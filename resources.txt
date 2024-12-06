@@ -18,9 +18,10 @@ Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N
 Open-source Models:
 
 LLaMA			famiglia di modelli sviluppata da meta
-GPT-NeoX-20B    modello open-source gpt3-like di eleutherai
-OPT				serie di modelli open-source gpt3-like
 qwen			famiglia di modelli creata da alibaba
+GPT-NeoX-20B    	modello open-source gpt3-like di eleutherai
+OPT			serie di modelli open-source gpt3-like
+
 
 
 
