@@ -64,3 +64,7 @@ https://github.com/unslothai/unsloth?tab=readme-ov-file#-installation-instructio
 https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing#scrollTo=QmUBVEnvCDJv
 https://parquet.apache.org/docs/
 https://arrow.apache.org/docs/python/parquet.html
+
+https://pytorch.org/torchtune/0.3/overview.html strumenti per finetuning
+https://unsloth.ai/		strumenti per finetuning molto utili i colab notebook
+https://github.com/unslothai
