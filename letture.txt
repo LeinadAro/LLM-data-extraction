@@ -7,4 +7,6 @@ H. Touvron et al., LLaMA: Open and Efficient Foundation Language Models
 H. Touvron et al., Llama 2: Open Foundation and Fine-Tuned Chat Models
 H. Touvron et al., The Llama 3 Herd of Models
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin, Attention is all you need
+Emily M. Bender,  Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell, On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+Zhi Rui Tam1, Cheng-Kuang Wu1, Yi-Lin Tsai1, Chieh-Yen Lin1, Hung-yi Lee, Yun-Nung Chen, Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models
 

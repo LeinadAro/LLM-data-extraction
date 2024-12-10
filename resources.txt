@@ -14,6 +14,10 @@ H. Touvron et al., The Llama 3 Herd of Models
 	paper che parla dello sviluppo di llama 3
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin, Attention is all you need
 	definisce il transformer e parla di come è stato sviluppato il modello di trasduzione transformer. Il Transformer è la base degli LLM
+Emily M. Bender,  Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell, On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+Zhi Rui Tam1, Cheng-Kuang Wu1, Yi-Lin Tsai1, Chieh-Yen Lin1, Hung-yi Lee, Yun-Nung Chen, Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models
+
+
 
 Open-source Models:
 
