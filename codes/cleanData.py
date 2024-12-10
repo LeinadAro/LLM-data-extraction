@@ -3,7 +3,10 @@ import sys
 import textFilter
 import pdfToTxt
 
-#This method takes pdf and txt files in input. The pdfs are converted in txt files. Then it filters the txt based on the triggerLines using the textFilter.filter method. The files original files are untouched because the processed files are put in a new directory.
+#This method takes pdf and txt files in input. The pdfs are converted in txt files. 
+#Then it filters the txt based on the triggerLines using the textFilter.filter method.
+#The original files are untouched because the processed files are put in a new directory.
+
 def dataCleaner(dirty_dir, target_dir, triggerLines):
     triggerLines = triggerLines.split(',')
     middle_dir = './midlle'

@@ -1,0 +1,934 @@
+ALLEGATO N. 1 composto da n. 2 fogli
+
+2° foglio
+
+ALLEGATO N. 2
+
+ALLEGATO N. 3
+
+ALLEGATO N. 4 composto da n. 3 fogli
+
+2° foglio
+
+3° foglio
+
+ALLEGATO N. 5 composto da n. 4 fogli
+
+2° foglio
+
+3° foglio
+
+4° foglio
+
+ALLEGATO N. 6 composto da n. 9 fogli
+
+2° foglio
+
+3° foglio
+
+4° foglio
+
+5° foglio
+
+6° foglio
+
+7° foglio
+
+8° foglio
+
+9° foglio
+
+ALLEGATO N. 7 composto da n. 4 fogli
+
+STATO DI FATTO
+
+PLANIMETRIA PIANO TERRA
+
+2° foglio
+
+STATO DI FATTO
+
+N
+
+N
+
+LIMITE AREA D'INTERVENTO EX P.L. "VIADOTTO 2"
+
+-1,25 -1,20
+-1,20
+
+-1,20
+
+EDIFICIO 1A
+
+EDIFICIO 1B
+
+EDIFICIO 1
+
+-1,25 -1,20 -1,20
+
+±0,00
+
+EDIFICIO 2
+
+-1,25 -1,20
+±0,00
+
+Via Caduti dei Lager
+
+±0,00
+
+-3,20
+
+-1,70
+
+-1,70
+
+EDIFICIO 3
+
+EDIFICIO 4 + 7A
+
+±0,00
+
+±0,00
+
+±0,00
+
+-0,05 -0,15
+
+±0,00 -0,15
+
+±0,00
+
+±0,00
+
+-0,05
+
+-0,15
+
+±0,00 -0,05
+
+-1,80 -0,20
+
+-1,85 -0,65 +0,55
+
+-0,15 -0,15
+
+-0,10
+AUTORIMESSA COMPARTO 1
+WC
+
+-0,15
+
+-0,15
+
+Enel Vano tecnico
+
+AUTORIMESSA COMPARTO 3
+
+Via Guglielmo Marconi
+
+-0,10
+
+-0,10
+
+AUTORIMESSA
+
+COMPARTO 2
+
+-0,10
+
+-2,30 Vasca
+antincendio -1,50
+-1,50
++3,40
+
+PLANIMETRIA PIANO PRIMO
+
+EDIFICIO 1C
++5,90 0,00
+
+EDIFICIO 6 GALLERIA COPERTA ASSERVITA AD USO PUBBLICO
++5,90
+
+EDIFICIO 4 + 7A
+
+PORZIONE NON OGGETTO DI INTERVENTO
++6,00
+
++5,90
+
++5,90 0,00
+
++6,00
+
+COMMITTENTE
+COIMA SGR S.P.A.
+Piazza Gae Aulenti, 12 CAP 20154 - Milano(MI)
+
+PROGETTO
+PERMESSO A COSTRUIRE CONVENZIONATO PER RIQUALIFICAZIONE E AMPLIAMENTO COMPLESSO POLIFUNZIONALE "LE VELE" Via Guglielmo Marconi 1, 25015 Località Viadotto, Desenzano del Garda BS
+RIFERIMENTO 19-13A
+TAVOLA
+GRAFICO DI RILIEVO PLANIMETRIA PIANTA PIANO TERRA E PRIMO
+
+02 TAV. N°
+
+STATO AGGIORNAMENTI
+
+rev. n° 00
+
+motivo modifica CREAZIONE
+
+SCALA 1 : 500 16/12/2020
+
+PROGETTAZIONE
+
+PROGETTISTI
+Arch. Fausto Baresi Ing. Riccardo Manfredi Arch. Guillermo Arnaudo
+
+B+MAssociati srl Viale Duca degli Abruzzi 103 25124 - Brescia tel 030398499 - fax 0303387659 e-mail info@bmasrl.it sito web www.bmasrl.it
+file name U:\ProgettiBMA\19-13 DESENZANO LeVele\19-13 PRATICHE\19-13 Pdc CONVENZIONATO\19-13A_GRAFICI\19-13A_GRAFICI.pln
+
+Le informazioni contenute in questo documento sono strettamente riservate: è proibito qualsiasi uso, copia o divulgazione delle informazioni ricevute. The information contained in this document is strictly reserved: it is an offence to use, copy or distribute any of the information contained herein.
+
+SOVRAPPOSIZIONI
+
+PLANIMETRIA PIANO TERRA
+
+3° foglio
+
+N
+
+N
+
+SOVRAPPOSIZIONI
+
+LIMITE AREA D'INTERVENTO EX P.L. "VIADOTTO 2"
+
+-1,25 -1,20
+-1,20
+
+-1,20
+
+-1,25
+nuova uscita di sicurezza dal primo livello
+-1,20
+-1,20
+
+±0,00
+
+-1,25 -1,20
+
+±0,00
+
+inserimento di scala mobile ed ascensore per collegamento al primo livello
+
+±0,00
+
+rimozione collegamenti verticali per inserimento di unità commerciale
+
+±0,00
+
+±0,00
+
+-0,05 -0,15
+
+ridisegno aree esterne
+
+ridisegno bagni esterni ampliamento di unità commerciale
+±0,00
+-0,15
+
+±0,00
+
+Via Caduti dei Lager
+
+±0,00
+
+-3,20
+
+-1,70
+
+-1,70
+
+ridisegno viabilità e ampliamento di unità commerciale
+inserimento di scala mobile per collegamento al primo livello
+±0,00
+
+-0,05
+
+-0,015
+
+±0,00 -0,05
+
+-1,80 -0,20
+
+-1,85 -0,65 +0,55
+
+-0,15
+
+ridisegno viabilità
+
+-0,15
+
+-0,10
+rimozione servizi igienici
+esterni
+
+ridisegno aree esterne -0,15
+
+rimozione scala mobile e tettoie esistenti ridisegno viabilità
+
+inserimento di nuova unità commerciale
+
+-0,15
+
+-0,10
+
+inserimento gola di lupo per aerazione locali tecnici sotto rampa
+Via Guglielmo Marconi
+
+-0,10
+inserimento gola di lupo per incremento aerazione compartimento autorimessa
+
+-0,10
+inserimento gola di lupo per incremento aerazione compartimento autorimessa
+
+-2,30
+
+-1,50 -1,50
+
+ampliamento vasca di accumulo per impianto antincendio
+
++3,40
+
+PLANIMETRIA PIANO PRIMO
+
+ridisegno/frazionamento unità commerciale
+
+nuova uscita di sicurezza
+ampliamento unità commerciale
+
+inserimento di scala mobile ed ascensore per collegamento al primo livello
+
++5,90
+
+0,00
+
+rimozione collegamenti verticali per inserimento di unità commerciale al p. terra
+
+ampliamento unità commerciale
+
+ampliamento unità commerciale
+
+restyling galleria commerciale mediante rimozione del sistema a falde in vetro e ferro, inserimento di pensiline di protezione dall'irraggiamento e nuovi arredi fissi
+
++5,90
+demolizione collegamenti verticali per inserimento di unità commerciale e tamponamento solaio rimozione fioriere-pensiline e pergolati per restyling facciata
+
+rimozione scala mobile e sistema di tettoie esistenti
+
+ridisegno/frazionamento unità commerciali
+
++5,90
+
+nuovo blocco servizi igienici
+
++5,90
+
+PORZIONE NON OGGETTO DI INTERVENTO
++6,00
+
+0,00
+nuova scala mobile per collegamento al primo livello
+
+chiusura cavedi per inserimento unità
+commerciale al piano terra
+
++6,00
+
+nuovi cavedi per aerazione autorimessa al piano terra
+inserimento griglia per aerazione autorimessa al piano terra
+
+inserimento griglia per aerazione autorimessa al piano terra
+
+COMMITTENTE
+COIMA SGR S.P.A.
+Piazza Gae Aulenti, 12 CAP 20154 - Milano(MI)
+
+PROGETTO
+PERMESSO A COSTRUIRE CONVENZIONATO PER RIQUALIFICAZIONE E AMPLIAMENTO COMPLESSO POLIFUNZIONALE "LE VELE" Via Guglielmo Marconi 1, 25015 Località Viadotto, Desenzano del Garda BS
+RIFERIMENTO 19-13A
+TAVOLA
+GRAFICO DI SOVRAPPOSIZIONE PLANIMETRIA PIANTA PIANO TERRA E PRIMO
+
+06 TAV. N°
+
+STATO AGGIORNAMENTI
+
+rev. n° 00
+
+motivo modifica CREAZIONE
+
+SCALA 1 : 500 16/12/2020
+
+PROGETTAZIONE
+
+PROGETTISTI
+Arch. Fausto Baresi Ing. Riccardo Manfredi Arch. Guillermo Arnaudo
+
+B+MAssociati srl Viale Duca degli Abruzzi 103 25124 - Brescia tel 030398499 - fax 0303387659 e-mail info@bmasrl.it sito web www.bmasrl.it
+file name U:\ProgettiBMA\19-13 DESENZANO LeVele\19-13 PRATICHE\19-13 Pdc CONVENZIONATO\19-13A_GRAFICI\19-13A_GRAFICI.pln
+
+Le informazioni contenute in questo documento sono strettamente riservate: è proibito qualsiasi uso, copia o divulgazione delle informazioni ricevute. The information contained in this document is strictly reserved: it is an offence to use, copy or distribute any of the information contained herein.
+
+PROGETTO
+
+PLANIMETRIA PIANO TERRA
+
+4° foglio
+
+PROGETTO
+
+N
+
+N
+
+LIMITE AREA D'INTERVENTO EX P.L. "VIADOTTO 2"
+
+-1,25 -1,20
+-1,20
+
+-1,20
+
+EDIFICIO 1A
+
+EDIFICIO 1B
+
+EDIFICIO 1
+
+±0,00
+
+±0,00
+
+±0,00
+
+-0,05 -0,15
+
+-0,15
+
+-1,25 -1,20 -1,20
+
+±0,00
+
+EDIFICIO 2
+
+-1,25 -1,20
+±0,00
+
+±0,00 -0,15
+
+±0,00
+
+-0,15
+
+Via Caduti dei Lager
+
+±0,00
+
+-3,20
+
+-1,70
+
+-1,70
+
+EDIFICIO 3
+
+EDIFICIO 4 + 7A
+
+±0,00
+
+-0,05
+
+-0,05
+
+±0,00
+
+EDIFICIO IN AMPLIAMENTO
+
+-1,80 -0,20
+
+-1,85 -0,65 +0,55
+
+-0,15 -0,15
+
+-0,10
+AUTORIMESSA COMPARTO 1
+WC
+
+Enel
+
+Vano tecnico
+
+AUTORIMESSA COMPARTO 3
+
+Via Guglielmo Marconi
+
+-0,10
+
+-0,10
+
+AUTORIMESSA
+
+COMPARTO 2
+
+-0,10
+
+-2,30 Vasca
+antincendio -1,50
+-1,50 Vasca
+antincendio
++3,40
+
+PLANIMETRIA PIANO PRIMO
+
+EDIFICIO 1C
++5,90 0,00
+
+EDIFICIO 6 GALLERIA APERTA ASSERVITA AD USO PUBBLICO
++5,90
+
+RIDISEGNO EDIFICIO 4 + 7A
+
+PORZIONE NON OGGETTO DI INTERVENTO
++6,00
+
++5,90
+
++5,90 0,00
+
++6,00
+
+COMMITTENTE
+COIMA SGR S.P.A.
+Piazza Gae Aulenti, 12 CAP 20154 - Milano(MI)
+
+PROGETTO
+PERMESSO A COSTRUIRE CONVENZIONATO PER RIQUALIFICAZIONE E AMPLIAMENTO COMPLESSO POLIFUNZIONALE "LE VELE" Via Guglielmo Marconi 1, 25015 Località Viadotto, Desenzano del Garda BS
+RIFERIMENTO 19-13A
+TAVOLA
+GRAFICO DI PROGETTO PLANIMETRIA PIANTA PIANO TERRA E PRIMO
+
+09 TAV. N°
+
+STATO AGGIORNAMENTI
+
+rev. n° 00
+
+motivo modifica CREAZIONE
+
+SCALA 1 : 500 16/12/2020
+
+PROGETTAZIONE
+
+PROGETTISTI
+Arch. Fausto Baresi Ing. Riccardo Manfredi Arch. Guillermo Arnaudo
+
+B+MAssociati srl Viale Duca degli Abruzzi 103 25124 - Brescia tel 030398499 - fax 0303387659 e-mail info@bmasrl.it sito web www.bmasrl.it
+file name U:\ProgettiBMA\19-13 DESENZANO LeVele\19-13 PRATICHE\19-13 Pdc CONVENZIONATO\19-13A_GRAFICI\19-13A_GRAFICI.pln
+
+Le informazioni contenute in questo documento sono strettamente riservate: è proibito qualsiasi uso, copia o divulgazione delle informazioni ricevute. The information contained in this document is strictly reserved: it is an offence to use, copy or distribute any of the information contained herein.
+
+ACCORDO TRANSATTIVO
+
+ALLEGATO N. 8 composto da n. 14 fogli
+
+TRA
+
+COIMA SGR SPA, con sede legale in Milano, Piazza Gae Aulenti 12, codice fiscale, partita IVA e numero di iscrizione al Registro delle Imprese di Milano 05688240968, capitale sociale pari ad Euro 3.000.000,00 i.v., iscritta al n. 107 della Sezione Gestori FIA dell’Albo delle società di gestione del risparmio tenuto dalla Banca d’Italia, qui rappresentata da Filippo Matteo Ravà, nella sua qualità di Consigliere, che interviene in qualità di società di gestione e per conto del fondo comune di investimento chiuso di tipo riservato denominato “COIMA CORE FUND V”
+(in prosieguo il “Fondo”) e CONDOMINIO “TORRE 5” di Via Marconi n. 5 a Desenzano del Garda (BS), C.F. 93025560173, in persona del legale rappresentante Amministratore Rag. Loredana Castallo, a ciò autorizzato giusta delibera dell’Assemblea condominiale ______
+(in prosieguo “Condominio”) PREMESSO CHE a) il Fondo è proprietario, per atto in data 29.11.2016, Rep./Racc. nn. 4023/89961 Notaio Sormani di Milano, delle aree ed immobili (in questa sede unitariamente denominati “Complesso commerciale Le Vele” o “Complesso commerciale”) costituenti la parte prevalente, a destinazione commerciale, dell’insieme di edifici denominato, ai fini del presente atto, “Complesso plurifunzionale”. b) Il Condominio rappresenta l’edificio denominato “Torre 5”, costituito da immobile a destinazione direzionale confinante con il Complesso commerciale. c) Il Complesso commerciale e Torre 5 (meglio individuati nella planimetria Allegata sub All. A) sono stati realizzati in attuazione del Piano di Lottizzazione (PL) “Viadotto 2”, approvato con delibera C.C. n. 42 del 22.3.2002, ed oggetto della convenzione urbanistica di cui all’atto del notaio Marco Pozzoli in data 31.10.2002 (Rep. n. 27455, Raccolta n. 10743), che ha previsto l’attuazione di una capacità edificatoria complessiva pari a mq. 31.018 di SLP, a destinazione terziario – commerciale. d) Il PL ha inoltre stabilito l’obbligo di realizzare dotazioni di standard (parcheggi, aree a verde, spazi di uso pubblico) per complessivi mq. 57.416. e) Il Piano di Lottizzazione risulta attuato, sia con riferimento alla SLP edificabile (tutti gli edifici sono stati completati e sono dotati di certificazione di agibilità) che in merito alle
+
+2° foglio
+opere di urbanizzazione, queste ultime oggetto di “Certificato di Collaudo Tecnico Amministrativo” sottoscritto in data 10.10.2016, che ha accertato l’intervenuta realizzazione di aree a standard per la maggior estensione di mq. 63.273, con incremento rispetto agli impegni del PL (non dedotto in alcun obbligo convenzionale) per mq. 5.857. Il collaudo ha peraltro rilevato il mancato adempimento dell’obbligo di costituire sulle dotazioni urbanizzative il vincolo giuridico in favore della collettività previsto dalla legge e dalla convenzione, ovverossia l’obbligo di cessione al Comune di parte delle dotazioni urbanizzative (da effettuarsi anche per aree interessate da opere stradali) e l’obbligo di costituire, sulle rimanenti dotazioni urbanizzative, la servitù di uso pubblico in favore del Comune. f) Nell’ambito delle attività di individuazione catastale, parti del Complesso commerciale variamente collocate in quest’ultimo, totalmente intercluse nelle proprietà oggi del Fondo e serventi esclusivamente le unità immobiliari site nel Complesso commerciale medesimo, sono state inserite in unica particella (n. 167), classificata come “beni comuni” (“BCNC”). La planimetria allegata sub All. B identifica le porzioni ricondotte alla particella e le unità immobiliari proporzionalmente contitolari della particella medesima, con l’indicazione dei soggetti allo stato proprietari. g) Ulteriori porzioni, aventi caratteristiche consimili a quelle riunite sub particella n. 167, sono state ricondotte alla particella n. 166, catastalmente classificata come “C2” ed erroneamente indicata come di proprietà esclusiva del Fondo. Tali porzioni, che includono anche un tratto di viabilità di accesso ai parcheggi, soggetta ad impegno di asservimento a uso pubblico, sono rappresentate nella planimetria allegata sub All. C. h) Successivamente alla sua realizzazione, il Complesso commerciale è stato gestito tramite il “Consorzio Operatori del Complesso Polifunzionale Le Vele", istituito con atto Notaio Cherubini in data 11.3.2004, Rep. n. 17189 Racc. n. 3498, ed annessi Statuto e Regolamento. Al Consorzio aderiscono i soggetti proprietari degli immobili compresi nel Complesso, risultando comunque inclusi - automaticamente, e per clausola contenuta nei contratti di affitto – tutte le “persone fisiche e/o giuridiche esercenti attività commerciali e/o di servizio alla clientela all’interno del Complesso Le Vele, aderenti obbligatoriamente al Consorzio” (art. 3.3. Statuto). Il Consorzio, tramite incarichi a terzi si occupa (art. 4 Statuto) di:
+o organizzare, coordinare e gestire tutti i servizi e tutte le parti comuni del Complesso le Vele;
+o promuovere tutte le iniziative necessarie per sviluppare l'attività del Complesso;
+2
+
+3° foglio
+o attivare i mezzi necessari al conseguimento del suddetto obiettivo, in particolare organizzando, con sistematicità, iniziative di animazione e campagne pubblicitarie comuni a supporto della notorietà del Complesso e delle attività dei Soci;
+o coordinare l’attività dei Soci per quanto riguarda, tra l'altro, orari, iniziative commerciali, vendite promozionali, saldi, liquidazioni, ecc..
+i) Allo stato, il Condominio, quale Socio del Consorzio e nel rispetto dello Statuto e del regolamento dello stesso, è tenuto a corrispondere al Consorzio quote di partecipazione alle spese.
+j) Il vigente PGT del comune di Desenzano del Garda (approvato con deliberazione CC n. 13 in data 24.3.2017, in BURL n. 26 in data 28.6.2017) include l’intera area del precedente PL “Viadotto 2” nell’Ambito di Trasformazione Produttiva Convenzionato “AUT/CV 16 ex PAV 17”, classificando gli edifici quali “Ambiti Produttivi per Attività Direzionali, Terziarie e Commerciali”, disciplinati dall’art. 36 ter delle NTA del Piano delle Regole. Il comma 5 di detto art. 36 ter ammette, nei “lotti saturi alla data di adozione del previgente PGT - 28/09/2011”, l’incremento dell’edificazione “nella misura del 10%”.
+k) Il vigente PGT del comune di Desenzano del Garda, all’interno degli elaborati del c.d. “Piano dei Servizi” censisce le dotazioni urbanizzatorie a servizio del PL come aree per “Servizi Pubblici” e le articola in un’area per parcheggi privati ad uso pubblico denominata “PP-a068” estesa per 9.293 mq., una seconda adiacente area per parcheggi privati di uso pubblico denominata “PP-c-004” estesa per 7.784 mq., un’area per verde pubblico denominata “Ve-c-027” per 4.675 mq. Nella “Relazione” e nelle schede-parcheggi specifiche del complesso riportate nel Piano dei Servizi, le aree destinate a parcheggi sono censite e classificate come dotazioni private d’uso pubblico di scala sovralocale.
+l) Il Fondo ha ritenuto di avvalersi della facoltà di ampliare la SLP di sua proprietà (mq. 25.220) nella misura massima del 10% (max mq. 2.522 di SLP aggiuntiva).
+m) Ai sensi del combinato disposto dell’art. 14, comma 1 bis della LR n. 12/2005, dell’art. 17.2 e dell’art. 36 ter comma 4 delle NTA del Piano delle Regole, il Fondo ha presentato al Comune istanza per il rilascio di permesso di costruire convenzionato, avente ad oggetto progetto di ampliamento per la superficie di mq. 2.497 (< mq. 2.522).
+n) Il Comune di Desenzano, con delibera Giunta Comunale n. 50 in data 9.3.2021 ha approvato lo schema di convenzione, successivamente sottoscritta in data 23.3.2021 (Rep./Racc. nn. 34033 Notaio Cherubini di Brescia). In data 4.5.2021, pertanto, è stato rilasciato il permesso di costruire (n. 24637, PE n. 1378/2020).
+3
+
+4° foglio
+o) In sede di atto convenzionale, il Fondo ha assunto impegni di cessione/asservimento ad uso pubblico di aree e superfici, identificate in coerenza al progetto di ampliamento, per la complessiva dotazione di standard di mq. 62.350 (di cui mq. 16.934 aree in cessione e mq. 45.416 aree in asservimento ad uso pubblico), con riduzione rispetto alla dotazione rilevata in sede di collaudo per mq. 923 ma maggior estensione rispetto alla dotazione oggetto degli impegni in sede di convenzione di PL per mq. 4.934.
+p) La dotazione reperita, come asseverato nella convenzione in data 23.3.2021, è riferita al totale della SLP del Complesso plurifunzionale. Unitamente all’ampliamento richiesto dal Fondo, la SLP complessiva risulta pari a mq. 33.515, la cui dotazione dovuta (in base al parametro del previgente PL: 150% SLP) sarebbe pari a mq. 50.273 (< mq. 62.350 – dotazione reperita). Per l’effetto, gli impegni assunti dal Fondo nei confronti del Comune garantiscono una dotazione di standard largamente superiore a quanto dovuto sia per la SLP esistente, che per la SLP in ampliamento, inclusi in quest’ultima gli ampliamenti già in corso della SLP del Fondo ed altresì, occorrendo, gli ampliamenti per il 10% massimo della SLP di ogni altro edificio realizzato nell’ambito del PL “Viadotto Due”.
+q) Relativamente alle aree oggetto di asservimento ad uso pubblico, la convenzione prevede gli obblighi, a carico del Fondo, per la manutenzione ordinaria e straordinaria delle aree medesime.
+r) Ulteriormente, la convenzione reca l’impegno del Fondo di cedere al Comune mq. 8.152 di aree per viabilità primaria.
+s) Avverso gli atti di approvazione del progetto di ampliamento del Fondo, il Condominio ha interposto ricorso straordinario al Capo dello Stato, in seguito trasposto avanti al TAR Lombardia Brescia (nrg 673/2021, II sezione), ed oggetto di successivi motivi aggiunti.
+t) In base a tali impugnazioni - i cui contenuti, noti alle parti, non necessitano in questa sede di esposizione nel dettaglio - il Condominio ravvisa lesione dei propri interessi particolarmente in merito: a) alla ridotta disponibilità di parcheggi; b) alla maggiore difficoltà di realizzare l’ampliamento del 10% della SLP di “Torre 5”, per l’indisponibilità della dotazione di standard conseguente alla mancanza di procedura unitaria di ampliamento; c) all’utilizzo per l’ampliamento di porzioni del Complesso commerciale (identificate catastalmente con particella n. 167) aventi qualifica di “beni comuni”; d) alla lesione del proprio diritto di non subire modifiche della quantità, della configurazione e della species delle dotazioni urbanizzatorie del Comparto unitario “AUT/CV 16 ex PAV 17” senza partecipare alle convenzioni od accordi che stabiliscano tali modifiche o, comunque, senza che sia stato prestato il proprio consenso; e)alla mancata valutazione degli impatti che la modifica delle
+4
+
+5° foglio
+dotazioni urbanizzatorie provocherà sulla adeguatezza delle dotazioni di parcheggi pubblici in relazione alla loro specifica funzione di parcheggi di scala sovra-locale a servizio della intera collettività cittadina, e non solo del Comparto “AUT/CV 16 ex PAV 17, come stabilito dal PGT. u) Con relazione depositata sub doc. 16 di parte ricorrente nel fascicolo del TAR, i danni richiesti dal Condominio in corrispondenza delle lesioni sub a), b) e c) sono stati partitamente esposti e indicati nell’equivalente ammontare pecuniario. v) Il Fondo, ritualmente costituitosi, ha depositato avanti al TAR memoria recante contestazione di inammissibilità ed infondatezza del ricorso del Condominio ed altrettanto ha fatto il Comune di Desenzano del Garda.
+PREMESSO ULTERIORMENTE CHE w) Le parti intendono comporre tra di esse la controversia, nella comune convinzione
+dell’opportunità di ogni iniziativa che possa rilanciare e valorizzare il Complesso plurifunzionale. x) In tale prospettiva, si condivide la finalità di conseguire un accordo che non solo consenta di pervenire a transazione, ma oltre ancora definisca tra il Fondo e il Condominio un assetto di rapporto rinnovato, più efficiente ed aderente alle esigenze di entrambe le parti. y) Per tali motivi, si è concordata tra le parti un’intesa complessiva, i cui diversi aspetti, meglio dettagliati ai successivi articoli, sono comunque da considerarsi retti da vincolo reciproco di interdipendenza. Tutto ciò premesso, tra le suindicate parti si
+CONVIENE E STIPULA quanto segue.
+ARTICOLO 1 PREMESSE 1. Le premesse e le documentazioni allegate formano parte integrante e sostanziale del presente atto. 2. Le Parti si impegnano a dare attuazione al presente accordo con reciproca buona fede e verificando tra di esse ogni possibile implementazione possa incrementarne gli effetti, in vista della valorizzazione del Complesso plurifunzionale e di ogni sua singola parte.
+ARTICOLO 2 RICONOSCIMENTO DI INDENNIZZO 5
+
+6° foglio
+RINUNCIA AL RICORSO 1. A compensazione degli asseriti disagi patiti e patendi da parte del Condominio e dei titolari
+delle singole unità immobiliari che lo compongono in relazione al progetto di ampliamento del Complesso commerciale, il Fondo accetta di riconoscere al Condominio l’indennizzo di € 70.000. 2. Le parti si danno reciprocamente atto che tale indennizzo è attributo esclusivamente a fini di composizione transattiva, senza che ciò comporti riconoscimento di pretese e/o ammissione di illegittimità di atti o di interventi ed opere. 3. Considerato tale indennizzo, e tenuto conto del nuovo assetto complessivo dei rapporti di gestione definito all’art. 5, con conseguenti risparmi per Torre 5, il Condominio rinuncia al ricorso avverso gli atti di approvazione dell’ampliamento di Coima e rinuncia altresì ad ogni azione relativa che possa da detto Condominio essere vantata ad ogni effetto, dichiarando in questa sede di condividere gli obiettivi dell’intervento di ampliamento e riorganizzazione del Complesso commerciale in oggetto. Si da atto che la rinuncia all’azione resta efficace anche in relazione ad eventuali varianti del progetto di ampliamento, rispetto a quanto approvato con il permesso di costruire n. 24637 PE n. 1378/2020, ferma restando esclusivamente l’osservanza di quanto previsto dal presente accordo in merito alla quota di parcheggi di più diretto interesse del Condominio identificati all’art. 5, comma 4. 4. A tali finalità, ed anche al fine di non far maturare ulteriori spese giudiziali, attesa l’udienza di discussione nel merito già fissata, il Condominio dichiara che per effetto della sottoscrizione del presente accordo e del pagamento della quota di indennizzo indicata al successivo comma 7a, si determina la sopravvenuta carenza di interesse al ricorso pendente sub nrg 673/2021 avanti al TAR Lombardia Brescia e la rinuncia all’azione. 5. Per l’effetto, il Condominio si impegna a depositare atto di dichiarazione di sopravvenuta carenza di interesse al ricorso pendente sub nrg 673/2021 avanti al TAR Lombardia Brescia e di rinuncia all’azione a spese compensate entro tre giorni dalla sottoscrizione del presente accordo transattivo e dal versamento del 25% dell’indennizzo, con spese compensate. 6. Trascorso inutilmente il termine di cui sopra, il Fondo sarà direttamente legittimato a depositare al TAR l’accordo contenente la dichiarazione di sopravvenuta carenza di interesse e di rinuncia all’azione. Il Fondo si impegna a conseguire dal Comune di Desenzano del Garda, costituitosi in giudizio, l’accettazione alla compensazione delle spese, e si impegna ad assumere le spese legali del Comune in caso di mancata accettazione da parte di quest’ultimo.
+6
+
+7° foglio
+7. L’indennizzo di cui al comma 1 sarà corrisposto come segue: a) per il 50% alla sottoscrizione del presente accordo e alla produzione di verbale di assemblea di Condominio che approva il regolamento di buon vicinato di cui all’art. 5; b) per il 50% alla sottoscrizione, da parte di condomini che rappresentino complessivamente almeno 800 millesimi, delle proposte irrevocabili di cui al successivo art. 4, e conseguente approvazione, ad ogni effetto e senza eccezioni, da parte dei medesimi condomini, anche in qualità di comproprietari delle particelle 166 e 167, del progetto di ampliamento.
+ARTICOLO 3 ASSETTO DELLE DOTAZIONI DI STANDARDS 1. Le parti si danno reciprocamente atto che la dotazione di standards assicurata dal Fondo ed indicata ai punti o) e p) delle superiori premesse serve l’intera SLP del Complesso plurifunzionale e la SLP conseguente ai relativi ampliamenti degli edifici che lo compongono. 2. Per l’effetto, le parti condividono il criterio per cui, in caso di utilizzo della facoltà di ampliamento del 10% della SLP di Torre 5, non sarà dovuta dal Condominio alcuna monetizzazione, al pari di quanto già sancito dal Comune nel caso dell’ampliamento già autorizzato. 3. In merito, si dà atto che il Comune di Desenzano del Garda, con proprio parere prot. n.26645 del 29.04.2022, al pari di quanto sancito nel caso dell’ampliamento già autorizzato, ha confermato l’insussistenza di alcun onere di monetizzazione a carico del Condominio per il caso di realizzazione da parte di quest’ultimo dell’ampliamento della propria SLP. 4. Il Fondo si impegna, per il caso di modifiche o integrazioni della convenzione in data 23.3.2021, a dare espressamente atto di tale principio nei rapporti con il Comune. 5. Resta fermo che ogni parte assume su di sé il costo del contributo concessorio dovuto per il rispettivo ampliamento, e, per l’effetto, il Condominio, in caso di eventuale ampliamento della propria SLP, avrà a corrispondere i soli oneri urbanizzativi (costo di costruzione e gli oneri di urbanizzazione di cui all’art. 16 T.U. Edilizia). 6. Sono fatte salve varianti dello strumento urbanistico generale che modifichino il quadro normativo sulla base del quale sono state definite le pattuizioni del presente articolo, dei cui effetti, anche ove pregiudizievoli per il Condominio, il Fondo non risponde a nessun titolo.
+7
+
+8° foglio
+Resta inteso che il Condominio resta peraltro libero di contestare in ogni sede tali varianti dello strumento urbanistico generale, anche se conseguenti ad accordi con i privati, laddove le ritenga pregiudizievoli ed illegittime per i propri diritti ed interessi.
+ARTICOLO 4 DEFINIZIONE TITOLARITA’ DELLE PARTICELLE NN. 166 E 167 1. Il Condominio, dando atto dell’incongruità della classificazione come “beni comuni” di porzioni immobiliari comprese nella proprietà esclusiva del Fondo, si farà parte attiva per conseguire, da ognuno e ciascuno dei propri condòmini, la vendita al Fondo della quota, proporzionale di ciascuno di essi, di comproprietà della particella n. 167. Sono eccettuate da tale cessione le porzioni della particella n. 167 (evidenziate in magenta nell’Allegato B e ivi indicate come “particella 167/b”) che corrispondono a superfici di interesse dell’edificio condominiale “Torre 5”. 2. Analogamente si prevede, relativamente alle porzioni che compongono la particella n. 166, catastalmente classificata come “C2”. 3. Il Condominio prende atto che il prezzo che sarà complessivamente dovuto dal Fondo per il totale delle quote di spettanza di tutte le unità immobiliari comprese in Torre 5 sia pari ad € 200.000, di cui € 180.000 per la particella n. 167 ed € 20.000 per la particella n. 166. 4. Si precisa, relativamente alla porzione della particella n. 167 corrispondente alla viabilità di accesso ai parcheggi sita al piano primo del Complesso Commerciale, che il valore appena indicato non ha assunto in considerazione le superfici di tale viabilità, in quanto soggette ad impegno di asservimento a uso pubblico. Al fine, peraltro, di assicurare adeguata valorizzazione, per il Condominio e conseguentemente per i condòmini, anche di tali superfici, il Fondo riconosce al medesimo Condominio la riduzione, per il primo anno, del contributo alle spese di cui al successivo art. 5, comma 8. 5. Ai fini della suddivisione, tra i condomini, degli importi di cui al comma 3, le parti hanno convenuto che la ripartizione di tali prezzi complessivi avverrà in proporzione delle quote millesimali di competenza di ciascun condomino per la ripartizione delle spese ordinarie in base al regolamento di condominio. 6. Per l’effetto, al presente accordo transattivo sono allegati: a. quale All. D1: schema di proposta irrevocabile di compravendita in forma di scrittura
+privata avente ad oggetto:
+8
+
+9° foglio
+i. la cessione al Fondo della quota di comproprietà della particella n. 167 (al netto della porzione indicata come “particella 167/b”), anche agli effetti della successiva riclassificazione da “bene comune” a “F/4”;
+ii. la cessione al Fondo della quota di proprietà della particella n. 166, con rinuncia ad ogni diritto eventuale di comproprietà spettante;
+iii. l’approvazione da parte di ciascun condomino, agli effetti anche e propri diritti di proprietà e comproprietà, di contenuti ed effetti del presente accordo, del regolamento di buon vicinato qui previsto e l’approvazione, ad ogni effetto, del progetto di ampliamento del Fondo;
+b. quali Allegati alla suddetta proposta irrevocabile: i. All (D1)1: Planimetria di individuazione delle porzioni ricondotte alla particella n. 167 - Planimetria di individuazione delle porzioni ricondotte alla particella n. 166; ii. All. (D1)2: Suddivisione quote delle particelle 166 e 167 - Elenco dei condòmini di Torre 5 con l’indicazione della quota di prezzo a ciascuno spettante a valere sui prezzi complessivi indicati al comma 3.
+7. Il 25% del prezzo sarà corrisposto a ciascun condomino entro 2 giorni lavorativi dalla sottoscrizione della rispettiva proposta, in forma di scrittura privata e notarile.
+8. L’obbligo di versamento del saldo del prezzo a ciascun condomino è condizionato alla avvenuta sottoscrizione delle proposte irrevocabili in forma notarile da parte di condomini che rappresentino complessivamente almeno 800 millesimi, e sarà pertanto adempiuto entro trenta giorni dal perfezionamento di tale condizione.
+9. Resta ferma la facoltà del Fondo, fermo il pagamento del prezzo, di posporre l’accettazione delle offerte e il conseguente effetto traslativo delle quote di comproprietà.
+10. La proposta irrevocabile di cui al comma 4 prevede anche l’approvazione da parte dei condomini, ad ogni effetto e anche in qualità di titolari delle particelle n. 166 e 167, del progetto di ampliamento già approvato ed in corso di esecuzione e ciò anche agli effetti dell’art. 1108 cod. civ.
+11. Le proposte irrevocabili di cui allo schema allegato recano altresì l’accettazione, da parte di ciascun condòmino, a titolo personale e quale proprietario di unità immobiliari comprese nel Complesso plurifunzionale: a. della rinuncia al ricorso e alle azioni del Condominio di cui all’art. 2, con rinuncia altresì di ciascun proprietario e condòmino ad ogni e qualunque azione ad esso direttamente spettante a qualsivoglia titolo;
+9
+
+10° foglio
+b. degli accordi con il Condominio di cui al successivo art. 5 in merito alla gestione del Complesso;
+c. del diritto del Fondo di operare rettifiche catastali al fine di adempiere agli impegni con il Comune, di cui al successivo art. 6.
+ARTICOLO 5 DEFINIZIONE MODALITA’ DI GESTIONE DEL COMPLESSO PLURIFUNZIONALE
+RIDUZIONE ONERI DEL CONDOMINIO 1. Le parti condividono la necessità di pervenire al superamento della odierna forma consortile
+quale mezzo di gestione del Complesso plurifunzionale, anche in conseguenza dell’assunzione degli impegni di manutenzione in capo al Fondo nei confronti del Comune, con la convenzione 23.3.2021. 2. A tal fine, le parti concordano innanzitutto che i diritti del Condominio relativamente al Complesso Polifunzionale, per le parti non di proprietà del Condominio stesso e dei suoi condòmini, consistono esclusivamente nel diritto di fruizione delle aree di proprietà pubblica e/o ad uso pubblico per viabilità e parcheggi, come rappresentate nella convenzione urbanistica sottoscritta in data 23.03.2021. Allo stato, tali aree e in particolare le dotazioni per gli standard urbanistici in previsione sono infatti rappresentate nella Tavole All. D e E alla convenzione urbanistica sottoscritta in data 23.3.2021 (Rep./Racc. nn. 34033 Notaio Cherubini di Brescia), per la cui eventuale modifica è necessario l’assenso del Comune. 3. Si riconosce il diritto del Fondo di modificare tali aree di uso pubblico e/o parcheggi di uso pubblico, in accordo con il Comune, a seguito di modifiche al Complesso Plurifunzionale, senza che il Condomino o i condomini di Torre 5 possano interferire nelle scelte effettuate. 4. Per accordo tra le parti è fatta salva l’intangibilità della porzione di parcheggi di uso pubblico identificata in tinta arancione nella planimetria All. E al presente accordo identificata di comune accordo tra le parti in relazione alle esigenze quali-quantitative del Condominio. Ciò, senza pregiudizio ovviamente della facoltà dei condomini di avvalersi delle ulteriori quote di parcheggi, ad uso pubblico. Qualsivoglia futura modifica qualitativa, quantitativa o localizzativa della porzione identificata in tinta arancione nella planimetria All. E, pertanto, potrà in ogni momento essere realizzata dal Fondo, con l’autorizzazione del Comune (se richiesta dalle norme
+10
+
+11° foglio
+applicabili), acquisito l’assenso del Condominio, fermo che tale assenso non sarà necessario con riferimento ad altre porzioni di uso pubblico. 5. Conseguentemente, si dà atto dell’assenza di qualsiasi interesse e diritto, e per correlazione di alcun dovere, del Condominio in ordine alla gestione del Complesso commerciale e ai relativi costi. Parimenti, nessun interesse o diritto ha il Condominio ad eventuali modifiche, ampliamenti o variazioni di attività del Complesso commerciale. 6. In merito alle modalità di gestione dei beni di uso pubblico, le parti dichiarano di condividere la necessità di pervenire al superamento della forma consortile. 7. Concordano, pertanto, di operare congiuntamente al fine di conseguire lo scioglimento del Consorzio, procedendo in seguito il Fondo ad individuare Società di propria esclusiva scelta cui affidare l’intera gestione del Complesso plurifunzionale, anche quale adempimento degli obblighi di manutenzione assunti nei confronti del Comune per le aree asservite ad uso pubblico. 8. In tale contesto, le parti condividono ed accettano espressamente che il Condominio sia esonerato da ogni e qualsiasi spesa variabile di gestione del Complesso plurifunzionale, salvo il pagamento di un contributo annuo fisso (di seguito definito “indennità”), nella misura di € 40.000 (euro quarantamila virgola zero zero) (incrementato annualmente nella misura del 100% dell’indice Istat FOI), per spese generali di mantenimento delle aree di uso pubblico del Complesso plurifunzionale. Correlativamente, il Fondo si impegna ad assicurare la manutenzione, ordinaria e straordinaria delle aree di uso pubblico nei termini indicati nella convenzione in essere con il Comune, e comunque con svolgimento delle attività di pulizia ed illuminazione dei parcheggi comuni, manutenzione del verde, copertura assicurativa per responsabilità civile sugli spazi di uso pubblico, servizio di vigilanza delle parti di uso pubblico. Per il solo e corrente anno 2022, in relazione alle esigenze di valorizzazione, di cui all’art. 4, della quota parte della particella n. 166 interessata da viabilità di uso pubblico, si dà atto che il contributo è pari ad € 10.000,00. 9. Conseguentemente, con la firma della presente a far data dal corrente esercizio di bilancio per l’annualità 2022 e quindi per effetto retroattivo al 1 gennaio 2022 e sino allo scioglimento del Consorzio, il Fondo dichiara di manlevare e garantire il Condominio da ogni e qualsivoglia pretesa eccedente gli importi suindicati (per il corrente anno e a regime) che direttamente o indirettamente fosse rivolta nei confronti dello stesso per oneri, costi e spese a qualsiasi titolo richieste dal Consorzio e/o da terzi con riferimenti alla gestione
+11
+
+12° foglio
+ordinaria e straordinaria ed alla manutenzione, ordinaria e straordinaria, delle componenti di uso pubblico del Complesso plurifunzionale e pertanto dichiara di obbligarsi ed assume a suo carico, in luogo ed in sostituzione del Condominio, i contributi dovuti da quest’ultimo al Consorzio per l’importo eccedente l’indennità come sopra quantificata. 10. Il Condominio sin d’ora dichiara la propria volontà di recedere dal Consorzio stesso o di procedere al suo scioglimento, impegnandosi a formalizzare tale recesso o scioglimento nelle dovute forme entro quindici giorni dall’approvazione del presente Accordo e dell’allegato Regolamento, e comunque dà il proprio consenso alla risoluzione del Consorzio. Il recesso o scioglimento avrà efficacia nei termini e con le modalità previste e consentite dallo Statuto del Consorzio. 11. Diviene pertanto automaticamente operante tra le parti il Regolamento di buon vicinato (All. F al presente accordo) che, tra le parti, sostituisce con efficacia immediata ad ogni effetto la disciplina del Consorzio, regolando i rispettivi rapporti di vicinato nonché le modalità di gestione illustrate ai commi precedenti. Il Regolamento di buon vicinato vincolerà il Condominio e i singoli condomini, da un lato, e il Fondo dall’altro, con effetto anche per rispettivi aventi causa a qualsiasi titolo. In particolare, il Fondo si impegna ed obbliga a che, in caso di cessione da parte sua del Complesso commerciale, o altra operazione finanziaria che coinvolga altri aventi causa a qualsiasi titolo, l’importo dell’indennità di € 40.000 sopra indicato e quantificato non sia modificabile da parte degli acquirenti o aventi causa e sia a loro carico, fatto salvo l’aggiornamento ISTAT pure suindicato. 12. A tale Regolamento si rinvia, quale parte integrante del presente accordo. 13. Il Fondo, peraltro, autorizza sin d’ora il Condominio ad apprestare, e manutenere a sua cura e spese, in prossimità della cabina elettrica del Condominio, una piccola area rifiuti (20 mq., circa), a condizione che il Condominio:
+a. ottenga le necessarie autorizzazioni (Comune, VVFF e ASL se richiesto, Garda uno) b. predisponga e sottoponga a COIMA per la sua approvazione un progetto recante il
+completo occultamento alla vista dell’area dei rifiuti.
+ARTICOLO 6 CORREZIONI CATASTALI 1. Le parti riconoscono come essenziale, per la corretta funzionalità e la valorizzazione del Complesso plurifunzionale, che il Fondo sia posto nelle condizioni di poter efficacemente
+12
+
+13° foglio
+adempiere agli impegni assunti nei confronti del Comune in merito alle aree in cessione o da asservire ad uso pubblico. 2. A tal fine, il Condominio, e ciascun condòmino tramite la sottoscrizione delle offerte irrevocabili di cui all’art. 4, autorizza il Fondo ad operare ogni e qualsiasi rettifica di situazioni catastali errate si renda a tal fine necessaria, inerenti aree di proprietà del Condominio e/o di singoli condòmini. Ciò, con particolare riferimento all’esatta rappresentazione catastale delle aree esterne da cedere al Comune e all’ampliamento dell’area per la vasca antincendio, in conformità all’elaborato planimetrico allegato sub All. G. 3. A tal fine, il Condominio e ciascun suo condòmino, si impegnano a sottoscrivere ogni e qualsiasi atto relativo a tali correzioni catastali, e comunque conferiscono, in merito, al Fondo mandato con rappresentanza, da intendersi conferito anche nell’interesse del Fondo e pertanto non revocabile, ex art. 1723 cod. civ.
+ARTICOLO 7 CLAUSOLA FINALE 1. Il presente accordo vincola il Condominio anche rispetto ad aventi causa dal Fondo ed il Fondo anche rispetto ad aventi causa del Condominio e dei singoli Condomini, per quanto di ragione. Desenzano del Garda – Milano, ____ ____ 2022
+(per COIMA SGR SPA) Il Consigliere
+Filippo Matteo Ravà
+(per CONDOMINIO “TORRE 5”) L’Amministratore
+Rag. Loredana Castallo
+13
+
+14° foglio
+ELENCO ALLEGATI All. A – Planimetria di individuazione delle parti del Complesso plurifunzionale ed indicazione delle proprietà del Fondo e di Torre 5; All. B – Planimetria di individuazione delle porzioni ricondotte alla particella n. 167 – Elenco unità immobiliari proporzionalmente contitolari della particella, con l’indicazione dei relativi soggetti proprietari; All C - Planimetria di individuazione delle porzioni ricondotte alla particella n. 166 – Elenco unità immobiliari potenzialmente cointeressate alla particella ed indicazione dei relativi soggetti proprietari; All. D – Documentazione inerente le particelle nn. 166 e 167:
+All. D1 - Schema di proposta irrevocabile di compravendita in forma di scrittura privata – Cessione quote particelle nn. 166 e 167 e approvazione accordo e progetto di ampliamento; All. D2 – Schema di proposta irrevocabile di compravendita in forma notarile - Cessione quote particelle nn. 166 e 167; Al. D3 - Elenco dei condòmini di Torre 5 con l’indicazione della quota di prezzo a ciascuno spettante; All. E - Planimetria di individuazione parcheggi prospicenti il Condominio; All. F - Regolamento di buon vicinato; All. G - Planimetria di individuazione delle aree esterne da cedere al Comune e delle aree interessate dall’ampliamento dell’area per la vasca antincendio
+15
+
+ALLEGATO N. 9
+
+ALLEGATO N. 10
+
+ALLEGATO N. 11 composto da n. 2 fogli
+
+2° foglio
+
+ 
+
+
+ 
+
+ 
+     
+ 
+!"!!#$  
+ "%& '#$ ( ")(
+ * "+ ") '+  
+,)( 
+ &  -%%#$   "!(!!
+
+ALLEGATO N. 12 composto da n. 3 fogli
+Spettabile COIMA SGR SPA In qualità di società di gestione del fondo “Coima Core Fund V” Piazza Gae Aulenti 12 20154 Milano Alla cortese attenzione del legale rappresentante Oggetto: proposta irrevocabile di compravendita di quote di comproprietà di porzioni immobiliari
+Egregi Signori, con la presente Vi propongo (quale società di gestione del fondo “Coima Core Fund V”, di seguito il “Fondo”) di acquistare (i) le quote di comproprietà di mia competenza, pari al [..%] della seguente porzione immobiliare sita in Comune di Desenzano del Garda: Foglio 17, particella 420/166, nonché (ii) tutti i diritti a me eventualmente spettanti con riferimento alla porzione immobiliare del medesimo Comune di cui al Foglio 17, particella 420/167. Prendo atto che quota parte della Particella 420/167 (la “Porzione Esclusa”, identificata in colore magenta e con la denominazione “porzioni particella 167b” nella planimetria qui allegata – All. 1) corrisponde a superfici di interesse dell’edificio condominiale “Torre 5”, e pertanto dichiaro:
+- che la cessione delle quote di cui sopra non concerne la Porzione Esclusa; - che nel contesto della compravendita trasferirete in mio favore i diritti a me eventualmente
+spettanti in quanto condomino (e quindi in proporzione alla quota di comproprietà indicate nella tabella All. 2) in relazione alla Vostra quota di tale Porzione Esclusa. Il prezzo per il Vostro acquisto di tali quote e diritti, definito tenendo conto del Vostro trasferimento a mio favore sopra indicato, è complessivamente pari a Euro […], e verrà pagato: 1. quanto al 25% entro 2 giorni lavorativi dalla sottoscrizione della presente proposta per scrittura privata autenticata dal notaio o atto notarile, i cui oneri sono a Vostro carico, e 2. quanto al saldo, entro trenta giorni lavorativi dalla data in cui avrete ricevuto proposte di compravendita (con contenuto analogo alla presente) in forma notarile a favore del Fondo o del soggetto da questi designato delle quote di comproprietà delle suddette particelle oggi di proprietà dei condomini del Condominio Torre 5 (tranne la Porzione Esclusa), tali da rappresentare almeno 800 millesimi del Condominio. Il pagamento dovrà avvenire mediante bonifico bancario sul conto bancario IBAN [...] a me intestato. Prendo atto del fatto che l’efficacia del trasferimento di tali quote e diritti è sospensivamente condizionata, nel Vostro solo interesse, al contestuale acquisto da parte Vostra delle analoghe quote
+
+2° foglio
+e diritti sulle medesime particelle catastali detenute dagli altri condomini del c.d. “Condominio Torre 5” sito in Desenzano del Garda, tali da rappresentare almeno 800 millesimi del Condominio. Tale condizione potrà essere oggetto di rinuncia da parte Vostra, con l’effetto di perfezionare la compravendita a prescindere dall’avveramento della condizione. E’ altresì in Vostra facoltà posporre l’accettazione della presente proposta, e pertanto, il prodursi dell’effetto traslativo, rispetto al verificarsi della condizione di cui al punto 2 di cui sopra, fermo restando che in tal caso è comunque dovuto il pagamento del saldo del prezzo.
+Al fine di consentire la trascrizione della compravendita mi obbligo a sottoscrivere entro 90 giorni dalla data odierna una proposta di compravendita delle suddette quote di comproprietà Aai termini e condizioni della presente alla presente per scrittura privata autenticata dal notaio […]. Tale proposta dovrà essere irrevocabile fino al 31 dicembre 2023 e dovrà avere il medesimo contenuto della presente salvo che non menzionerà l’accordo transattivo e conterrà le dichiarazioni richieste per legge per il valido trasferimento delle quote di comproprietà.
+Anche al fine di agevolare la compravendita delle suddette quote e diritti acconsento a che la categoria catastale della summenzionata particella 420/167 sia convertita da “BCNC” a “F/4” e la Porzione Esclusa sia identificata con un diverso identificativo catastale. Tali variazioni catastali dovranno avvenire a Vostra cura e spese. Acconsento altresì a qualsiasi rettifica catastale di porzioni di mia proprietà o di proprietà del Condominio Torre 5 comprese nel perimetro del centro “Le Vele” o prossime allo stesso. Conferisco alla società COIMA SGR SPA, in persona del suo legale rappresentante o di qualsiasi suo amministratore o procuratore speciale, mandato con rappresentanza irrevocabile, anche nel Vostro interesse, per procedere a tutte le suddette variazioni catastali. La presente proposta viene presentata anche nel contesto dell’accordo transattivo sottoscritto tra la Vostra società e il Condominio Torre 5 in data […]. Tale accordo mi è ben noto, e per quanto occorrer possa lo approvo, anche per quel che concerne il regolamento di vicinato ivi previsto e approvato dall’assemblea del Condominio Torre 5 in data […], regolamento che mi obbligo a rispettare e allegare in copia all’atto di compravendita di cui sopra. Per quanto occorrer possa, nella mia qualità di condomino del Condominio Torre 5 ed altresì a titolo proprio e quale comproprietario delle particelle 420/166 e 420/167, rinuncio a ogni pretesa, diritto, opposizione o ricorso e contestazione con riferimento all’ampliamento del centro “Le Vele” menzionato in tale accordo transattivo, e dò la mia approvazione a tale ampliamento anche per quel che concerne l’utilizzo delle particelle 420/166 e 420/167, e ciò anche ai sensi e per gli effetti dell’art. 1108 cod. civ.
+2
+
+3° foglio
+Sempre per quanto occorrer possa dò il mio consenso allo scioglimento del consorzio menzionato nell’accordo transattivo e agli accordi tra il Condominio Torre 5 e il fondo da Voi gestito menzionati nell’accordo transattivo. Conferisco mandato con rappresentanza in Vostro favore per adottare in mio nome e mio conto ogni decisione relativa all’approvazione di tale ampliamento, al progetto e all’utilizzo delle particelle summenzionate, agli effetti, ivi incluso ed occorrendo, dell’art. 1108 cod. civ. Autorizzo Coima SGR SpA ad effettuare ogni rettifica dì situazioni catastali errate, inerenti aree di proprietà del Condominio e/o di mia contitolarità, con particolare riferimento alle rettifiche dei confini catastali necessarie a dare attuazione all’impegno di cessione al Comune delle aree esterne e all’ampliamento dell’area per la vasca antincendio, e mi impegno a sottoscrivere ogni e qualsiasi atto relativo e comunque mandato con rappresentanza conferito esclusivamente a tal fine, anche nell’interesse del Fondo. Acconsento a che designate un altro fondo o soggetto quale acquirente di tali quote di comproprietà, nomina che dovrà avvenire entro la data di Vostra accettazione della presente. Resta inteso che spese (incluse quelle notarili e di accatastamento o frazionamento), imposte e tasse della cessione sono a Vostro carico. Mi obbligo a non revocare la presente proposta fino al 31 dicembre 2023. Per qualunque controversia relativa alla presente sarà esclusivamente competente il Foro di Milano.
+Distinti saluti [….]
+Rappresentato da […] in virtù della procura irrevocabile concessa in data […] per scrittura privata autenticata dal notaio […] rep. […] racc. […]
+3
+
+ALLEGATO N. 13 composto da n. 2 fogli
+
+2° foglio
+
+ALLEGATO D1.2
+
+QUOTE PROPRIETA’ SUB. 166 E 167
+
+SOGGETTI
+
+%
+
+COIMA
+
+77%
+
+TORRE 5
+
+18%
+
+BIM
+
+5%
+
+100%
+
+ALLEGATO N. 14
+
+SUDDIVISIONE IMPORTI PER CESSIONE QUOTE DEI SUB 166 E 167 SULLA BASE DEI MILLESIMI DEL CONDOMINIO TORRE 5
+
+Condomino
+
+Millesimi
+
+Alfa Tile di Genovesi Attilio & C
+
+25,686
+
+Binderholz gmbh 57,51
+
+Desenzano Trade srl UBI leasing
+
+316,264
+
+Parrini Riccardo Maria 21,693
+
+Quota proprietà Quota proprietà
+
+sub. 166
+
+sub. 167/a
+
+513,72 €
+
+4.623,48 €
+
+1.150,20 €
+
+10.351,80 €
+
+6.325,28 €
+
+56.927,52 €
+
+433,86 €
+
+3.904,74 €
+
+Glob srl Immobiliare Maripa
+snc di Pasquetti La Robinia
+
+21,059 195,732 93,126
+
+421,18 € 3.914,64 € 1.862,52 €
+
+3.790,62 € 35.231,76 € 16.762,68 €
+
+MORGANA 1
+
+19,034
+
+Martini Holding - MPS Leasing
+
+28,176
+
+Tecnotre srl
+
+119,175
+
+Tradelek Impianti spa in liquidazione
+
+17,867
+
+Tre Laghi srl
+
+84,678
+
+380,68 € 563,52 € 2.383,50 € 357,34 € 1.693,56 €
+
+3.426,12 € 5.071,68 € 21.451,50 € 3.216,06 € 15.242,04 €
+
+TOTALE
+
+1.000,00 20.000,00
+
+180.000,00 €
+
+Allegato E
+
+EDIFICIO 1A
+
+EDIFICIO 1B
+
+EDIFICIO 1
+
+PIANO TERRA
+
+Via Caduti dei Lager
+
+EDIFICIO 2
+
+EDIFICIO 3
+
+EDIFICIO 4 + 7A -0,05
+
+Enel Vano tecnico
+
+AUTORIMESSA COMPARTO 3
+
+Via Guglielmo Marconi
+
+N
+
+ALLEGATO N. 15
+Parcheggi prospicenti il Condominio
+
+AUTORIMESSA COMPARTO 1
+WC
+
+Vasca antincendio
+
+AUTORIMESSA COMPARTO 2
+
+ALLEGATO N. 16 composto da n. 9 fogli
+REGOLAMENTO DI BUON VICINATO Approvato nell’assemblea condominiale del __________
+Relativamente alla regolamentazione della gestione dei servizi e beni di interesse comune nel Complesso “Le Vele”, e dei rapporti tra il Condominio e il Complesso commerciale “Le Vele”, allo stato di proprietà del Fondo comune di investimento chiuso di tipo riservato denominato “COIMA CORE FUND V” gestito da COIMA SGR SPA (in prosieguo denominato il “Fondo”), si adotta il seguente regolamento di buon vicinato.
+Art. 1 – Premessa 1. Si premette che si rende necessario per rispondere alle esigenze di funzionalità del Complesso
+Edilizio “Le Vele” individuare il soggetto che deve effettuare le manutenzioni ordinarie e straordinarie sui beni asserviti ad uso pubblico o comunque aperti ad uso pubblico, ma funzionali al complesso e garantire i servizi connessi. 2. Il presente regolamento sostituisce, con effetto immediato tra le parti, quale mezzo di gestione dei beni di uso pubblico, l’operatività del Consorzio degli Operatori del Complesso Polifunzionale” “Le Vele”. 3. Il Condominio Torre 5 pertanto accorda sin d’ora il proprio consenso allo scioglimento del Consorzio e recede dal Consorzio a far data dall’entrata in vigore del presente Regolamento, impegnandosi a formalizzare tale recesso nelle dovute forme entro tre giorni dall’approvazione del presente Regolamento e a formalizzare il proprio consenso allo scioglimento nelle forme di legge quando lo stesso sarà approvato anche dagli altri consorziati. Il recesso avrà efficacia nei termini e con le modalità previste e consentite dallo statuto del Consorzio, fermo restando che, indipendentemente dalla formale permanenza del Condominio quale socio del Consorzio, questi resta obbligato esclusivamente al versamento dell’importo indicato al comma 5. 4. Per l’effetto, il Consorzio degli Operatori del Complesso Polifunzionale “Le Vele” conserva le attuali competenze gestionali esclusivamente sino al suo scioglimento, restando la presente regolamentazione valida con il soggetto che, su indicazione del Fondo, assumerà l’onere gestionale succedendo al Consorzio. 5. Dato atto che l’obiettivo condiviso dello scioglimento del Consorzio richiede l’assenso di soggetti terzi, e che pertanto il Condominio dovrà proseguire a fare parte del Consorzio sino al suo scioglimento, si prevede che, a decorrere dal corrente anno 2022, per tutta la durata della fase transitoria, il Fondo assuma a suo carico, in luogo ed in sostituzione del Condominio, i contributi dovuti da quest’ultimo al Consorzio per l’importo eccedente la contribuzione del Condominio
+
+2° foglio
+indicata all’art. 5 (€ 40.000). Correlativamente, sin quando perduri la sua formale adesione al Consorzio, il Condominio conferisce al Fondo mandato pieno ed irrevocabile, in quanto conferito anche nell’interesse del Fondo (ex art. 1723 cod.civ) a rappresentare il condominio medesimo nel consorzio, con esercizio dei diritti di voto spettanti al Condominio e promessa di dare per rato e approvato il suo operato. Il condominio si obbliga per quanto occorrer possa a conferire delega al Fondo per le singole assemblee del Consorzio. 6. Il presente Regolamento vincola il Condominio, e parimenti i singoli condomini, e il Fondo rispettivamente e reciprocamente nei confronti dei relativi aventi causa.
+Art. 2 – Oggetto del regolamento 1. La regolamentazione che si approva concerne le aree e strutture costituenti servizi di interesse di
+tutti gli insediamenti realizzati nel Piano di Lottizzazione “Viadotto Due” (strade di accesso, parcheggi privati asserviti ad uso pubblico, aree verdi di uso pubblico) oggetto di impegno di asservimento ad uso pubblico in base alla convenzione (sottoscritta in data 23.3.2021 (Rep. n. 34033 Notaio Cherubini di Brescia) corrente tra il Fondo e il Comune. Tali aree sono pertanto identificate nelle planimetrie, che si allegano, approvate con la convenzione di cui sopra (All. 1). 2. Il medesimo Regolamento concerne anche i residui beni in comunione forzosa tra i proprietari di unità immobiliari edificate nel PL “Viadotto Due”: agli effetti del rapporto con il Condominio “Torre 5” tali beni sono esclusivamente le porzioni di fondamenta sottostanti sia il Condominio sia parti del Complesso commerciale di proprietà di COIMA SGR SPA nella sua veste di società di gestione del fondo “Coima Core Fund V” (il “Fondo”).
+Art. 3 – Natura del Regolamento 1. Il presente Regolamento, pertanto, ha natura di regolamento di comunione esclusivamente per i
+beni in comunione forzosa di cui all’articolo precedente. 2. Per tutti gli altri beni il presente atto costituisce regolamento d’uso e di gestione di attrezzature e
+beni oggi di proprietà esclusiva del Fondo, al cui utilizzo il Condominio ha interesse.
+Art. 4 – Regime dei beni di uso pubblico 1. Dato atto del regime di uso pubblico sancito, per i beni di cui all’art. 2, comma 1, dalla
+convenzione sottoscritta in data 23.3.2021, il Condominio Torre 5 riconosce che i propri diritti, relativamente al Complesso Polifunzionale, per le parti non di proprietà del Condominio stesso e dei suoi condòmini, consistono nel diritto di passaggio e fruizione delle aree di proprietà e di uso
+
+3° foglio
+pubblico per viabilità e parcheggio rappresentate nella Tavola All. D e E alla convenzione urbanistica sottoscritta in data 23.3.2021 (rep/Racc. nn. 34033 Notaio Cherubini di Brescia. Si riconosce altresì il diritto del proprietario delle aree oggi di proprietà del Fondo di modificare tali aree comuni e/o parcheggi, in accordo con il Comune, a seguito di modifiche al Complesso Plurifunzionale, come previsto al successivo comma 5 e fatto salvo il disposto del comma 6. 2. Conseguentemente, si dà atto dell’assenza di qualsiasi interesse e diritto, e per correlazione di alcun dovere, del Condominio in ordine alla gestione del Complesso commerciale e ai relativi costi. Parimenti, nessun interesse o diritto ha il Condominio ad eventuali modifiche, ampliamenti o variazioni di attività del Complesso commerciale, della relativa superficie lorda di pavimento e di vendita. 3. Per le aree di uso pubblico in oggetto, rappresentate nella Tavola All. D e E alla convenzione urbanistica sottoscritta in data 23.3.2021 (rep/Racc. nn. 34033 Notaio Cherubini di Brescia. si concorda che soggetto competente in via unica ed esclusiva alla manutenzione e gestione è il soggetto proprietario delle aree oggi di proprietà del Fondo ed aventi causa, o soggetto da questa indicato, anche in conseguenza dell’assunzione degli impegni di manutenzione in capo al Fondo nei confronti del Comune, con la convenzione 23.3.2021. 4. La scelta delle tipologie di servizi, di manutenzioni sia ordinarie che straordinarie nonché la tempistica di realizzazione, modalità di esecuzione, appalti ed entità dei costi verranno autonomamente decisi dal soggetto gestore (Consorzio sino allo scioglimento e successivamente il Fondo o avente causa) senza che il Condomino o i condomini di Torre 5 possano interferire sulle scelte operative, gestionali e di affidamento degli appalti. Allo stato, le dotazioni per gli standard urbanistici in previsione sono rappresentate nella Tavole All. D e E alla convenzione urbanistica sottoscritta in data 23.3.2021 (Rep./Racc. nn. 34033 Notaio Cherubini di Brescia), per la cui eventuale modifica è necessario l’assenso del Comune. In rapporto all’incidenza delle SLP ubicate nel Condominio sul totale della SLP edificata nel lotto, le dotazioni suddette afferiscono il peso insediativo del Condominio solo nella misura del 18%Per l’effetto, le aree a parcheggi sono al servizio precipuo e prevalente del Complesso commerciale “Le Vele”, secondo il principio urbanistico generale per cui le dotazioni di standard sono proporzionate al peso insediativo indotto dall’edificazione, espresso in rapporto al dimensionamento e alla destinazione d’uso della capacità edificatoria realizzata. Si riconosce, pertanto, il diritto del soggetto proprietario delle aree oggi di proprietà del Fondo di modificare tali aree di uso pubblico e/o parcheggi di uso pubblico, in accordo con il Comune, a
+
+4° foglio
+seguito di modifiche al Complesso Plurifunzionale, senza che il Condomino o i condomini di Torre 5 possano interferire sulle scelte effettuate. 5. Per accordo tra le parti è fatta salva l’intangibilità della porzione di parcheggi di uso pubblico identificata in tinta arancione nella planimetria All. A al presente Regolamento, qualiquantitativamente idonea alle esigenze del Condominio. Qualsivoglia futura modifica qualitativa, quantitativa o localizzativa esclusivamente della porzione identificata al presente comma potrà in ogni momento essere realizzata dal soggetto proprietario delle aree oggi di proprietà del Fondo, con l’autorizzazione del Comune (se richiesta dalle norme applicabili), acquisito l’assenso del Condominio, fermo che tale assenso non sarà necessario con riferimento alle altre porzioni di uso pubblico.
+Art. 5 – Contributo del Condominio Torre 5 1. Quale contribuzione agli oneri gestionali inerenti le spese generali di mantenimento delle
+porzioni di uso pubblico, si conviene che al Fondo o soggetto da questo indicato sia corrisposto dal Condominio un contributo annuo fisso (di seguito “indennità”), nella misura di € 40.000 (incrementato annualmente in misura pari al 100% della variazione dell’indice Istat FOI) a decorrere dall’anno odierno. 2. Salvo il pagamento di tale contributo il Condominio è esonerato da ogni e qualsiasi spesa di gestione ordinaria e straordinaria e di manutenzione ordinaria e straordinaria delle aree pubbliche e di uso pubblico del Complesso plurifunzionale. 3. Il contributo viene corrisposto entro il 31 gennaio di ogni anno. 4. Si dà atto che il Fondo si impegna, correlativamente, impegna ad assicurare la manutenzione, ordinaria e straordinaria, delle porzioni di uso pubblico nei termini indicati nella convenzione in essere con il Comune, e comunque con svolgimento delle attività di pulizia ed illuminazione dei parcheggi comuni, manutenzione del verde, copertura assicurativa per responsabilità civile sugli spazi di uso pubblico, servizio di vigilanza delle parti di uso pubblico. 5. Richiamato il disposto di cui al successivo art. 7, si ribadisce che il regolamento di buon vicinato vincolerà il Condominio e i singoli condomini, da un lato, e il Fondo dall’altro, con effetto anche per rispettivi aventi causa a qualsiasi titolo. In particolare, il Fondo riconosce e dichiara che, in caso di cessione da parte sua del Complesso commerciale e/o intervento da parte di altri aventi causa, l’importo dell’indennità come di € 40.000 sopra indicato non è modificabile da parte degli acquirenti/aventi causa, fatto salvo l’aggiornamento ISTAT pure suindicato.
+
+5° foglio
+Art. 6 – Regime dei beni in comunione forzosa 1. Ai beni in comunione forzosa di cui all’art. 2 comma 2 si applicano, quale regolamento di
+comunione, le disposizioni dei precedenti artt. 4 e 5. 2. Per l’effetto, il contributo annuo è da intendersi inclusivo di ogni e qualsiasi spesa il soggetto il
+proprietario delle aree oggi di proprietà del Fondo debba sostenere per la manutenzione ordinaria e straordinaria dei beni in comunione forzosa. 3. Relativamente alle sole spese di manutenzione straordinaria, la distribuzione tra i comproprietari sarà effettuata in base alle norme del Codice civile in materia di comunione, ed in rapporto all’incidenza percentuale delle superfici di rispettiva proprietà rispetto ai soli beni in comunione forzosa qui in oggetto. 4. Ai fini di legge, si allega al presente atto (All. 3) tabella attestante le quote di comunione dei beni di cui sopra spettanti a ciascun comproprietario, fermo restando che per la ripartizione delle spese si applica quanto disposto dal presente articolo. 5. Per quanto non espressamente previsto nel presente Regolamento, si conviene che i rapporti tra i soggetti interessati, relativamente ai beni oggetto di comunione forzosa, siano da comprendersi nella disciplina giuridica delle regole della comunione.
+Articolo 7 – Clausola finale 1. Ogni modifica od integrazione del presente regolamento dovrà essere espressamente approvata dal Condominio e per esso dall’unanimità dei suoi partecipanti e dal Fondo o dai loro aventi causa. 2. Il presente Regolamento vincola le parti anche rispetto agli aventi causa, per tale motivo è fatto obbligo di farne esplicita menzione negli atti di cessione di unità immobiliari comprese nel Condominio o negli atti di disposizione del Fondo o di sue parti o quote.
+ELENCO ALLEGATI All. 1 – Copia Tavole All. D e E alla convenzione urbanistica sottoscritta in data 23.3.2021 (Rep./Racc. nn. 34033 Notaio Cherubini di Brescia) All. 2 - Planimetria di individuazione parcheggi prospicenti il Condominio All. 3 – Tabella relativa ai beni in comunione forzosa - Quote di comunione spettanti a ciascun comproprietario
+
+ALLEGATO F.1
+
+6° foglio
+
+7° foglio
+
+Allegato E
+
+EDIFICIO 1A
+
+EDIFICIO 1B
+
+EDIFICIO 1
+
+ALLEGATO F.2
+
+PIANO TERRA
+
+Via Caduti dei Lager
+
+EDIFICIO 2
+
+EDIFICIO 3
+
+EDIFICIO 4 + 7A
+-0,05
+
+Enel Vano tecnico
+
+AUTORIMESSA COMPARTO 3
+
+Via Guglielmo Marconi
+
+N
+
+Parcheggi prospicenti il Condominio
+
+AUTORIMESSA COMPARTO 1
+WC
+
+Vasca antincendio
+
+AUTORIMESSA COMPARTO 2
+
+8° foglio
+
+CONDOMINIO TORRE 5
+
+Allegato F.3
+Proprietari Fondo Alfa Tile di
+Genovesi Attilio & C
+Binderholz gmbh Desenzano Trade srl - UBI LEASING Parrini Riccardo
+Maria Glob srl Immobiliare Maripa snc di La Robinia MORGANA 1 MONTE DEI PASCHI DI SIENA LEASING & FACTORING, BANCA PER I SERVIZI FINANZIARI ALLE IMPRESE S.P.A. Tecnotre srl Tradelek Impianti spa in liquidazione Tre Laghi srl
+
+9° foglio
+
+Beni in comunione forzosa art. 2.2
+
+Millesimi 308,408
+
+17,764
+
+39,773 218,726
+
+15,003 14,564 135,367 64,405 13,164
+
+691,592
+
+19,486
+
+82,421 12,357 58,563
+
+ALLEGATO N. 17

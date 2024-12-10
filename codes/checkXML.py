@@ -3,6 +3,10 @@ import sys
 from xml.parsers.expat import ExpatError
 import xmltodict
 
+#Checks the xml answers of an llm by comparison with the 'right' answers.
+#The files that have to be compared must have the same name.
+
+
 def countPoints(an, rAn):
     points = 0 
     for k1,v1 in an.items():
@@ -43,22 +47,21 @@ def check(answer, rightAnswer):
             return 'bad-formatted xml file'
     else: return 'wrong type of file'
     if answer.keys() == rightAnswer.keys():
-        #print(countPoints(answer, rightAnswer))
-        #print(maxPoints(rightAnswer))
         pt=(countPoints(answer, rightAnswer)/maxPoints(rightAnswer))*100
         if pt < 0: pt = 0
         return '{:.2f}%'.format(pt)
     else: return 'Keys of files do not match'
        
 if __name__ == "__main__":
-    answersDir = sys.argv[1]
-    rightDir = sys.argv[2]
-
-for subdir1, dirs1, files1 in os.walk(answersDir):
-    for subdir2, dirs2, files2 in os.walk(rightDir):
-        for ans in files1:
-            for rightAns in files2:
-                if ans==rightAns: 
-                    print(ans+': '+check(subdir1+'/'+ans, subdir2+'/'+rightAns))
-    
-	
+    try:
+        answerDir = sys.argv[1]
+        rightDir = sys.argv[2]
+        if os.path.isdir(answerDir) and os.path.isdir(rightDir):
+            for ansRoot, ansDirs, ansFiles in os.walk(answerDir):
+                for rightRoot, rightDirs, rightFiles in os.walk(rightDir):
+                    for ans in ansFiles:
+                        for rightAns in rightFiles:
+                            if ans==rightAns: print(ans+': '+str(check(ansRoot+'/'+ans, rightRoot+'/'+rightAns)))
+        else: print('directories not valid')
+    except IndexError:
+        print('Wrong arguments. There are 2: answers directory and right answers directory')

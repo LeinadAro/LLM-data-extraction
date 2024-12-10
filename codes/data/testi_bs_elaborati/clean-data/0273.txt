@@ -1,0 +1,672 @@
+TRIBUNALE DI BRESCIA
+Quarta Sezione Civile
+Fallimento n. 5/23 – OMISSIS
+************** Giudice Delegato: Dott.sa Simonetta Bruno Curatori: Dott. Valerio Galeri – Dott. Stefano Lancelotti – Dott. Marco Vinti
+**************** GIUDIZIO DI STIMA E VERIFICA DELLA REGOLARITA’ EDILIZIO URBANISTICA INERENTI GLI IMMOBILI
+DEL FALLIMENTO OMISSIS ****************
+TECNICI INCARICATI: Ing. Francesco Bocchio – Ing. Paolo Filippini – Ing. Stefano Tortella ****************
+Ing. Francesco Bocchio Via Benamati, 61
+25088 Toscolano Maderno Tel. 0365/470036
+Mail: francesco.bocchio@studiocontiassociati.it Pec: francesco.bocchio2@ingpec.eu
+**************** Ing. Paolo Filippini
+Via Trento, 2 25128 Brescia Tel. 030/391044 Mail: ing.paolofilippini@libero.it Pec: paolo.filippini@ingpec.eu
+**************** Ing. Stefano Tortella
+Via Corsica, 14/F 25125 Brescia
+Tel. 338/4719359 Mail: stefano.tortella@gmail.com Pec: stefano.tortella@ingpec.eu
+Pag. 1 a 91
+
+Sommario
+1. Premessa ................................................................................................................................................... 4 2. Principi metodologici ................................................................................................................................. 5 3. Verifica conformità edilizio-urbanistica immobili con giudizio di stima in condizioni di vendita forzata . 7
+3.1 Negozi, palazzina uffici e area con residua edificabilità siti in Via I Maggio - XXV Aprile nel Comune di Rovato (BS) ................................................................................................................................................ 7 3.2 Punto vendita al dettaglio (media struttura di vendita) sito in Via Cipro nel Comune di Brescia... 14 3.3 Supermercato e negozio siti in Via Primo Maggio – Via Zocche nel Comune di Capriolo (BS) ....... 17 3.4 Supermercato, appartamento e due sottotetti al rustico siti in Via Chiari nel comune di Coccaglio (BS) 21 3.5 Supermercato con vari posti auto, aree urbane a corte e due garages siti in Via Piantoni nel comune di Cologne (BS)............................................................................................................................... 24 3.6 Punto vendita al dettaglio (supermercato) sito in Viale Repubblica nel comune di Lodi Vecchio (LO) 27 3.7 Supermercato ed appartamenti siti in Via Internazionale nel Comune di Orzinuovi (BS) .............. 31 3.8 Punto vendita al dettaglio (supermercato) ed appartamenti in costruzione ubicati in Bedizzole (BS) – Via Sonvigo ........................................................................................................................................ 34 3.9 Punto vendita al dettaglio (supermercato) e locali artigianali al piano interrato ubicati in Calcinato (BS) – Via Statale n.11.................................................................................................................................. 38 3.10 Punto vendita al dettaglio (supermercato) ubicato in Chiari (BS) – Via C.A. Dalla Chiesa .............. 42 3.11 Punto vendita al dettaglio (supermercato) ubicato in Gambara (BS) – Via Montello..................... 46 3.12 Punto vendita al dettaglio (supermercato) e posti auto interrati ubicati in Ghedi (BS) – Via Cavour
+50 3.13 Punto vendita al dettaglio (supermercato) ubicato in Lodrino (BS) – Via Roma............................. 54 3.14 Punto vendita al dettaglio (supermercato) ubicato in Nuvolento (BS) – Via Papa Giovanni XXIII .. 57 3.15 Punto vendita al dettaglio (supermercato) ubicato in Rezzato (BS) – Via F.lli Kennedy ................. 60 3.16 Punto vendita al dettaglio (supermercato) e autorimessa ubicati in Montichiari (BS) – Via Trieste
+63 3.17 Area edificabile sita in Comune di Agnosine – Via Trieste e intestati a OMISSIS ............................ 67 3.18 Punto vendita al dettaglio ubicato in Brescia – Via Zadei e intestato a OMISSIS............................ 69 3.19 Punto vendita al dettaglio ubicato in Marone (BS) – Via Roma e intestato a OMISSIS .................. 72 3.20 Ristorante con discoteca e aree edificabili in Travagliato (BS) – Via Brescia e intestato a OMISSIS74 3.21 Punto vendita al dettaglio/negozio con posti auto ubicato in Palazzolo Sull’Oglio (BS) – Via Verdi e intestato a OMISSIS ..................................................................................................................................... 77 3.22 Immobili dismessi e abbandonati con area cortilizia pertinenziale ubicati in San Paolo (BS) – Via Roma e intestati a OMISSIS ......................................................................................................................... 79 3.23 Centro commerciale in corso di costruzione e abbandonato con area cortilizia pertinenziale ubicato in Braone (BS) – Via Provinciale e intestato a OMISSIS .................................................................. 82 3.24 Terreni ubicati in Braone (BS) – Via Provinciale e intestato a OMISSIS........................................... 87
+Pag. 2 a 91
+
+3.25 Area urbana destinata a parcheggio ad uso pubblico e strada ubicati in Bagnolo Cremasco (CR) – Via Leonardo da Vinci e intestate a OMISSIS............................................................................................... 88 4. Conclusioni e sintesi giudizi di stima immobili in condizioni di vendita forzata...................................... 89 5. Allegati ..................................................................................................................................................... 91
+Pag. 3 a 91
+
+1. Premessa
+Nell’ambito Fallimento n. 5/2023 OMISSIS, sezione IV civile, Tribunale di Brescia, l’Ing. Paolo Filippini, C.F. FLPPLA82R02B157Z, iscritto all’ordine degli Ingegneri della Provincia di Brescia, n. A5154, e iscritto Albo dei Consulenti Tecnici di Ufficio del Tribunale di Brescia, n. 775 Cat. II Industriale, l’Ing. Stefano Tortella, C.F. TRTSFN75S29B157N, iscritto all’ordine degli Ingegneri della Provincia di Brescia, n. A3832, e iscritto Albo dei Consulenti Tecnici di Ufficio del Tribunale di Brescia, n. 607 e l’Ing. Francesco Bocchio, C.F. BCCFNC78C14D284V, iscritto all’ordine degli Ingegneri della Provincia di Brescia, n. A4073, ed iscritto Albo dei Consulenti Tecnici di Ufficio del Tribunale di Brescia, venivano nominati dai curatori fallimentari della procedura, con conferimento incarico del 25/10/2023, previo decreto di autorizzazione alla nomina del Giudice Delegato, Dott.sa Simonetta Bruno in data 22/09/2023, quali tecnici incaricati all’aggiornamento della relazione peritale già in atti, circa il Concordato Preventivo n. 15/21, e, ora, nel merito del Fallimento n. 5/2023 OMISSIS, adeguandola e completandola con i requisiti necessari in sede fallimentare, in modo da poter disporre dei valori e degli accertamenti necessari per mettere in vendita i numerosi immobili (a destinazione commerciale, residenziale e di terreni) intestati alla ditta fallita. Nella fattispecie, i tecnici incaricati, tenendo come riferimento l’elaborato peritale in atti circa il precedente concordato preventivo, redigono ora un aggiornamento della succitata relazione approfondendola con una verifica della regolarità ediliziourbanistica degli immobili inclusi nella massa fallimentare ed eseguendo un nuovo giudizio di stima inerente gli stessi, divenuti oggetto di vendita forzata.
+Pag. 4 a 91
+
+2. Principi metodologici
+
+I tecnici incaricati dal collegio dei curatori fallimentari procedono a definire e descrivere gli immobili di competenza sui quali eseguire la verifica di conformità edilizio-urbanistica e fornire un giudizio di stima immobiliare in funzione della vendita forzata oggetto del Fallimento in essere. Si allega in calce alla presente l’elenco degli immobili OMISSIS suddivisi tra i tecnici nominati.
+Tabella 1
+
+Comune
+Agnosine Bedizzole Bedizzole Bedizzole Bedizzole Bedizzole Brescia Cipro Brescia Zadei Calcinato Calcinato Capriolo Capriolo
+Chiari Coccaglio Coccaglio Coccaglio Coccaglio Cologne Cologne Gambara
+Ghedi Ghedi Lodrino Marone Nuvolento Orzinuovi Orzinuovi Orzinuovi Orzinuovi Orzinuovi Rezzato Travagliato Travagliato Lodi Vecchio Rovato Bar Rovato Ottico
+
+Tipologia attività
+Area Vendita al dettaglio
+Appartamento 1 Appartamento 2 Appartamento 3 Appartamento 4
+via Cipro Via Zadei
+Peroni Artigianale Vendita al dettaglio Parrucchiera Vendita al dettaglio Vendita al dettaglio sottotetto sottotetto Appartamento Vendita al dettaglio
+2 box Vendita al dettaglio Vendita al dettaglio Posti auto coperti Vendita al dettaglio Vendita al dettaglio Vendita al dettaglio Vendita al dettaglio
+Appartamento 1 Appartamento 2 Appartamento 3 Appartamento 4 Vendita al dettaglio Aree edificabili Ristorante “extivo” Vendita al dettaglio
+Bar Ottico
+
+Ing. Francesco Bocchio
+
+Ing. Stefano Tortella
+
+Ing. Paolo Filippini
+
+X X X X X X
+X X
+X X
+X X X X X X X X X X X X X
+X X
+X X X X X X
+X X X X X Pag. 5 a 91
+
+Rovato Sfitto
+
+Abbigliamento
+
+Rovato
+
+Uffici sede
+
+Rovato
+
+Area PL distributore
+
+Montichiari
+
+Negozio UPIM
+
+X
+
+Montichiari
+
+Posti auto coperti
+
+X
+
+Palazzolo S/o
+
+Immobile dismesso
+
+Palazzolo S/o
+
+Posti auto coperti
+
+San Paolo
+
+Immobile dismesso
+
+Braone abban.
+
+fase di ristrutt (iper)
+
+Braone terreni
+
+fase di ristrutt
+
+Bagnolo Cremasco
+
+Area urbana
+
+X X X
+X X X X X X
+
+Definita la competenza per immobile i tecnici incaricati hanno provveduto ad eseguire le opportune verifiche volte alla verifica della regolarità edilizio-urbanistica degli immobili in esame, e, in ottica di una vendita forzata, fornendo le relative stime immobiliari.
+I tecnici incaricati dal collegio dei curatori, circa il giudizio di stima degli immobili del Fallimento OMISSIS – procedura concorsuale che ha l’obbiettivo di liquidare il patrimonio immobiliare nel minor tempo possibile tramite vendita forzata – utilizzano come unica e sola metodologia di stima quella comparativa, del confronto tra valori di libero mercato, in quanto garanzia di maggiore oggettività. I tecnici incaricati dal collegio dei curatori hanno analizzato i valori di stima correnti, contenuti nelle banche dati dei valori immobiliari (per le varie destinazioni d’uso di mano in mano analizzate) espresse dall’Osservatorio del Mercato Immobiliare dell’Agenzia delle Entrate, dai listini espressi da ProBrixia, azienda della Camera di Commercio di Brescia specializzata nella catalogazione dei valori di stima immobiliari (per la sola provincia di Brescia), da “Borsino Immobiliare” e “Borsa Immobiliare Italiana”, due dei più utilizzati portali e banche dati per le stime immobiliari sull’intero territorio nazionale e, infine, interpellando anche agenzie immobiliari presenti nei luoghi dove sono ubicati gli immobili oggetto di stima. Raccolti e comparati i valori di stima in libero mercato dalle succitate fonti, i tecnici nominati hanno provveduto a individuare tramite media ponderata un valore unitario di stima per ciascun immobile in esame, applicando poi eventuali apprezzamenti o deprezzamenti in relazione all’ubicazione, all’esposizione, all’appetibilità, allo stato di conservazione e manutenzione, in ragione di eventuali gravami riscontrati e non, il tutto per fornire al collegio dei curatori fallimentari e al Giudice un unico, congruo e prudenziale valore di stima immobiliare.
+In ragione del sopraggiunto fallimento, gli scriventi hanno assunto come base di partenza i valori di stima in condizioni di libero mercato già quantificati nella verifica di congruità stime immobili in atti circa il concordato preventivo (Gennaio 2023), applicando ulteriori deprezzamenti motivati dalla vendita forzata dei beni immobili inclusi nella procedura fallimentare e, quindi, privi di garanzie circa eventuali vizi occulti e oggetto di inevitabile e intrinseca svalutazione causata dalla condizione di vendita forzata.
+
+Pag. 6 a 91
+
+3. Verifica conformità edilizio-urbanistica immobili con giudizio di stima in condizioni di vendita forzata
+Con riferimento alla precedente Tabella 1 si riportano, di seguito, le schede di sintesi dei giudizi di stima immobili in condizioni di vendita forzata.
+3.1 Negozi, palazzina uffici e area con residua edificabilità siti in Via I Maggio - XXV Aprile nel Comune di Rovato (BS)
+DESCRIZIONE SINTETICA Si riporta di seguito la descrizione sintetica dei tre negozi e della palazzina uffici oltre che la descrizione dell’area agricola siti in Via I Maggio - XXV Aprile nel Comune di Rovato (BS):
+C. NEGOZI Trattasi di tre negozi con accesso diretto dalla galleria del supermercato e precisamente:
+• negozio con servizi di mq 271,00 circa (mappale 123/11), trattasi di negozio libero al momento del sopralluogo; • negozio con servizi di mq 131,00 circa (mappale 123/12), trattasi di negozio locato ad uso bar al momento del
+sopralluogo; • negozio con servizi di mq 102,00 circa (mappale 123/13), trattasi di negozio locato ad ottico al momento del
+sopralluogo.
+OMISSIS
+Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 21/11/2022.
+Pag. 7 a 91
+
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA A seguito del sopralluogo di cui sopra, della presa visione della documentazione agli atti e delle verifiche degli eventuali aggiornamenti degli strumenti urbanistici vigenti oltre che delle destinazioni d’uso, si riportano di seguito gli esiti delle verifiche di conformità catastale ed urbanistica.
+Ad oggi esistono alcune difformità tra le planimetrie catastali agli atti e lo stato di fatto. In particolare, il negozio al mappale 123 sub.11 presenta una distribuzione interna degli spazi differente da quanto rappresentato nelle planimetrie stesse. Gli uffici di cui al mappale 123 sub. 514 nella porzione ad est presentano una distribuzione degli spazi al piano primo significativamente difforme rispetto a quanto rappresentato nelle schede catastali; oltre ciò, sempre al piano primo, è stato realizzato un locale adibito a servizi igienici sul pianerottolo in prossimità della scala sul lato est del fabbricato.
+Pag. 8 a 91
+
+Il PGT vigente è stato approvato con Delibera del Consiglio Comunale n. 6 del 05/03/2020. Secondo quanto previsto nelle norme tecniche di attuazione contenute nel PGT, l’immobile in esame ricade in “zona DC – Aree destinate ad attività commerciali e direzionali”; l’attuale destinazione d’uso è compatibile con quanto previsto dallo strumento urbanistico vigente e conformi a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 9 a 91
+
+OMISSIS
+Pag. 10 a 91
+
+Pag. 11 a 91
+
+Da un punto di vista edilizio, ad oggi sono presenti alcune difformità rispetto a quanto autorizzato nelle pratiche edilizia agli atti. In particolare:
+• la distribuzione interna del locale di cui al Fg.14, mapp. 123, sub. 11 non è comforme a quanto riportato nell’ultima relativa pratica ediliza agli atti;
+• gli uffici di cui al mappale 123 sub. 514 nella porzione ad est presentano una distribuzione degli spazi al piano primo significativamente difforme rispetto a quanto rappresentato nelle schede catastali; oltre ciò, sempre al piano primo, è stato realizzato un locale adibito a servizi igienici sul pianerottolo in prossimità della scala sul lato est del fabbricato.
+Oltre ciò si segnala che non sono agli atti i certificati di agibilità relativi alle pratiche successive alla DIA 74/07. GUIDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+SI premette che, a fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro e valutate le condizioni di vendita forzata, si applica al valore di mercato stimato un deprezzamento forfetario del 10%. Applicando la metodologia descritta nel precedente paragrafo 2, per i negozi lo scrivente ritiene che il valore unitario di stima più congruo per un immobile come quello in esame ubicato in una zona periferica del comune di Rovato sia pari a 700€/m2 (escluso deprezzamento del 10%). Ne deriva la seguente stima:
+• negozio con servizi di mq 271,00 circa (mappale 123/11): 189.700,00x0.9 € =168.300,00 €; • negozio con servizi di mq 131,00 circa (mappale 123/12): 91.700,00x0.9 € = 82.500,00 €; • negozio con servizi di mq 102,00 circa (mappale 123/13): 71.600,00x0.9 € = 64.400,00 €.
+Per gli uffici lo scrivente riparametra la stima già agli atti introducendo un deprezzamento del 10% per le ragioni sopra illustrate; la stima ammonta a 825.000,00x0.9€=742.500,00 €. Per l’area edificabile lo scrivente riparametra la stima già agli atti introducendo un deprezzamento del 10% per le ragioni sopra illustrate; la stima ammonta a 300.000,00x0.9€ = 270.000,00 €
+Pag. 12 a 91
+
+CALCOLO VALORE CANONE LOCATIVO ANNUO Applicando la metodologia descritta nel precedente paragrafo 2 ed applicando un deprezzamento pari al 10% in ragione della condizione di vendita forzata, per i negozi si stima il seguente valore locativo annuo:
+• negozio con servizi di mq 271,00 circa (mappale 123/11): 11.000,00x0.9 € = 9.900,00 €; • negozio con servizi di mq 131,00 circa (mappale 123/12): 5.500,00x0.9 € = 4.950,00 €; • negozio con servizi di mq 102,00 circa (mappale 123/13): 4.500,00x0.9€ = 4.050,00 €. I locali adibiti ad ufficio risultano attualmente sede della società OMISSIS e sono privi di rendita; si stima un valore locativo annuo pari a 45.000,00€.
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano gravati da: Iscrizione 8435/1339 del 01/03/2017 Ipoteca Volontaria: concessione a garanzia di mutuo fondiario a favore Mediocredito Lombardo S.P.A., a carico di OMISSIS, Somma Capitale: € 7.000.000,00, Somma Iscritta: € 12.250.000,00 con durata pari a 10 anni. L’ iscrizione di cui sopra non grava sugli immobili censiti al - C.F. Fg. 14/NCT, mappale 123 sub. 6-11-12-13505-507-510-511-513-514-515, 516 e 517; resta quindi libera e non colpita l’area edificabile mappale 123 sub. 504.
+Oltre alla summenzionata ipoteca è chiaramente presente la trascrizione della sentenza dichiarativa di fallimento che colpisce gli immobili in esame.
+Pag. 13 a 91
+
+3.2 Punto vendita al dettaglio (media struttura di vendita) sito in Via Cipro nel Comune di Brescia
+DESCRIZIONE SINTETICA Trattasi di immobile destinato alla vendita al dettaglio sito in Via Cipro nel Comune di Brescia. L’immobile ha una SLP al piano terra pari a circa 672 m2 ed è dotato di piano interrato non aperto al pubblico avente una superficie pari a circa 412 m2. Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 11/11/2022 e successivamente durante un sopralluogo conclusivo in data 30/11/2022. CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA A seguito del sopralluogo di cui sopra, della presa visione della documentazione agli atti e delle verifiche degli eventuali aggiornamenti degli strumenti urbanistici vigenti oltre che delle destinazioni d’uso, si riportano di seguito gli esiti delle verifiche di conformità catastale ed urbanistica. Comune di Brescia, Fg. 11/SNA, mappale 9828, sub. 524 (legato al fg. 11/SNA, mapp. 9830, sub. 304, legato al fg. 11/SNA, mapp. 9833, sub. 519), cat. D8, R.C. 11.078,00 € Le planimetrie catastali relative all’immobile in oggetto corrispondono allo stato di fatto. Secondo quanto definito nel PGT vigente, l’immobile in oggetto è sito nei “Tessuti di recente formazione” nella “zona Rc – Aree residenziali con rilevante presenza di commercio”; si riporta di seguito stralcio delle NTA, art. 81:
+Fino alla fine del 2022, lo stato di fatto dell’immobile risultava difforme rispetto alla DIA n. 35095 del 30/6/2009 vista l’inefficacia della successiva CILA n. 148062 del 4/7/2019. In data 25/5/2022 l’utilizzatore degli spazi ha protocollato una CILA (PROTOCOLLO 164329 – PRATICA N. PE1950/2022) relativa ad un intervento di riorganizzazione degli spazi al piano primo finalizzata all’insediamento di una Media Struttura di Vendita; la riorganizzazione è consistita nella modifica tavolati interni nella demolizione di un bagno esistente e nella formazione di nuovo bagno. In data 21/7/2022 l’utilizzatore ha protocollato un’integrazione documentale facendo seguito a specifiche richieste trasmesse dai preposti uffici comunali. Nei documenti allegati alla CILA 164329 del 25/5/2022 i lavori sono descritti come segue:
+Pag. 14 a 91
+
+I lavori di cui sopra hanno avuto inizio in data 6/6/2022 e risultano ad oggi conclusi. Si precisa inoltre che l’inefficacia della CILA n. 148062 del 4/7/2019 era legata al mancato reperimento della dotazione minima di parcheggi che, per una struttura di media vendita, in accordo allo strumento urbanistico vigente, deve pari al 100% della SLP. L’utilizzatore ha rimediato alla mancanza della dotazione minima di parcheggi attraverso la sottoscrizione di n. 12 abbonamenti decennali all’interno del parcheggio “Crystal”. Nei documenti allegati alla CILA 164329 del 25/5/2022 viene descritto:
+Vista la documentazione messa a disposizione dello scrivente dall’utilizzatore, visitati i luoghi oggetto del presente paragrafo, si conclude che, a seguito della conclusione dei lavori eseguiti nel 2022, le destinazioni d’uso ad oggi in essere risultano compatibili con lo strumento urbanistico vigente e conformi a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. Per completezza si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto depositate presso i pubblici uffici ed antecedenti alla CILA (PROTOCOLLO 164329 – PRATICA N. PE1950/2022) del 25/02/2022:
+Pag. 15 a 91
+
+GUIDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+Applicando la metodologia descritta nel precedente paragrafo 2, considerata la vetustà del complesso in cui è inserito l’immobile in oggetto e considerato anche che il tema del reperimento degli standard a parcheggio è stato superato recentemente si ritiene che il valore unitario di stima più congruo per un immobile a destinazione commerciale come quello in esame ubicato in una zona semi centrale del comune di Brescia sia pari a 1.000,00 €/m2; a fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro e valutate le condizioni di vendita forzata, si applica al valore di mercato di cui sopra un deprezzamento forfetario del 10%.
+Pertanto, ne deriva la seguente stima: m2 732,00 x €/m2 1.000,00x0.9 = € 658.800,00.
+CALCOLO VALORE CANONE LOCATIVO ANNUO
+Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ed applicando la metodologia descritta nel precedente paragrafo 2 ed applicando un deprezzamento pari al 10% in ragione della condizione di vendita forzata, ne deriva la seguente stima:
+Valore di stima compendio € 732.000,00 x 6% (aliquota calcolo canone locativo annuo)x0.9 = € 39.528,00.
+Pertanto, lo scrivente stima in € 39.528,00 l’importo del canone di locazione annuo circa l’immobile in esame.
+L’immobile risulta locato a CONAD CENTRO NORD Società Cooperativa.
+Pag. 16 a 91
+
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano gravati da:
+- ISCRIZIONE CONTRO n. 10561/1647 del 01/04/2015 – concessione a garanzia di mutuo (in pari grado all’iscrizione 1648 del 2015) a favore di Credito Lombardo Veneto spa a carico di OMISSIS, somma capitale € 1.500.000,00, somma iscritta € 3.000.000,00, durata 8 anni. Grava anche su altri immobili.
+- ISCRIZIONE CONTRO n. 10561/1648 del 01/04/2015 – concessione a garanzia di mutuo (in pari grado all’iscrizione 1647 del 2015) a favore di Credito Lombardo Veneto spa a carico di OMISSIS (terzo datore d’ipoteca), debitore non datore OMISSIS, somma capitale € 1.5000.000,00, somma iscritta € 2.000.000,00, durata 8 anni. Grava anche su altri immobili.
+Oltre alla summenzionata ipoteca con le relative annotazioni è chiaramente presente la trascrizione della sentenza dichiarativa di fallimento che colpisce gli immobili in esame.
+3.3 Supermercato e negozio siti in Via Primo Maggio – Via Zocche nel Comune di Capriolo (BS)
+DESCRIZIONE SINTETICA Si riporte di seguito la descrizione sintetica del supermercato e dei tre negozi siti in Via Primo Maggio – Via Zocche nel Comune di Capriolo (BS):
+B. NEGOZI
+Trattasi di tre negozi con accesso diretto dalla corte comune al supermercato e precisamente: • negozio con servizi di mq 100,00 circa (mappale 389/5); • negozio con servizi di mq 157,00 circa (mappale 389/8), trattasi di negozio locato a parrucchiera al momento del sopralluogo; • negozio con servizi di mq 169,00 circa (mappale 389/9);
+Pag. 17 a 91
+
+Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 11/11/2022; si segnala che all’interno del supermercato due file di piastrelle sono completamente sollevate per tutta la larghezza del negozio. I negozi di cui ai mappali 389/5 e 389/9 sono esclusi dal presente giudizio di stima poiché alla data odierna risultano venduti. CONFORMITA’ CATASTALE ED EDILIZIO URBANISTICA A seguito del sopralluogo di cui sopra, della presa visione della documentazione agli atti e delle verifiche degli eventuali aggiornamenti degli strumenti urbanistici vigenti oltre che delle destinazioni d’uso, si riportano di seguito gli esiti delle verifiche di conformità catastale ed urbanistica.
+Si conferma che le planimetrie catastali degli immobili ancora oggetto di vendita forzata corrispondono sostanzialmente allo stato di fatto. Il PGT vigente è stato approvato con Delibera del Consiglio Comunale n. 35 del 19/12/2013. Secondo quanto previsto nelle norme tecniche di attuazione contenute nel PGT, l’immobile in esame ricade in “zona R1 – Ambiti prevalentemente residenziali intensivi”; per tale zona lo strumento urbanistico ammette esercizi di vicinato, le medie strutture di vendita con superfici fino ad un massimo di 400 m2 ovvero strutture di media vendita con superfici maggiori di 400 m2 già insediate alla data di adozione delle norma vigenti. L'immobile in esame è composto da uno spazio commerciale che si configura come una media struttura di vendita con superficie maggiore di 400 m2, un bar, un negozio che si configura come esercizio di vicinato ed un altro che costituisce una media struttura di vendita superficie inferiore a 400 m2 e che tali attività sono in essere da ben prima dell'entrata in vigore del vigente PGT. Si conferma quindi che le destinazioni d’uso in essere degli immobili ancora oggetto di vendita forzata risultano compatibili con lo strumento urbanistico vigente e conformi a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 18 a 91
+
+Pag. 19 a 91
+
+La distribuzione interna dei beni immobili degli immobili ancora oggetto di vendita forzata risulta essere conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+Applicando la metodologia descritta nel precedente paragrafo 2, considerata l’ubicazione in zona commercialmente non significativamente attrattiva, si ritiene che il valore unitario di stima più congruo per il supermercato sia pari a 600,00 €/m2 mentre per i tre negozi sia pari a 700€/m2; a fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro e valutate le condizioni di vendita forzata, si applica ai valori di mercato di cui sopra un deprezzamento forfetario del 10%. Pertanto, per il supermercato deriva la seguente stima: m2 1029,00 x €/m2 600,00x0.9 = € 555.660,00. Per il negozio di cui al mappale 389/8 deriva la seguente stima: m2 157 x €/m2 700,00x0.9 = € 98.900,00. CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ed applicando la metodologia descritta nel precedente paragrafo 2 ed applicando un deprezzamento pari al 10% in ragione della condizione di vendita forzata, ne deriva la seguente stima:
+• supermercato € 617.400,00 x 6% (aliquota calcolo canone locativo annuo)x0.9 = € 33.340,00; • negozio di cui al mappale 389/8 deriva la seguente stima: € 5.935,00; • Il supermercato risulta locato a CONAD CENTRO NORD Società Cooperativa. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano gravati da: - ISCRIZIONE CONTRO n. 10561/1647 del 01/04/2015 – concessione a garanzia di mutuo (in pari grado
+all’iscrizione 1648 del 2015) a favore di Credito Lombardo Veneto spa a carico di OMISSIS, somma capitale € 1.500.000,00, somma iscritta € 3.000.000,00, durata 8 anni. Grava anche su altri immobili.
+- ISCRIZIONE CONTRO n. 10561/1648 del 01/04/2015 – concessione a garanzia di mutuo (in pari grado all’iscrizione 1647 del 2015) a favore di Credito Lombardo Veneto spa a carico di OMISSIS (terzo datore d’ipoteca), debitore non datore OMISSIS, somma capitale € 1.5000.000,00, somma iscritta € 2.000.000,00, durata 8 anni. Grava anche su altri immobili.
+Oltre alla summenzionata ipoteca con le relative annotazioni è chiaramente presente la trascrizione della sentenza dichiarativa di fallimento che colpisce gli immobili in esame.
+Pag. 20 a 91
+
+3.4 Supermercato, appartamento e due sottotetti al rustico siti in Via Chiari nel comune di Coccaglio (BS)
+DESCRIZIONE SINTETICA Si riporta di seguito la descrizione sintetica del supermercato del supermercato, dell’ appartamento e due sottotetti al rustico siti in Via Chiari nel comune di Coccaglio (BS):
+C. SOTTOTETTI AL RUSTICO
+Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 11/11/2022. CONFORMITA’ CATASTALE ED EDILIZIO URBANISTICA A seguito del sopralluogo di cui sopra, della presa visione della documentazione agli atti e delle verifiche degli eventuali aggiornamenti degli strumenti urbanistici vigenti oltre che delle destinazioni d’uso, si riportano di seguito gli esiti delle verifiche di conformità catastale ed urbanistica.
+Pag. 21 a 91
+
+Si conferma che le planimetrie catastali di cui sopra corrispondono sostanzialmente allo stato di fatto. Il PGT vigente è stato approvato con Delibera del Consiglio Comunale n. 13 del 26/07/2023. Secondo quanto previsto nelle norme tecniche di attuazione contenute nel PGT, l’immobile in esame ricade in “zona B1 – Edilizia residenziale di completamento”; le attuali destinazioni d’uso sono compatibili con quanto previsto dallo strumento urbanistico vigente e conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 22 a 91
+
+La distribuzione interna dei beni immobili risulta essere conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici.
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+
+Applicando la metodologia descritta nel precedente paragrafo 2, si ritiene che il valore unitario di stima più congruo per immobili a destinazione commerciale come quelli in esame sia pari a 900,00 €/m2; a fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro e valutate le condizioni di vendita forzata, si applica al valore di mercato di cui sopra un deprezzamento forfetario del 10%.
+Pertanto, per il supermercato deriva la seguente stima: m2 1.125,00 x €/m2 900,00X0.9 = € 992.250,00.
+Applicando la metodologia descritta nel precedente paragrafo 2, per l’appartamento finito ritiene che il valore unitario di stima più congruo in esame sia pari a 900,00 €/m2.
+Pertanto, per l’appartamento deriva la seguente stima: m2 62,00 x €/m2 900,00X0.9 = € 50.200,00.
+Per i sottotetti al rustico si stima un valore pari a 180,00 €/m2.
+Pertanto, considerata la sole superficie coperta, per il sottotetto di cui al mappale 123/23 deriva la seguente stima: m2 165,00 x €/m2 180,00 = € 29.700,00.
+Per il sottotetto di cui al mappale 123/24 deriva la seguente stima: m2 195,00 x €/m2 180,00 = € 35.000,00.
+
+CALCOLO VALORE CANONE LOCATIVO ANNUO
+
+Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ed applicando la metodologia descritta nel precedente paragrafo 2 ed applicando un deprezzamento pari al 10% in ragione della condizione di vendita forzata, ne deriva la seguente stima:
+
+• supermercato € 1.012.500,00 x 6% (aliquota calcolo canone locativo annuo)x0.9 = € 54.675,00; • per l’appartamento finito deriva la seguente stima: € 3.013,00; • per il sottotetto di cui al mappale 123/23 deriva la seguente stima: € 1.780,00; • per il sottotetto di cui al mappale 123/24 deriva la seguente stima: € 2.100,00.
+
+Il supermercato risulta attualmente locato a CONAD CENTRO NORD Società Cooperativa.
+
+Pag. 23 a 91
+
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano gravati da:
+- Iscrizione 21309/3591 del 02/07/2014: Ipoteca Volontaria – Concessione a garanzia di apertura di credito a favore Cassa di Risparmio di Parma e Piacenza S.P.A. a carico OMISSIS (terzo datore), debitore non datore OMISSIS., Somma Capitale: € 3.000.000,00, Somma Iscritta: € 4.500.000,00, durata 5 anni. Grava anche su altri immobili, per i beni in Coccaglio grava limitatamente al mappale 123 sub. 4.
+Oltre alla summenzionata ipoteca con le relative annotazioni è chiaramente presente la trascrizione della sentenza dichiarativa di fallimento che colpisce gli immobili in esame.
+3.5 Supermercato con vari posti auto, aree urbane a corte e due garages siti in Via Piantoni nel comune di Cologne (BS)
+DESCRIZIONE SINTETICA Si riporta di seguito la descrizione sintetica del supermercato e dei due garages siti in Via Piantoni nel comune di Cologne (BS):
+SI è potuto osservare lo stato dei luoghi durante il sopralluogo del 11/11/2022. I vari posti auto scoperti, in tutto venticinque, e le due aree urbane a corte si trovano nelle dirette adiacenze del supermercato. Il posto auto coperto è posto al piano interrato e, ad oggi, è adibito a vano tecnico recintato ospitando impiantistica per il trattamento aria a servizio del supermercato.
+Pag. 24 a 91
+
+CONFORMITA’ CATASTALE ED EDILIZIO URBANISTICA A seguito del sopralluogo di cui sopra, della presa visione della documentazione agli atti e delle verifiche degli eventuali aggiornamenti degli strumenti urbanistici vigenti oltre che delle destinazioni d’uso, si riportano di seguito gli esiti delle verifiche di conformità catastale ed urbanistica.
+Pag. 25 a 91
+
+Si conferma che le planimetrie catastali corrispondono sostanzialmente allo stato di fatto. Il PGT vigente è stato approvato con Delibera del Consiglio Comunale n. 37 del 23/10/2023. Secondo quanto previsto nelle norme tecniche di attuazione contenute nel PGT, l’immobile in esame ricade in “Ambito R1 – Residenziale di completamento intensivo”; l’attuale destinazione d’uso commerciale è compatibile con quanto previsto dallo strumento urbanistico vigente e conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+La distribuzione interna dei beni immobili risulta essere conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. GUIDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, si ritiene che il valore unitario di stima più congruo per immobili a destinazione commerciale come quelli in esame sia pari a 950,00 €/m2; ; a fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro e valutate le condizioni di vendita forzata, si applica al valore di mercato di cui sopra un deprezzamento forfetario del 10%. Pertanto, per il supermercato deriva la seguente stima: m2 720,00 x €/m2 950,00x0.9 = € 615.600,00.
+Pag. 26 a 91
+
+Per i due garage si stima il valore in 9.000,00 € cadauno. CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ed applicando la metodologia descritta nel precedente paragrafo 2 ed applicando un deprezzamento pari al 10% in ragione della condizione di vendita forzata, ne deriva la seguente stima:
+• supermercato € 684.000,00 x 6% (aliquota calcolo canone locativo annuo)x0.9 = € 36.930,00; Per ognuno dei due garage si stima un canone locativo annuo pari a 1.000,00€ Il supermercato risulta recentemente locato a CONAD CENTRO NORD Società Cooperativa. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+3.6 Punto vendita al dettaglio (supermercato) sito in Viale Repubblica nel comune di Lodi Vecchio (LO)
+DESCRIZIONE SINTETICA Si riporta di seguito la descrizione sintetica del punto vendita al dettaglio ovvero supermercato sito in Viale Repubblica nel comune di Lodi Vecchio (LO):
+Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 10/11/2022. CONFORMITA’ CATASTALE ED EDILIZIO URBANISTICA A seguito del sopralluogo di cui sopra, della presa visione della documentazione agli atti e delle verifiche degli eventuali aggiornamenti degli strumenti urbanistici vigenti oltre che delle destinazioni d’uso, si riportano di seguito gli esiti delle verifiche di conformità catastale ed urbanistica.
+Pag. 27 a 91
+
+Si conferma che ad oggi si rilevano alcune difformità tra le planimetrie catastali agli atti e lo stato di fatto. In particolare:
+Il PGT vigente è stato approvato con Delibera del Consiglio Comunale n. 56 del 25/11/2015. Secondo quanto previsto nelle norme tecniche di attuazione contenute nel PGT, l’immobile in esame ricade in una zona denominata “Ambiti produttivi, artigianali e commerciali esistenti”; l’attuale destinazione d’uso commerciale è compatibile con quanto previsto dallo strumento urbanistico vigente e conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 28 a 91
+
+Con riferimento alla verifica di conformità edilizia, ad oggi sono ancora presenti le difformità descritte dal perito di parte ricorrente rispetto a quanto autorizzato nelle pratiche edilizia agli atti. In particolare:
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, si ritiene che il valore unitario di stima più congruo per immobili a destinazione commerciale come quelli in esame sia pari a 700,00 €/m2; a fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro e valutate le condizioni di vendita forzata, si applica al valore di mercato di cui sopra un deprezzamento forfetario del 10%. Pertanto, per il supermercato deriva la seguente stima: m2 747,00 x €/m2 700,00x0.9 = € 470.600,00. CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro
+Pag. 29 a 91
+
+del 6%, ed applicando la metodologia descritta nel precedente paragrafo 2 ed applicando un deprezzamento pari al 10% in ragione della condizione di vendita forzata, ne deriva la seguente stima:
+• supermercato € 522.900,00 x 6% (aliquota calcolo canone locativo annuo)x0.9 = € 28.235,00; Il supermercato risulta recentemente locato a CONAD CENTRO NORD Società Cooperativa. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Lodi in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 30 a 91
+
+3.7 Supermercato ed appartamenti siti in Via Internazionale nel Comune di Orzinuovi (BS)
+DESCRIZIONE SINTETICA Si riporta di seguito la descrizione sintetica del supermercato e dei quattro appartamenti finiti ed abitati siti in Via Internazionale nel Comune di Orzinuovi (BS):
+Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 10/11/2022; si precisa che gli appartamenti di cui al mappale 618/6 e 618/5 presentano finiture risalenti agli anni 70/80 del secolo scorso mentre le restanti due unità risultano essere state più recentemente oggetto di ristrutturazione interna. CONFORMITA’ CATASTALE ED EDILIZIO URBANISTICA A seguito del sopralluogo di cui sopra, della presa visione della documentazione agli atti e delle verifiche degli eventuali aggiornamenti degli strumenti urbanistici vigenti oltre che delle destinazioni d’uso, si riportano di seguito gli esiti delle verifiche di conformità catastale ed urbanistica.
+Pag. 31 a 91
+
+Si conferma che le planimetrie catastali corrispondono sostanzialmente allo stato di fatto. Il PGT vigente è stato approvato con Delibera del Consiglio Comunale n. 14 del 10/04/2019. Secondo quanto previsto nelle norme tecniche di attuazione contenute nel PGT, l’immobile in esame ricade in una zona denominata “B1 – Residenziale consolidato, di completamento o residenziale con Piano Attuativo collaudato”; l’attuale destinazione d’uso commerciale (piano terra) e residenziale (piano primo) è compatibile con quanto previsto dallo strumento urbanistico vigente e conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+La distribuzione interna dei beni immobili risulta essere conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici.
+Pag. 32 a 91
+
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+Applicando la metodologia descritta nel precedente paragrafo 2, visti il contesto in cui è situato l’immobile e lo stato di conservazione dello stesso, si ritiene che il valore unitario di stima più congruo per l’immobile ad uso commerciale in esame sia pari a 500,00 €/m2; a fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro e valutate le condizioni di vendita forzata, si applica al valore di mercato di cui sopra un deprezzamento forfetario del 10%. Pertanto, per il supermercato deriva la seguente stima: m2 524,00 x €/m2 500,00 x0.9 = € 235.800,00. Applicando la metodologia descritta nel precedente paragrafo 2, visti il contesto in cui è situato l’immobile e lo stato di conservazione dello stesso, si ritiene che il valore unitario di stima più congruo per immobili a destinazione abitativa come quelli in esame sia pari a 500,00 €/m2; a fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro e valutate le condizioni di vendita forzata, si applica al valore di mercato di cui sopra un deprezzamento forfetario del 10%. Pertanto, per le unità abitative deriva la seguente stima:
+• appartamento di cui al mappale 618/4: 46.000,00 € • appartamento di cui al mappale 618/5: 40.000,00 € • appartamento di cui al mappale 618/6: 52.000,00 € • appartamento di cui al mappale 618/7: 51.000,00 € CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ed applicando la metodologia descritta nel precedente paragrafo 2 ed applicando un deprezzamento pari al 10% in ragione della condizione di vendita forzata, ne deriva la seguente stima: • supermercato, valore locativo annuo: 15.000,00 € In base a ricerca di mercato, per ognuna delle unità abitative come quelle in oggetto ed indipendentemente dalle lievi differenze di superficie, si stima un valore locatizio pari a 4.300,00 €. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 33 a 91
+
+3.8 Punto vendita al dettaglio (supermercato) ed appartamenti in costruzione ubicati in Bedizzole (BS) – Via Sonvigo
+DESCRIZIONE SINTETICA Durante il sopralluogo eseguito in data 27 ottobre 2022, è emerso che l’immobile adibito alla vendita al dettaglio presenta un piazzale asfaltato con segnaletica orizzontale, l’attacco autopompa VV.FF., allarmi e impianto illuminazione esterna, generatore esterno con vani tecnici (centrale termica), elevatore. All’interno dell’immobile sono presenti le scaffalature, celle frigo, bancone con banco frigo ed affettatrici. I bagni e gli spogliatoi appaiono in buone condizioni, è presente bagno per disabili. Non vi sono barriere architettoniche per l’accesso al punto vendita. Per quanto riguarda gli appartamenti al primo piano, si conferma che sono al rustico, privi di infissi e di tramezze. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+Pag. 34 a 91
+
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA A seguito dei sopralluoghi, della presa visione dei documenti, delle verifiche degli aggiornamenti degli strumenti urbanistici e delle destinazioni d’uso, si riportano gli esiti delle verifiche di conformità catastale ed edilizia urbanistica. Le planimetrie catastali in atti del compendio immobiliare di Bedizzole (BS), censito alla particella 107 subalterni 4-5-6-7-8-9-12 e sub 10 – 11 (comproprietà) del Foglio 12 corrispondono allo stato di fatto. Si osserva che nei locali lavorazione sono presenti delle celle frigo con pareti removibili.
+OMISSIS Verificato che è vigente una variante del PGT del Comune di Bedizzole approvata con Delibera di Consiglio Comunale n.43 del 28/12/2023 (fonte: https://www.multiplan.servizirl.it/ di Regione Lombardia) successiva all’epoca della stima, si conferma che non sono variate le destinazioni d’uso dell’area in oggetto. L’immobile in esame è sito in zona Aree B1 – Tessuto residenziale a blocco isolato (NTZ Art.17). Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+Pag. 35 a 91
+
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile recente a destinazione commerciale come quello in esame, ubicato in una zona periferica del comune di Bedizzole e in un tessuto a destinazione prevalentemente produttiva e commerciale, sia pari a €/mq 700,00 (per il punto vendita a dettaglio) e di €/mq 450,00 per gli appartamenti in costruzione. Pertanto, ne deriva la seguente stima: mq 1’231,00 x e/mq 700,00 = € 861’700 per il negozio mq 234 x e/mq 450,00 = € 105'300 per le n.4 abitazioni/appartamenti al rustico totale € 967'000,00.
+Pag. 36 a 91
+
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Il valore di stima risulta pari a:
+- € 861’700,00 – 10% = € 775'530,00 per il negozio - (€ 105'300,00 / n.4 abitazioni) – 10% = €23'692,50 per ciascuna abitazione/appartamento al rustico Si arrotonda per eccesso a €23'700,00 per ciascuna abitazione/appartamento al rustico Totale € 870'330,00 (€ 775'530,00 + €23'700,00 x n.4)
+CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima: Valore di stima compendio € 861’700,00 x 6% (aliquota calcolo canone locativo annuo) = € 51’702,00. Pertanto, lo scrivente stima in € 51’700,00, arrotondato in difetto, l’importo del canone di locazione annuo circa l’immobile in esame. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. L’importo del canone di locazione risulta pari a €51’700,00 – 10% = € 46’530,00 L’immobile risulta recentemente locato a CONAD CENTRO NORD Società Cooperativa alla data odierna, lo scrivente è in possesso del relativo contratto di locazione. Il canone annuo di locazione minimo garantito è di euro € 64'800,00. Per gli appartamenti non è possibile effettuare il calcolo del canone locativo annuo in quanto sono al rustico.
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 37 a 91
+
+3.9 Punto vendita al dettaglio (supermercato) e locali artigianali al piano interrato ubicati in Calcinato (BS) – Via Statale n.11
+DESCRIZIONE SINTETICA Durante il sopralluogo eseguito in data 27 ottobre 2022, è emerso che l’immobile adibito alla vendita al dettaglio presenta un piazzale asfaltato con segnaletica orizzontale, cassetta antincendio (interna ed esterna), vano tecnico (centrale termica). All’interno dell’immobile sono presente le scaffalature, celle frigo, bancone con banco frigo ed affettatrici. I bagni appaiono in buone condizioni. Per quanto riguarda i locali artigianali, sono presenti due unità immobiliare ubicate al piano interrato: la pavimentazione è in cemento e le pareti al rustico. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie catastali in atti del compendio immobiliare di Calcinato (BS) censito come segue:
+• foglio 7 particella 26 sub. 5 • foglio 7 particella 26 sub. 2 • foglio 7 particella 26 sub. 6
+Pag. 38 a 91
+
+• foglio 7 particella 26 sub. 7 • foglio 6 particella 200 sub. 10 • foglio 6 particella 200 sub. 11 non corrispondono pedissequamente allo stato di fatto poiché al piano interrato del foglio 7 mappale 26 sub.2 non sono rappresentati i mappali 200 sub 11 (foglio 6) ed il mappale 26 sub.2 (foglio 7). Si conferma quanto segue: per l’interrato le due unità immobiliari appaiono fuse, anche se catastalmente risultano ancora due subalterni distinti. Inoltre, al piano terra del foglio 6 mappale 200 sub 3 la rappresentazione cartografica non è aggiornata. Il foglio 6 mappale 200 sub11 al piano primo sotto-strada presenta un’apertura non riportata nel catasto.
+
+Lo strumento urbanistico del PGT vigente del Comune di Calcinato non risulta variato rispetto alla data di stima come da consultazione della fonte ufficiale PGT Web di Regione Lombardia (fonte: https://www.multiplan.servizirl.it/ di Regione Lombardia).
+L’immobile in esame è sito nella zona C/D – Produttivo di riconversione integrata (NTA art.52) e il PGT prevede tra le destinazioni d’uso complementari quella commerciale della media struttura di vendita. Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+
+Pag. 39 a 91
+
+Trattandosi di una media struttura di vendita, questa risulta compatibile con quanto previsto dallo strumento urbanistico vigente e conforme a quanto riportato nelle pratiche edilizie depositate presso i pubblici uffici. Con riferimento alla verifica di conformità edilizia, ad oggi sono ancora presenti delle difformità rispetto a quanto autorizzato nelle pratiche edilizia agli atti. In particolare:
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile recente a destinazione commerciale come quello in esame, ubicato in una zona periferica (frazione di Ponte San Marco) del comune di Calcinato e in un tessuto a destinazione prevalentemente produttiva e commerciale ben servito e raggiungibile dalle principali vie, sia pari a €/mq
+Pag. 40 a 91
+
+600,00 (per il punto vendita a dettaglio) e di €/mq 200,00 per i locali artigianali al piano interrato. Vista l’ubicazione periferica rispetto al centro abitato e lo stato dei locali, le stime sono state eseguite applicando un deprezzamento del 25% per il negozio (da €/mq 800,00 a €/mq 600,00) e del 20% per i locali artigianali (da €/mq 250,00 a €/mq 200,00) Pertanto, ne deriva la seguente stima: mq 552,00 x e/mq 600,00 = € 331'200,00 per il negozio mq 597 x e/mq 200,00 = € 119’400,00 per i locali artigianali interrati
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Il valore di stima risulta pari a:
+- €331,200 – 10% =€ 298’080,00 per il negozio - €119'400,00 – 10% = € 107'460,00 per locali artigianali interrati Totale € 405'460,00 CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima: Valore di stima compendio per il negozio € 331’200,00 x 6% (aliquota calcolo canone locativo annuo) = € 19’872,00. Pertanto, lo scrivente stima in € 19’800,00, arrotondato in difetto, l’importo del canone di locazione annuo circa l’immobile in esame. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. L’importo del canone di locazione risulta pari a € 19’800,00 – 10% = € 17'820,00
+Il punto vendita ed i locali interrati risulta risultano sfitti.
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 41 a 91
+
+3.10 Punto vendita al dettaglio (supermercato) ubicato in Chiari (BS) – Via C.A. Dalla Chiesa
+DESCRIZIONE SINTETICA Durante il sopralluogo eseguito in data 26 ottobre 2022, è emerso che l’immobile adibito alla vendita al dettaglio presenta un piazzale asfaltato con segnaletica orizzontale, cassetta antincendio (interna ed esterna), vano tecnico (centrale termica), montacarichi. All’interno dell’immobile sono presente le scaffalature, celle frigo, bancone con banco frigo ed affettatrici. I bagni e gli spogliatoi appaiono in buone condizioni. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+Pag. 42 a 91
+
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie dell’immobile sito in Chiari (BS) censito al foglio 25 mappale 320/1 corrispondono con quanto visto a parte la tramezza realizzata al piano interrato.
+Verificato che è vigente una rettifica del PGT del Comune di Chiari approvata con Delibera di Consiglio Comunale n.28 del 26/04/2023 (fonte: https://www.multiplan.servizirl.it/ di Regione Lombardia) successiva all’epoca della stima, si conferma che non sono variate le destinazioni d’uso dell’area in oggetto. L’immobile in esame è sito in zona denominata Ambiti residenziali ad alta densità – NTA art.32. Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+Pag. 43 a 91
+
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile recente a destinazione commerciale come quello in esame, ubicato in una zona periferica del comune di Chiari e in un tessuto a destinazione prevalentemente residenziale e commerciale ben servito e raggiungibile, sia pari a €/mq 800,00 (per il punto vendita a dettaglio). questo immobile è penalizzato perché non si affaccia direttamente su vie ad elevata percorrenza e non è di recente costruzione e presenta una superficie complessiva al piano terra molto grande rispetto ad altre attività commerciali presenti. Per tali motivi, rispetto ad altri edifici commerciali presenti in zona, è applicato un deprezzamento del 20% per la vetustà dell’immobile e del 15% per la posizione commerciale, per un complessivo deprezzamento del 35%. Per le cantine adibite a magazzino servite con montacarichi privato interno e accessibili con rampa carrabile si applica un valore di €/mq 400,00 a cui è applicato un deprezzamento del 35% come sopra. Pertanto, ne deriva la seguente stima: mq 620,00 x e/mq (800,00-35%x800,00) = € 322’400,00 valore per il punto vendita al piano terra mq 220,00 x e/mq (400,00-35%x400,00) = €57’200,00 valore per il magazzino interrato sommano € 379'600,00. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Il valore di stima risulta pari a:
+- € 322’400,00 – 10% = € 290'160,00 per il punto vendita al piano terra - €57’200,00 – 10% = € 51'480,00 per il magazzino interrato Totale € 341’640,00.
+Pag. 44 a 91
+
+CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima: Valore di stima compendio per il negozio € 322’400,00 x 6% (aliquota calcolo canone locativo annuo) = € 19’344,00. Valore di stima compendio per il magazzino interrato € 57’200,00 x 6% (aliquota calcolo canone locativo annuo) = € 3’432,00. Pertanto, lo scrivente stima in € 22’700,00, arrotondato in difetto, l’importo del canone di locazione annuo circa l’immobile in esame. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. L’importo del canone di locazione risulta pari a € 22’700,00 – 10% = € 20’430,00
+Non è stato fornito il contratto di locazione.
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 45 a 91
+
+3.11 Punto vendita al dettaglio (supermercato) ubicato in Gambara (BS) – Via Montello
+DESCRIZIONE SINTETICA Durante il sopralluogo eseguito in data 27 ottobre 2022, è emerso che l’immobile adibito alla vendita al dettaglio presenta un piazzale asfaltato con segnaletica orizzontale, l’attacco autopompa V.F, cassetta antincendio (interna ed esterna), vano tecnico (centrale termica), parcheggio interrato. All’interno dell’immobile sono presente le scaffalature, celle frigo, bancone con banco frigo ed affettatrici. I bagni e gli spogliatoi appaiono in buone condizioni. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+Pag. 46 a 91
+
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA
+Le planimetrie catastali corrispondono sostanzialmente a quanto realizzato. Lo strumento urbanistico del PGT vigente del Comune di Gambara (BS) non risulta variato rispetto alla data di stima come da consultazione della fonte ufficiale PGT Web di Regione Lombardia (fonte: https://www.multiplan.servizirl.it/). L’immobile in esame è sito in zona denominata CLASSE VI: aree urbane consolidate caratterizzate da insediamenti destinati ad attività terziarie e/o commerciali (NTA Art.40.3). Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+Pag. 47 a 91
+
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile recente a destinazione commerciale come quello in esame, ubicato in una zona periferica (prima periferia) del comune di Gambara ben servita e raggiungibile, sia pari a €/mq 880,00 per il punto vendita a dettaglio e di €/mq 250,00 per i posti auto coperti (si tratta di posti auto utilizzati dei fruitori del supermercato). Per tale motivo, trattandosi di posti auto non pertinenziali e a libero utilizzo, è stato applicato un deprezzamento del 30% (da €/mq 250,00 a €/mq 170,00). Al supermercato compete una quota di comproprietà delle parti comuni, in particolare dell’ampio parcheggio interrato per quota parte millesimi 206,684/1000. Ne deriva la seguente stima: mq 859,00 x e/mq 880,00 = € 755’920,00 per il punto vendita mq 2’000,00 x e/mq 170,00 x 206,684/1000 = € 70’272,56 per i parcheggi sommano con arrotondamento € 827’000,00. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Il valore di stima risulta pari a € 827’000,00– 10% = € 744’300,00
+CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima: Valore di stima compendio per il negozio € 755’920,00 x 6% (aliquota calcolo canone locativo annuo) = € 45’355,20.
+Pag. 48 a 91
+
+Pertanto, lo scrivente stima in € 45’300,00, arrotondato in difetto, l’importo del canone di locazione annuo circa l’immobile in esame. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. L’importo del canone di locazione risulta pari a € 45’300,00 – 10% = €40’770,00 L’immobile risulta locato a CONAD CENTRO NORD Società Cooperativa alla data odierna, lo scrivente è in possesso del relativo contratto di locazione. Il canone annuo di locazione minimo garantito è di euro € 76’200,00. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 49 a 91
+
+3.12 Punto vendita al dettaglio (supermercato) e posti auto interrati ubicati in Ghedi (BS) – Via Cavour
+DESCRIZIONE SINTETICA Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 28 ottobre 2022. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie dell’immobile sito in Ghedi (BS) censito al foglio 32 mappali 954, 241 sub. 6-8-9-11 corrispondono con quanto visto, tranne una tramezza non riscontrata al foglio 32 particella 241 sub.9 (piano terra).
+Pag. 50 a 91
+
+OMISSIS
+Verificato che è vigente una variante del PGT del Comune di Ghedi approvata con Delibera di Consiglio Comunale n.23 del 09/09/2023 (fonte: https://www.multiplan.servizirl.it/ di Regione Lombardia) successiva all’epoca della stima, si conferma che non sono variate le destinazioni d’uso dell’area in oggetto. L’immobile in esame è sito in zona denominata A – Nucleo di antica formazione (NTA Art.30). Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+
+Pag. 51 a 91
+
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile di non recente costruzione a destinazione commerciale come quello in esame, ubicato in una zona centrale del comune di Ghedi, sia pari a €/mq 620,00 (per il punto vendita a dettaglio) e €/mq 300,00 per i posti auto coperti. Visto l’immobile di non recente costruzione e lo stato degli interni, le stime sono state eseguite applicando un deprezzamento del 25% per il negozio (da €/mq 830,00 a €/mq 620,00). I parcheggi vengono utilizzati occasionalmente senza alcun titolo, pertanto, è stato applicato un deprezzamento del 35% (da €/mq 450,00 a €/mq 300,00).
+Pertanto, ne deriva la seguente stima:
+mq 475,00 x e/mq 620,00 = € 294’500,00 per il punto vendita al piano terra
+mq 90,00 x e/mq 300,00 = € 27’000,00 per i posti auto coperti
+Sommano € 321'500,00
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%.
+Il valore di stima risulta pari a:
+- € 294’500,00 – 10% = € 265'050,00 per il punto vendita al piano terra - € 27’000,00 – 10% = €24'300,00 per i posti auto coperti
+Totale € 289’350,00
+CALCOLO VALORE CANONE LOCATIVO ANNUO
+Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima:
+Valore di stima compendio per il negozio € 294’500,00 x 6% (aliquota calcolo canone locativo annuo) = € 17’670,00.
+Pertanto, lo scrivente stima in € 17’600,00, arrotondato in difetto, l’importo del canone di locazione annuo circa l’immobile in esame.
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%.
+L’importo del canone di locazione risulta pari a € 17’600,00 – 10% = €15’840,00 euro
+Pag. 52 a 91
+
+L’immobile risulta locato a Yu Zhiming (durata della locazione fissata in 6 anni con decorrenza dal 21/03/2022 e scadenza a 20/03/2028) alla data odierna, lo scrivente è in possesso del relativo contratto di locazione. Il canone annuo di locazione è di euro € 25’000,00. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 53 a 91
+
+3.13 Punto vendita al dettaglio (supermercato) ubicato in Lodrino (BS) – Via Roma
+DESCRIZIONE SINTETICA Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 28 ottobre 2022. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie dell’immobile sito in Lodrino (BS) censito al foglio 9 mappale 352/2 corrispondono con quanto visto.
+Pag. 54 a 91
+
+OMISSIS Lo strumento urbanistico del PGT vigente del Comune di Lodrino (BS) non risulta variato rispetto alla data di stima come da consultazione della fonte ufficiale PGT Web di Regione Lombardia (https://www.multiplan.servizirl.it/ di Regione Lombardia) L’immobile in esame è sito in zona denominata Zona D5 – Centro multiservizi (NTA Art. 28). Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 55 a 91
+
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile di recente costruzione a destinazione commerciale come quello in esame, ubicato in una zona centrale del comune di Lodrino, sia pari a €/mq 600,00 (per il punto vendita a dettaglio). Da osservare che il punto vendita, vedasi stima di capitalizzazione di parte ricorrente, ha risentito fortemente delle grandi dimensioni rispetto al nucleo abitato e della collocazione in comune di montagna e che nell’immediato fondovalle sono presenti punti vendita concorrenti dei principali leaders di settore. La collocazione dell’immobile che è posto all’interno di un complesso residenziale commerciale multipiano e che non si affaccia direttamente sulla pubblica via. Le già menzionate circostanze comportano un deprezzamento dell’immobile, che in via forfettaria viene stimato nel 40%. Pertanto, ne deriva la seguente stima: mq 945,00 x e/mq (600,00-40%600) = € 340’200,00 per il negozio A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Il valore di stima risulta pari a € 340’200,00 – 10% = €306’180,00 CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima: Valore di stima compendio per il negozio € 340’200,00 x 6% (aliquota calcolo canone locativo annuo) = € 20’412,00. Pertanto, lo scrivente stima in € 20’400,00, arrotondato in difetto, l’importo del canone di locazione annuo circa l’immobile in esame. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. L’importo del canone di locazione risulta pari a € 20’400,00 – 10% = €18’360,00 Non è stato fornito il contratto di locazione.
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 56 a 91
+
+3.14 Punto vendita al dettaglio (supermercato) ubicato in Nuvolento (BS) – Via Papa Giovanni XXIII
+DESCRIZIONE SINTETICA Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 28 ottobre 2022. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie dell’immobile sito in Nuvolento (BS) censito al foglio 5 mappale 167/23 corrispondono con quanto visto:
+Pag. 57 a 91
+
+OMISSIS Verificato che è vigente una variante del PGT del Comune di Nuvolento approvata con Delibera di Consiglio Comunale n.47 del 21/12/2021 (fonte: https://www.multiplan.servizirl.it/ di Regione Lombardia) successiva all’epoca della stima, si conferma che non sono variate le destinazioni d’uso dell’area in oggetto. L’immobile in esame è sito in zona denominata C1 – Ambiti territoriali a destinazione prevalentemente commerciale/direzionale (NTA Art.36). Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 58 a 91
+
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile di non recente costruzione a destinazione commerciale come quello in esame, ubicato in una zona di periferica del comune di Nuvolento, sia pari a €/mq 930,00 (per il punto vendita a dettaglio). Visto l’immobile di non recente costruzione e lo stato degli interni (si necessitano interventi), le stime sono state eseguite applicando un deprezzamento del 20% (da €/mq 930,00 a €/mq 750,00). Pertanto, ne deriva la seguente stima: mq 676,00 x e/mq 750,00 = € 507’000,00 per il negozio A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Il valore di stima risulta pari a €507'000,00 – 10% = € 456’300,00 CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima: Valore di stima compendio per il negozio € 507’000,00 x 6% (aliquota calcolo canone locativo annuo) = € 30’420,00. Pertanto, lo scrivente stima in € 30’400,00, arrotondato in difetto, l’importo del canone di locazione annuo circa l’immobile in esame. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Pertanto, l’importo del canone di locazione risulta pari a € 30’400,00 – 10% = € 27’360,00
+L’immobile risulta recentemente locato a CONAD CENTRO NORD Società Cooperativa alla data odierna, lo scrivente è in possesso del relativo contratto di locazione. Il canone annuo di locazione minimo garantito è di euro € 60'200,00.
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 59 a 91
+
+3.15 Punto vendita al dettaglio (supermercato) ubicato in Rezzato (BS) – Via F.lli Kennedy
+DESCRIZIONE SINTETICA Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 28 ottobre 2022. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie catastali dell’immobile sito in Rezzato (BS) censito al foglio 11 mappali 372/13, 374, 526/4, 528, 372/24 non corrispondono con la realizzate distribuzione interna degli spazi interni.
+Pag. 60 a 91
+
+OMISSIS Verificato che è vigente una variante del PGT del Comune di Rezzato approvata con Delibera di Consiglio Comunale n.18 del 03/06/2023 (fonte: https://www.multiplan.servizirl.it/ di Regione Lombardia) successiva all’epoca della stima, si conferma che non sono variate le destinazioni d’uso dell’area in oggetto. L’immobile in esame è sito in zona denominata Tessuto consolidato a destinazione produttiva, terziariodirezionale e commerciale del tipo DC – Aree destinate ad attività commerciali e direzionali (NTA Art. 28.8). Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 61 a 91
+
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile di non recente costruzione a destinazione commerciale come quello in esame, ubicato in una zona di periferica del comune di Rezzato, sia pari a €/mq 740,00 (per il punto vendita a dettaglio). Visto l’immobile di non recente costruzione e lo stato degli interni, la posizione rispetto ad immobili simili di più recente costruzione, le stime sono state eseguite applicando un deprezzamento del 30% (da €/mq 1’060,00 a €/mq 740,00).
+Pertanto, ne deriva la seguente stima:
+mq 735,00 x €/mq 740,00 = € 543’900,00 per il punto vendita
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%.
+Pertanto, il valore di stima risulta pari a € 543’900,00– 10% = 489.510,00 euro
+CALCOLO VALORE CANONE LOCATIVO ANNUO
+Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima:
+Valore di stima compendio per il negozio € 543’900,00 x 6% (aliquota calcolo canone locativo annuo) = € 32’634,00.
+Pertanto, lo scrivente stima in € 32’600,00, arrotondato in difetto, l’importo del canone di locazione annuo circa l’immobile in esame.
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%.
+L’importo del canone di locazione risulta pari a € 32’600,00 – 10% = € 29’340,00 euro
+
+L’immobile risulta locato a CONAD CENTRO NORD Società Cooperativa alla data odierna.
+
+Pag. 62 a 91
+
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+3.16 Punto vendita al dettaglio (supermercato) e autorimessa ubicati in Montichiari (BS) – Via Trieste
+DESCRIZIONE SINTETICA Si è potuto osservare lo stato dei luoghi durante il sopralluogo del 27 ottobre 2022. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+Pag. 63 a 91
+
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Si conferma che le planimetrie catastali dell’immobile sito in Montichiari (BS) censito al foglio 58 mappali 438/3, 439/13, 440/84, 453/3, 454/4, 440/85 corrispondono pressoché con la distribuzione interna degli spazi.
+OMISSIS Verificato che è vigente una variante del PGT del Comune di Montichiari approvata con Delibera di Consiglio Comunale n.23 del 20/06/2023 (fonte: https://www.multiplan.servizirl.it/ di Regione Lombardia) successiva all’epoca della stima, si conferma che non sono variate le destinazioni d’uso dell’area in oggetto. L’immobile in esame è sito in zona denominata Zona B5 – già prevalentemente Residenziale ad alta commistione funzionale (NTA Art. 70.3). Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto:
+Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 64 a 91
+
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel precedente paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile di recente costruzione a destinazione commerciale come quello in esame, ubicato in una zona di centrale del comune di Montichiari, sia pari a €/mq 850,00 per il negozio e €/mq 380,00 per l’autorimessa con tare riferibili agli spazi di manovra. Viste le condizioni interne ed esterne dell’edificio, le stime sono state eseguite applicando un deprezzamento del 15% per il negozio (da €/mq 1’000,00 a €/mq 850,00) e del 30% per l’autorimessa a causa delle tare dovute agli spazi di manovra (da €/mq 540,00 a €/mq 380,00) Pertanto, ne deriva la seguente stima: mq 1’394,00 x e/mq 850,00 = € 1'184’900,00 arrotondato a € 1'185'000,00per il negozio mq 620,00/2 x e/mq 380,00 = € 117’800,00 arrotondato a € 118'000,00 per l’autorimessa (la superficie considera le tare dovute agli spazi di manovra). Sommano per arrotondamento € 1'303'000,00. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Il valore di stima risulta pari a:
+- € 1'185'000,00 – 10% = € 1'066'500,00 per il negozio - € 118'000,00 – 10% = € 106'200,00 per l’autorimessa Totale € 1'172’700,00.
+Pag. 65 a 91
+
+CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima: Valore di stima compendio per il negozio € 1'185’000,00 x 6% (aliquota calcolo canone locativo annuo) = € 71’100,00. Pertanto, lo scrivente stima in € 71’100,00 l’importo del canone di locazione annuo circa l’immobile in esame. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. L’importo del canone di locazione risulta pari a € 71’100,00 – 10% = € 63’990,00
+L’immobile risulta recentemente locato a GRUPPO COIN SOCIETA’ PER AZIONI (durata della locazione fissata in 12 anni dalla data di apertura) alla data odierna, lo scrivente è in possesso del relativo contratto di locazione. Il canone annuo di locazione minimo garantito è di euro € 70'000,00. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano gravati da:
+- ISCRIZIONE CONTRO n. 13587/2099 del 29/03/2017 - Ipoteca Volontaria derivante da concessione a garanzia di mutuo fondiario a favore di Banca Popolare di Milano S.p.a. a carico di OMISSIS, capitale € 5.000.000,00, somma iscritta € 10.000.000,00, di durata di anni cinque e gravante anche altri immobili.
+Oltre alla summenzionata ipoteca con le relative annotazioni è chiaramente presente la trascrizione della sentenza dichiarativa di fallimento che colpisce gli immobili in esame.
+Pag. 66 a 91
+
+3.17 Area edificabile sita in Comune di Agnosine – Via Trieste e intestati a OMISSIS
+DESCRIZIONE SINTETICA Il sopralluogo è stato eseguito in data 28 ottobre 2022 è emerso che le aree sono libere. Si riporta di seguito la descrizione sintetica che individua le consistenze e le destinazioni d’uso del compendio immobiliare in esame:
+OMISSIS
+Pag. 67 a 91
+
+CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA
+OMISSIS
+Verificato che è vigente una variazione del PGT del Comune di Agnosine approvata con Delibera di Consiglio Comunale n.35 del 28/07/2023 (fonte: https://www.multiplan.servizirl.it/ di Regione Lombardia) successiva all’epoca della stima, si conferma che non sono variate le destinazioni d’uso dell’area in oggetto. L’area in esame è situata in zona denominata ALP – aree libere da edificare con destinazione prevalentemente produttiva. Pertanto, a seguito degli accertamenti non risultano variazioni rispetto a quanto già descritto. Non sono state fornite pratiche edilizie relative all’area in oggetto: GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA In questo caso non è applicabile la metodologia descritta nel paragrafo 2 in quanto non si tratta di immobili ma di aree/terreni ancora da edificare. E’ stato utilizzato il dato fornito da ProBrixia valevole per le aree produttive ubicate nel Comune di Agnosine pari a €/mq 75,00. L’area è ubicata la Strada Provinciale 79 e la Strada Provinciale 237 e, da PGT, risulta cartografata come “aree libere da edificare con destinazione prevalentemente produttiva”. Trattandosi di area non urbanizzata si deprezza il precedente valore a €/mq 30,00. Pertanto, ne deriva la seguente stima: mq 8’968,00 x e/mq 30,00 = € 269’040,00 arrotondato a 270'000,00 per terreno ubicato presso aree produttive
+Pag. 68 a 91
+
+Il valore di stima in libero mercato delle aree/terreni sopraindicati, intestato a OMISSIS è equivalente rispetto alla valutazione espressa dal collega ricorrente, eseguita con la medesima metodologia di stima, pari a € 270’000,00. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%. Il valore di stima risulta pari a 270'000,00 – 10% = 243'000,00 euro SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Salò in data 20/03/2024, si è accertato che i terreni in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+3.18 Punto vendita al dettaglio ubicato in Brescia – Via Zadei e intestato a OMISSIS
+DESCRIZIONE SINTETICA Segue la descrizione sintetica dell’immobile in esame.
+Pag. 69 a 91
+
+Lo stato dei luoghi sopradescritto durante il sopralluogo eseguito dal sottoscritto in data 02/11/2022 conferma quanto sopra riportato. CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie catastali in atti del compendio immobiliare di Brescia Via Zadei, censito ai subalterni 15,17 e 41 particella 65 del Foglio NCT/69, corrispondono allo stato di fatto. Nella planimetria del subalterno 15, il supermercato, non sono riportate alcune celle frigorifere ubicate nel deposito retrostante il supermercato. Tali celle risultano tuttavia rimovibili. La destinazione d’uso commerciale del compendio immobiliare in oggetto è ammessa nell’ambito di interesse dallo strumento urbanistico attualmente vigente presso il comune di Brescia. L’immobile risulta inoltre regolare dal punto di vista edilizio-urbanistico. Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 70 a 91
+
+La distribuzione degli spazi interni dell’immobile in oggetto risulta conforme a quanto riportato nelle pratiche edilizie in atti presso i pubblici uffici.
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+Applicando la metodologia descritta nel paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile recente a destinazione commerciale come quello in esame, ubicato in una zona semicentrale del comune di Brescia, densamente popolata e ben servita, e in un tessuto a destinazione residenziale con immobili a destinazione terziaria e commerciale, sia pari a €/mq 1.200,00.
+Pertanto, ne deriva la seguente stima: mq 906,00 x €/mq 1.200,00 = € 1.087.200,00
+Tuttavia, tenendo conto che l’immobile necessita di adeguamenti per l’ottenimento delle certificazioni in materia di prevenzione incendi, lo scrivente deprezza il suddetto valore di stima di un 15%.
+Pertanto, il valore di stima in libero mercato del compendio immobiliare sopraindicato, intestato a OMISSIS, è pari a € 924.120,00.
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato summenzionato, si applica un ulteriore deprezzamento del 10%.
+Il valore di stima dell’immobile in oggetto in condizioni di vendita forzata risulta pertanto pari a € 831.708,00.
+CALCOLO VALORE CANONE LOCATIVO ANNUO
+Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima:
+Valore di stima compendio € 924.120,00 x 6% (aliquota calcolo canone locativo annuo) = € 55.447,20
+Pertanto, lo scrivente stima in € 55.000,00, arrotondato in difetto, l’importo del canone di locazione annuo circa gli immobili in esame. Essi allo stato attuale risultano non locati.
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato di applica un deprezzamento del 10%.
+L’importo del canone di locazione risulta quindi pari a € 49.500,00.
+SITUAZIONE IPOTECARIA
+A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano gravati da:
+- ISCRIZIONE CONTRO n. 21309/3591 del 02/07/2014 - Ipoteca Volontaria derivante da concessione a garanzia di apertura di credito a favore di Cassa di Risparmio di Parma e Piacenza S.p.a. (ora Credit Agricole) a carico di OMISSIS (terzo datore), debitore non datore OMISSIS, somma capitale € 3.000.000,00, somma iscritta €4.500.000,00, di durata di anni cinque e gravante anche altri immobili. A tale iscrizione è correlata l’annotazione n. 2016 del 06/04/2022 per restrizione di beni.
+Oltre alla summenzionata ipoteca è chiaramente presente la trascrizione della sentenza dichiarativa di fallimento che colpisce gli immobili in esame.
+Pag. 71 a 91
+
+3.19 Punto vendita al dettaglio ubicato in Marone (BS) – Via Roma e intestato a OMISSIS
+DESCRIZIONE SINTETICA Segue la descrizione sintetica dell’immobile in esame.
+Lo stato dei luoghi potuto osservare durante il sopralluogo eseguito dal sottoscritto in data 30/10/2022 conferma quanto sopra riportato. CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie catastali in atti del compendio immobiliare di Marone (BS) Via Roma, censito ai subalterni 17, 15 e 16 particella 2201 del Foglio MAR/15, corrispondono allo stato di fatto ad eccezione della planimetria catastale del subalterno 17, il supermercato, che non è conforme in quanto viene rappresentato al piano seminterrato un locale centrale termica e un antistante corridoio che tuttavia non sono presenti nello stato di fatto dei luoghi. La destinazione d’uso commerciale del compendio immobiliare in oggetto è ammessa nell’ambito di interesse dallo strumento urbanistico attualmente vigente presso il comune di Marone. L’immobile risulta inoltre regolare dal punto di vista edilizio-urbanistico ad eccezione della zona di negozio posto al piano primo in lato sud ovest, dove pareti divisorie interne e aperture non corrispondono a quanto autorizzato dai provvedimenti edilizi in atti. Tali lievi difformità, inerenti una diversa distribuzione degli spazi interni, sono tuttavia sanabili mediante pratica di sanatoria. Si riassumono di seguito le pratiche edilizie relative all’immobile in oggetto:
+Pag. 72 a 91
+
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+Applicando la metodologia descritta nel paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile a destinazione commerciale come quello in esame, ubicato in una zona centrale e di forte passaggio del comune di Marone e in un tessuto a destinazione residenziale con immobili a destinazione terziaria e commerciale, sia pari a €/mq 1.000,00.
+Pertanto, ne deriva la seguente stima: mq 381,00 x €/mq 1.000,00 = € 381.000,00
+Il suddetto valore di stima in libero mercato del compendio immobiliare sopraindicato, intestato a OMISSIS, tiene conto dei deprezzamenti per vetustà e necessità di adeguamento impiantistico del supermercato per l’ottenimento del certificato di prevenzione antincendio.
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato summenzionato, si applica un deprezzamento del 10%.
+Il valore di stima dell’immobile in oggetto in condizioni di vendita forzata risulta pertanto pari a € 342.900,00
+CALCOLO VALORE CANONE LOCATIVO ANNUO
+Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima:
+Valore di stima compendio € 381.000,00 x 6% (aliquota calcolo canone locativo annuo) = € 22.860,00
+Pertanto, lo scrivente stima in € 23.000,00, arrotondato in difetto, l’importo del canone di locazione annuo circa gli immobili in esame. Essi allo stato attuale risultano locati (con locazione della durata di anni 9 a partire dal 26/01/2022 sino al 25/01/2031) da OMISSIS a CONAD CENTRO NORD Società Cooperativa. Nel contratto stipulato il canone di locazione è fissato pari al 2,8% del fatturato al netto dell’IVA, con un minimo garantito annuo di € 57.000,00. Tale valore del canone di locazione è pari al 60% in più rispetto al canone di locazione quantificato dallo scrivente.
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato si applica un deprezzamento del 10%.
+L’importo del canone di locazione risulta quindi pari a € 20.700,00.
+Pag. 73 a 91
+
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+3.20 Ristorante con discoteca e aree edificabili in Travagliato (BS) – Via Brescia e intestato a OMISSIS
+DESCRIZIONE SINTETICA Segue la descrizione sintetica degli immobili in esame
+Lo stato dei luoghi potuto osservare durante il sopralluogo eseguito dal sottoscritto in data 27/10/2022 conferma quanto sopra riportato. CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA La planimetria catastale in atti del compendio immobiliare di Travagliato (BS) Via Brescia n. 155, censito al subalterno 7 particella 115 del Foglio NCT/16, non corrisponde allo stato di fatto dei luoghi. Nella fattispecie sulle aree cortilizie del ristorante sono state realizzate varie strutture non indicate nelle planimetrie in atti quali gazebi, palchi, tettoie, portici e muri divisori. La destinazione d’uso commerciale del compendio immobiliare in oggetto è ammessa nell’ambito di interesse dallo strumento urbanistico attualmente vigente presso il comune di Travagliato. L’immobile destinato a
+Pag. 74 a 91
+
+ristorante/discoteca risulta tuttavia ancora oggi irregolare dal punto di vista edilizio-urbanistico in quanto sulle corti della zona bar-discoteca sono presenti varie strutture realizzate senza alcuna autorizzazione edilizia quali gazebi, palchi, tettoie, portici e muri divisori non indicati nelle pratiche edilizie in atti presso il Comune di Travagliato. Lo scrivente attende ancora dal comune di Travagliato l’evasione dell’accesso atti, finalizzato ad accertare l’eventuale sanabilità dei manufatti abusivi sopracitati. A tal proposito il sottoscritto integrerà la presente relazione con una specifica appendice contenente anche il relativo giudizio di stima che ora rimane inevitabilmente in sospeso. Si riassumono di seguito le pratiche edilizie sinora visionate relative all’immobile in oggetto:
+Per quanto concerne invece le aree edificabili attigue al ristorante con discoteca sopra analizzato, lo scrivente procede alla seguente giudizio di stima.
+Pag. 75 a 91
+
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato summenzionato, si applica un deprezzamento del 20% anche alla luce dello stato di generale abbandono in cui l’area versa. Il valore di stima dell’immobile in oggetto, area edificabile residua, in condizioni di vendita forzata risulta pertanto pari a € 280.000,00. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano gravati da:
+- ISCRIZIONE CONTRO n. 13587/2099 del 29/03/2017 - Ipoteca Volontaria derivante da concessione a garanzia di mutuo fondiario a favore di Banca Popolare di Milano S.p.a. a carico di OMISSIS, capitale € 5.000.000,00, somma iscritta € 10.000.000,00, di durata di anni cinque e gravante anche altri immobili.
+Oltre alla summenzionata ipoteca con le relative annotazioni è chiaramente presente la trascrizione della sentenza dichiarativa di fallimento che colpisce gli immobili in esame.
+Pag. 76 a 91
+
+3.21 Punto vendita al dettaglio/negozio con posti auto ubicato in Palazzolo Sull’Oglio (BS) – Via Verdi e intestato a OMISSIS
+DESCRIZIONE SINTETICA Segue la descrizione del compendio immobiliare in esame.
+Lo stato dei luoghi potuto osservare durante il sopralluogo eseguito dal sottoscritto in data 27/10/2022 conferma quanto sopra riportato. CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie catastali in atti del compendio immobiliare di Palazzolo sull’Oglio (BS) Via Verdi, censito ai subalterni 2, 35, 36, 37, 49 particella 293 del Foglio NCT/4 e ai subalterni 50, 53, 54, 56 e 62 particella 294 del Foglio NCT/4, corrispondono allo stato di fatto ad eccezione della planimetria catastale del subalterno 2 particella 293, il negozio/supermercato, che non è conforme in quanto, nello stato di fatto così come visionato anche dallo scrivente, sono state eliminate le celle frigorifere indicate in planimetria e in lato nord del magazzino è indicata in planimetria un’uscita di sicurezza in realtà non presente. La destinazione d’uso commerciale del compendio immobiliare in oggetto è ammessa nell’ambito di interesse dallo strumento urbanistico attualmente vigente presso il comune di Palazzolo Sull’Oglio. Le succitate difformità catastali riguardanti il solo negozio sono inoltre anche irregolari dal punto di vista ediliziourbanistico. Tali irregolarità sono tuttavia sanabili mediante pratica di sanatoria. Si riassumono di seguito le pratiche edilizie sinora visionate relative all’immobile in oggetto:
+Pag. 77 a 91
+
+OMISSIS
+OMISSIS
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Applicando la metodologia descritta nel paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile a destinazione commerciale come il negozio/supermercato in esame, ubicato in una zona periferica del comune di Palazzolo Sull’Oglio e in un tessuto a destinazione residenziale con immobili a destinazione terziaria e commerciale, sia pari a €/mq 500,00. Pertanto, ne deriva la seguente stima: mq 767,00 x €/mq 500,00 = € 383.500,00 Per quanto concerne invece la stima dei posti auto coperti e delle autorimesse ubicate al piano interrato, essa viene valutata a corpo in € 70.000,00. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, presi i valori di mercato summenzionati, si applica un deprezzamento del 10%. Il valore di stima dell’immobile a destinazione commerciale in oggetto, in condizioni di vendita forzata, risulta pertanto pari a € 345.150.00. Il valore di stima dei posti auto coperti e delle autorimesse ubicate al piano interrato, in condizioni di vendita forzata, risulta pertanto pari a € 63.000,00. CALCOLO VALORE CANONE LOCATIVO ANNUO Verificato, in seguito ad approfondimenti comparativi svolti presso varie agenzie immobiliari operanti in loco e consultando sempre le banche dati citate in premessa, che il valore per il canone locativo annuo relativo a
+Pag. 78 a 91
+
+un simile compendio immobiliare a destinazione commerciale si attesta tra il 5,5% e il 6,5% del valore immobiliare complessivo in libero mercato, stabilito prudenzialmente come valore più congruo il parametro del 6%, ne deriva la seguente stima: Valore di stima compendio € (385.000,00 + 70.000,00) x 6% (aliquota calcolo canone locativo annuo) = € 27.300,00. Pertanto, lo scrivente stima in € 27.000,00, arrotondato in difetto, l’importo del canone di locazione annuo circa gli immobili in esame. Essi allo stato attuale risultano tuttavia sfitti e non utilizzati. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato si applica un deprezzamento del 10%. L’importo del canone di locazione risulta quindi pari a € 24.570,00. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+3.22 Immobili dismessi e abbandonati con area cortilizia pertinenziale ubicati in San Paolo (BS) – Via Roma e intestati a OMISSIS
+DESCRIZIONE SINTETICA Segue la descrizione sintetica del compendio immobiliare in esame.
+Lo stato dei luoghi potuto osservare durante il sopralluogo eseguito dal sottoscritto in data 02/11/2022 conferma quanto sopra riportato. CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie catastali in atti del compendio immobiliare di San Paolo (BS) Via Roma, censito ai subalterni 6, 7, 8, 9, 10, 11 particella 56 del Foglio NCT/18, corrispondono allo stato di fatto. Anche il terreno censito alla particella 225 del Foglio NCT/18 è conforme a quanto rappresentato nelle mappe in atti. La destinazione d’uso commerciale del compendio immobiliare in oggetto è ammessa nell’ambito di interesse dallo strumento urbanistico attualmente vigente presso il comune di San Paolo. Gli immobili inoltre, nel complesso, sebbene fatiscenti e da demolire o riqualificare totalmente, risultano regolari dal punto di vista edilizio-urbanistico.
+Pag. 79 a 91
+
+Si riassumono di seguito le pratiche edilizie sinora visionate relative all’immobile in oggetto:
+Si precisa solamente che i beni censiti al Fg.18 mapp.56 sub.9 e 10 risultano ancora accatastati come appartamenti (destinazione catastale A/2) anche se con DIA per cambio destinazione d’uso del 22.08.2000 prot.4112 è stato previsto il cambio d’uso da residenziale a uffici. Si sottolinea che la cabina elettrica (Fg.18 mapp.56 sub.11) non viene rappresentata nelle pratiche edilizie più recenti, probabilmente in quanto non oggetto d’intervento, ma viene riportata nella pratica edilizia originaria (Licenza di costruzione n°318-1972), pertanto la sua realizzazione è legittimata. Si evidenzia infine che non è stato reperito presso i pubblici uffici alcun certificato di agibilità relativo all’immobile in esame. GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA Lo scrivente, dal momento che il compendio immobiliare vada totalmente demolito e ricostruito, per quanto concerne il valore di stima unitario dell’area attribuisce un valore in condizioni di libero mercato pari a €/mq 50,00 al quale tuttavia detrarre i costi stimabili per la demolizione, la bonifica e lo smaltimento dell’immobile ormai fatiscente e inutilizzabile.
+Pag. 80 a 91
+
+Lo scrivente quantifica pertanto i costi di demolizione, bonifica e smaltimento rifiuti che verranno detratti al valore immobiliare stimato - in condizioni di libero mercato ovvero pari a € 1.200.000,00 (= €/mq 50 x mq 24.000,00): Bonifica coperture in eternit: mq 5.000,00 x €/mq 25,00 = € 125.000,00 Demolizione fabbricati: mc 30.000,00 x €/mc 5,00 = € 150.000,00 Smaltimento materiale da demolizione: mc 6.000,00 x €/mc 60,00 = € 360.000,00 Lo scrivente, pertanto, detratti dal valore di stima di € 1.200.000,00 € 635.000,00 per i costi di bonifica, demolizione e smaltimento macerie, attribuisce al compendio immobiliare in esame un valore di € 565.000,00. A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato summenzionato e viste le condizioni sempre più fatiscenti dell’immobile, si applica un deprezzamento ulteriore del 30%. Il valore di stima dell’immobile a destinazione commerciale in oggetto, in condizioni di vendita forzata, risulta pertanto pari a € 395.500,00. CALCOLO VALORE CANONE LOCATIVO ANNUO Visto lo stato degli immobili in esame, da demolire e ricostruire, non si quantifica alcun valore locativo annuo. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Brescia in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+Pag. 81 a 91
+
+3.23 Centro commerciale in corso di costruzione e abbandonato con area cortilizia pertinenziale ubicato in Braone (BS) – Via Provinciale e intestato a OMISSIS
+DESCRIZIONE SINTETICA Segue la descrizione sintetica del compendio immobiliare in esame.
+Lo stato dei luoghi potuto osservare durante il sopralluogo eseguito dal sottoscritto in data 30/10/2022 conferma quanto sopra riportato. CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA Le planimetrie catastali del compendio immobiliare abbandonato di Braone (BS) Via Provinciale non sono mai state presentate poiché l’immobile risulta di fatto ancora in corso di costruzione. Dall’analisi dell’elaborato planimetrico, si evidenzia che il fabbricato, rispetto a quanto rappresentato, risulta più ampio in lato sud-est e in lato est è presente un ampio portico non rappresentato nell’elaborato planimetrico. In forza dello strumento urbanistico attualmente vigente nel comune di Braone (BS):
+Pag. 82 a 91
+
+OMISSIS
+Restano ancora da cedersi al Comune di Braone le aree indicate nella convenzione urbanistica che disciplina il piano di lottizzazione con cui si è attuata l’edificazione del compendio in esame. Si riportano di seguito i provvedimenti edilizi inerenti il compendio in esame:
+Pag. 83 a 91
+
+Pag. 84 a 91
+
+Secondo quanto stabilito dal PGT vigente approvato con Delibera di Consiglio Comunale n°33 del 23.12.2013 l’immobile in esame è sito in zona PC1 – Tessuto produttivo polifunzionale consolidato (NTA Art.45). Si precisa inoltre che all’art.35 delle NTA sono previste norme speciali per le attività secondarie e terziarie relative all’area in esame denominata comparto OMISSIS, per la quale viene stabilito quanto segue: “Nell’ambito PC1, comparto OMISSIS di via Nazionale (Piano Attuativo in corso), è ammessa la grande struttura di vendita (alimentare non alimentare) a conferma delle previsioni insediative del PRG vigente, con il reperimento della dotazione dei servizi pubblici come da presenti norme con possibilità di monetizzazione parziale non superiore al 100% 19 dell’SLP. L’attuazione della GSV sarà subordinata all’ottenimento dell’assenso dei vari enti a vario titolo coinvolti nella procedura autorizzativa così come peraltro previsto dei criteri regionali che individuano tra gli enti criteri di sostenibilità; il tutto da attuarsi mediante Piano Attuativo”. Si sottolinea che allo stato attuale la destinazione d’uso autorizzata attraverso le pratiche edilizie approvate e compatibile con lo strumento urbanistico vigente è la seguente:
+- per tutto il piano primo è prevista destinazione d’uso artigianale e industriale ad eccezione della porzione sud della galleria (Fg.1 mapp.942 sub.24), per cui è prevista la destinazione d’uso commerciale, della fascia centrale di detta galleria (Fg.1 mapp.942 sub.23) che è ad uso pubblico - standard e di una porzione posta a sud-est della galleria avente una superficie di 500 mq (Fg.1 mapp.942 sub.18) destinata a servizi pubblici standard.
+Relativamente alla verifica della conformità edilizia si evidenzia che:
+- i locali posti al piano primo (Fg.1 mapp.942 sub.18-21-22-23-24-25) sono al rustico in quanto la costruzione del complesso edilizio non è stata ancora completata, ma la sagoma del fabbricato risulta essere conforme a quanto riportato nelle pratiche edilizie. Si precisa inoltre che le opere di urbanizzazione a carico di OMISSIS a seguito di piano di lottizzazione sono state realizzate ed è stato redatto il collaudo parziale delle opere
+GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+Applicando la metodologia descritta nel paragrafo 2, lo scrivente ritiene che il valore unitario di stima più congruo per un immobile non concluso, ora inutilizzabile, abbandonato, vandalizzato e privo di qualsiasi rendita come il fabbricato in esame, ubicato in una zona di forte passaggio del comune di Braone e in un tessuto a destinazione prevalentemente produttiva e commerciale, sia pari a €/mq 200,00.
+Pertanto, ne deriva la seguente stima: mq 11.738,00 x €/mq 200,00 = € 2.374.600,00
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato summenzionato e viste le condizioni dell’immobile sempre più fatiscente, si applica un deprezzamento del 30%.
+Il valore di stima dell’immobile a destinazione commerciale in oggetto, in condizioni di vendita forzata, risulta pertanto pari a € 1.662.220,00.
+Pag. 85 a 91
+
+CALCOLO VALORE CANONE LOCATIVO ANNUO Visto lo stato degli immobili in esame, abbandonati, vandalizzati, non finiti e privi di rendita, non si quantifica alcun valore locativo annuo. SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Breno in data 20/03/2024, si è accertato che gli immobili in esame risultano gravati da:
+- ISCRIZIONE CONTRO n. 2061/249 del 30/03/2017 - Ipoteca Volontaria derivante da concessione a garanzia di mutuo fondiario a favore di Banca Popolare di Unicredit S.p.a., somma capitale € 7.500.000,00, di durata di anni 9 mesi 9 e giorni 4.
+Oltre alla summenzionata ipoteca con le relative annotazioni è chiaramente presente la trascrizione della sentenza dichiarativa di fallimento che colpisce gli immobili in esame.
+Pag. 86 a 91
+
+3.24 Terreni ubicati in Braone (BS) – Via Provinciale e intestato a OMISSIS
+DESCRIZIONE SINTETICA Si riporta di seguito lo stralcio descrittivo che descrive i beni immobili:
+Lo stato dei luoghi potuto osservare durante il sopralluogo eseguito dal sottoscritto in data 30/10/2022 conferma quanto sopra riportato. CONFORMITA’ CATASTALE ED EDILIZIO-URBANISTICA I terreni oggetto di stima, di piena proprietà OMISSIS, risultano censiti nel catasto terreni del comune di Braone così come segue:
+I suddetti terreni risultano ricadenti in un’area per servizi di progetto e non prevedono un’edificabilità di tipo produttivo/commerciale. GIUDIZIO DI STIMA IN CONDIZIONI DI VENDITA FORZATA
+A fronte della procedura fallimentare in atto, venuta a mancare la condizione di libero mercato puro, valutate le condizioni di vendita forzata, preso il valore di mercato summenzionato e viste le caratteristiche dei terreni destinati a servizi di progetto nell’ambito di piani attuativi, si applica un deprezzamento del 50% alla luce della scarsa appetibilità dei beni immobili destinabili solo a servizi. Il valore di stima dei terreni in oggetto, in condizioni di vendita forzata, risulta pertanto pari a € 60.000,00.
+Pag. 87 a 91
+
+SITUAZIONE IPOTECARIA A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Breno in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+3.25 Area urbana destinata a parcheggio ad uso pubblico e strada ubicati in Bagnolo Cremasco (CR) – Via Leonardo da Vinci e intestate a OMISSIS
+DESCRIZIONE SINTETICA Trattasi di un’area urbana di superficie pari a mq 4.800,00 circa destinata a parcheggio pubblico, con attigua strada, adiacente al centro commerciale ubicato presso l’omonima via. Tale immobile risulta asservito a parcheggio di uso pubblico, in base alla convenzione urbanistica (anno 2003) che ha disciplinato un intervento di ristrutturazione urbanistica e di recupero del vicino centro commerciale di Via Leonardo Da Vinci in Bagnolo Cremasco (CR).
+Lo stato dei luoghi potuto osservare durante il sopralluogo eseguito dal sottoscritto in data 10/12/2022 conferma quanto sopra riportato. CONFORMITA’ CATASTALE L’area urbana asservita a parcheggio pubblico, di piena proprietà OMISSIS, risulta censita nel catasto fabbricati del comune di Bagnolo Cremasco così come segue:
+Pag. 88 a 91
+
+SITUAZIONE URBANISTICA E STIMA
+Tale area urbana è asservita a parcheggi ad uso pubblico per convenzione urbanistica e ricade in area per servizi del comune di Bagnolo Cremasco. Pur di proprietà OMISSIS non è un bene alienabile essendo asservito ad uso pubblico e, non avendo pertanto alcuna possibilità di rendita o appetibilità commerciale, la sua stima è inutile.
+SITUAZIONE IPOTECARIA
+A seguito di ispezione ipotecaria effettuata presso la Conservatoria dei RR.II. di Breno in data 20/03/2024, si è accertato che gli immobili in esame risultano liberi da iscrizioni ipotecarie e trascrizioni pregiudizievoli, ad accezione della trascrizione inerente la sentenza dichiarativa di fallimento.
+
+4. Conclusioni e sintesi giudizi di stima immobili in condizioni di vendita forzata
+Si riporta di seguito la sintesi dei giudizi di stima in condizioni di vendita forzata effettuate dagli ingegneri Tortella, Bocchio e Filippini nell’ambito dei rispettivi incarichi ricevuti.
+
+Comune
+Agnosine Bedizzole Bedizzole
+Bedizzole
+Bedizzole
+Bedizzole Brescia Cipro Brescia Zadei
+Calcinato Calcinato Capriolo Capriolo
+Chiari
+
+Tipologia attività
+Area Vendita al dettaglio
+Appartamento
+Appartamento
+Appartamento
+Appartamento
+Via Cipro Via Zadei
+Peroni Artigianale Vendita al dettaglio Parrucchiera Vendita al dettaglio
+
+Valore di stima vendita forzata
+243.000,00 € 775.530,00 €
+23.700,00 € 23.700,00 €
+23.700,00 €
+23.700,00 €
+680.800,00 € 831.708,00 € 298.080,00 € 107.460,00 € 555.660,00 € 98.900,00 € 341.640,00 €
+
+Pag. 89 a 91
+
+Coccaglio Coccaglio Coccaglio Coccaglio Cologne Cologne Gambara
+Ghedi Ghedi Lodrino Marone Nuvolento Orzinuovi
+Orzinuovi
+Orzinuovi
+Orzinuovi Orzinuovi Rezzato Travagliato Travagliato Lodi vecchio Rovato Bar Rovato Ottico Rovato Sfitto
+Rovato Rovato Montichiari Montichiari Palazzolo S/o Palazzolo S/o San Paolo Braone abban. Braone terreni Bagnolo Cremasco
+
+Vendita al dettaglio Sottotetto Sottotetto
+Appartamento Vendita al dettaglio
+2 box Vendita al dettaglio Vendita al dettaglio Posti auto coperti Vendita al dettaglio Vendita al dettaglio Vendita al dettaglio Vendita al dettaglio
+Appartamento 1
+Appartamento 2
+Appartamento 3 Appartamento 4
+Vendita al dettaglio
+Aree edificabili Ristorante “extivo” Vendita al dettaglio
+Bar Ottico Abbigliamento Uffici sede Area PL distributore Negozio UPIM Posti auto coperti Immobile dismesso Posti auto coperti Immobile dismesso fase di ristrutt (iper) fase di ristrutt Area urbana
+
+992.250,00 € 29.700,00 € 35.000,00 € 50.200,00 € 615.600,00 € 18.000,00 € 744.300,00 € 265.050,00 € 24.300,00 € 306.180,00 € 342.900,00 € 456.300,00 €
+235.800,00 €
+46.000,00 €
+40.000,00 € 52.000,00 € 51.000,00 € 489.510,00 € 280.000,00 € 270.000,00 € 470.600,00 € 82.500,00 € 64.400,00 € 168.300,00 € 742.500,00 € 270.000,00 € 1.066.500,00 € 106.200,00 € 345.150,00 € 63.000,00 € 395.500,00 € 1.662.220,00 € 60.000,00 €
+-
+
+Pag. 90 a 91
+
+5. Allegati
+Si allegano in formato digitale:
+1. visure catastali; 2. planimetrie catastali; 3. estratti delle ispezioni ipotecarie.
+
+Brescia, 04/06/2024
+
+In fede, Ing. Stefano Tortella
+
+Ing. Francesco Bocchio
+
+Ing. Paolo Filippini
+
+Pag. 91 a 91
