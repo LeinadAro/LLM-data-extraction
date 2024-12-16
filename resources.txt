@@ -72,3 +72,5 @@ https://arrow.apache.org/docs/python/parquet.html
 https://pytorch.org/torchtune/0.3/overview.html strumenti per finetuning
 https://unsloth.ai/		strumenti per finetuning molto utili i colab notebook
 https://github.com/unslothai
+
+https://apxml.com/posts/ultimate-system-requirements-llama-3-models
