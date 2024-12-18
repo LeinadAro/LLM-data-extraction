@@ -74,3 +74,5 @@ https://unsloth.ai/		strumenti per finetuning molto utili i colab notebook
 https://github.com/unslothai
 
 https://apxml.com/posts/ultimate-system-requirements-llama-3-models
+
+https://github.com/ArdaGnsrn/ollama-php

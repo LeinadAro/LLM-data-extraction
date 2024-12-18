@@ -1,4 +1,4 @@
-FROM qwen2.5:7b-instruct-q4_0
+FROM llama3.2:1b-instruct-q4_0
 TEMPLATE """{{- if or .System .Tools }}<|start_header_id|>system<|end_header_id|>
 {{- if .System }}
 
