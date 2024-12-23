@@ -6,5 +6,10 @@ FORMAT='{"type":"array","items":{"type":"object","properties":{"Comune":{"type":
 FILE=$( cat $FILE | jq -Rsa . )
 DATA='{ "model": "test", "modelfile": "'$MODEL_DIR'", "prompt": '$FILE', "stream":false, "format": '$FORMAT' }'
 echo $DATA > $TMP
-curl http://localhost:11434/api/generate -d @tmp.json > $OUTPUT_FILENAME
+timeout 300 curl http://localhost:11434/api/generate -d @tmp.json > $OUTPUT_FILENAME
+if [ ! -d "./answers" ]; then
+	mkdir ./answers
+fi
+echo $( (cat $OUTPUT_FILENAME) | jq -r .response ) > ./answers/$OUTPUT_FILENAME
 rm $TMP
+rm $OUTPUT_FILENAME
