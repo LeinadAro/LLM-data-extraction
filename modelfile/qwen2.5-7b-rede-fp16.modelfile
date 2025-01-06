@@ -1,0 +1,183 @@
+FROM qwen2.5:7b-instruct-fp16
+TEMPLATE """{{- if or .System .Tools }}<|start_header_id|>system<|end_header_id|>
+{{- if .System }}
+
+{{ .System }}
+{{- end }}
+{{- if .Tools }}
+
+Cutting Knowledge Date: December 2023
+
+When you receive a tool call response, use the output to format an answer to the orginal user question.
+
+You are a helpful assistant with tool calling capabilities.
+{{- end }}<|eot_id|>
+{{- end }}
+{{- range $i, $_ := .Messages }}
+{{- $last := eq (len (slice $.Messages $i)) 1 }}
+{{- if eq .Role "user" }}<|start_header_id|>user<|end_header_id|>
+{{- if and $.Tools $last }}
+
+Given the following functions, please respond with a JSON for a function call with its proper arguments that best answers the given prompt.
+
+Respond in the format {"name": function name, "parameters": dictionary of argument name and its value}. Do not use variables.
+
+{{ range $.Tools }}
+{{- . }}
+{{ end }}
+Question: {{ .Content }}<|eot_id|>
+{{- else }}
+
+{{ .Content }}<|eot_id|>
+{{- end }}{{ if $last }}<|start_header_id|>assistant<|end_header_id|>
+
+{{ end }}
+{{- else if eq .Role "assistant" }}<|start_header_id|>assistant<|end_header_id|>
+{{- if .ToolCalls }}
+{{ range .ToolCalls }}
+{"name": "{{ .Function.Name }}", "parameters": {{ .Function.Arguments }}}{{ end }}
+{{- else }}
+
+{{ .Content }}
+{{- end }}{{ if not $last }}<|eot_id|>{{ end }}
+{{- else if eq .Role "tool" }}<|start_header_id|>ipython<|end_header_id|>
+
+{{ .Content }}<|eot_id|>{{ if $last }}<|start_header_id|>assistant<|end_header_id|>
+
+{{ end }}
+{{- end }}
+{{- end }}"""
+PARAMETER stop <|start_header_id|>
+PARAMETER stop <|end_header_id|>
+PARAMETER stop <|eot_id|>
+PARAMETER temperature 0
+PARAMETER top_p 0.4
+PARAMETER repeat_penalty 1.18
+PARAMETER num_ctx 50000
+PARAMETER stop "DISCIPLINA DELLA VENDITA TELEMATICA CON MODALITA’ ASINCRONA"
+
+SYSTEM """
+Il tuo compito è estrarre dati da documenti. Qui sotto troverai un oggetto JSON, tu dovrai completarlo sostituendo ciascun "" con il valore dell'attributo che hai estratto.
+Se per un attributo non trovi alcun valore assegna il valore null. A prescindere dall'input devi dare in output solo la struttura JSON compilata. Ad esempio se il prompt è un semplice "ciao" tu in output dai il JSON con tutti i parametri null.
+I dati dell'immobile li devi estrare dalla descrizione del bene o dai suoi dati catastali. Se trovi dati validi in entrambe le parti la priorità va alla descrizione del bene.
+Definizione 1 di locale: Se la descrizione parla di monolocale, bilocale, ecc. tu devi assegnare a "Locali" il numero di locali che corrsiponde alla parola trovata (es. monolocale vuol dire "Locali":1, bilocale "Locali":2 etc.).
+Definizione 2 di locale: un locale è uno spazio abitativo dell'immobile. Soltanto camere da letto, soggiorni, sale e studi sono considerati locali. A locali devi assegnare la somma degli spazi considerati locali.
+La definizione 1 di locale prevale sulla due.
+"Mq" è la superficie dell'immobile espressa in metri quadrati. Se nel testo per la superficie vengono usati gli ettari (ha) fai la conversione in mq. Ricorda 1 ha = 10000 mq. A volte gli ettari vengono segnati così ab.cx.yz anziché ab.cxyz.
+Per ricavare i valore di "Bagni" devi tenere conto dei riferimenti ai bagni.
+Se il testo parla di un bagno al piano terra e di un altro nel garage, tu devi assegnare a "Bagni" il valore 2.
+Servizi igenici equivale a bagni.
+Per ricavare i valore di "Posti auto" devi tenere conto dei riferimenti ai posti auto.
+Autorimessa e garage equivalgono a "Posti auto". Nei dati catastali Cat C/6 corrisponde a posto auto. Nel calcolo di vani e mq ignora Cat C/6.
+Se per "Vani" trovi più corrispondeze, assegna all'attributo "Vani" la somma delle corrsipondenze.
+Se i "Mq" sono esplicitati nella descrizione usa quelli, altrimenti ricava i "Mq" dai dati catastali. Se nei dati catastali per "Mq" trovi più corrispondeze, assegna all'attributo "Mq" la somma delle corrsipondenze.
+Gli ettari sono espressi anche in are, vanno convertiti in mq. 
+Piano terra corrisponde al piano 0.
+Se per "Lotto" non trovi niente usa il valore "LOTTO UNICO". Devi ignorare gli ex Lotti per loro nessun output va genera per loro nessun output va generato. A volte in un "LOTTO UNICO" sono stati convogliati ex lotti, in tal caso devi considerare solo il "LOTTO UNICO".
+Se in un testo trovi più lotti devi dare in output un oggetto JSON per ciascun lotto.
+
+{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" } 
+
+Se ci sono più di un lotto devi racchiudere tutti gli oggetti json con parentesi quadre e ogni oggetto tranne l'ultimo deve essere seguito da una virgola, come nell'esempio seguente
+[
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" },
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" },
+	{ "Comune":"", "Indirizzo":"", "Vani":"", "Locali":"", "Mq":"", "Bagni":"", "Piano":"", "Posti auto":"", "N° Procedura":"", "Lotto":"" }
+]
+"""
+
+MESSAGE user """
+TRIBUNALE DI BRESCIA UFFICIO ESECUZIONI IMMOBILIARI PROCEDURA ESECUTIVA R.G.E. 269/2023 Giudice dell’Esecuzione: Dott. Gianluigi Canali Professionista Delegato: Avv. Silvia Colombini Custode Giudiziario: Avv. Silvia Colombini 25121 Brescia – via A. Diaz, 3 Tel.030.391728 Mail: silviacolombini@yahoo.it Pec: silvia.colombini@brescia.pecavvocati.it AVVISO DI VENDITA SENZA INCANTO IN MODALITA’ ASINCRONA TELEMATICA NELLA PROCEDURA ESECUTIVA 269/2023 RGE I° ESPERIMENTO DI VENDITA 
+BENI OGGETTO DELLA VENDITA LOTTO UNICO Piena proprietà per la quota di 1/2 in separazione dei beni in capo a ciascuno dei due esecutati e così per l’intera piena proprietà (1/1) Unità immobiliari in Comune di Coccaglio (BS), in via Guido Miglioli, 6 (catastalmente via Castrezzato). Trattasi di unità immobiliare ad uso residenziale abitativo, posta al piano rialzato di un edificio condominiale “in linea”. L’appartamento è costituito da : soggiorno, cucina, ampio disimpegno/ingresso, ripostiglio, bagno, tre camere. L’appartamento dispone di due balconi: un primo balcone è posto sul lato Nord e su di esso si affaccia una camera ed il soggiorno; esso si prospetta e accede alla piccola corte esclusiva posta in lato Nord, di cui pure l’appartamento dispone; il secondo balcone è posto a ovest e su di esso si affaccia un’altra camera e il bagno. L’appartamento dispone al piano seminterrato di una piccola cantina e di un’autorimessa alle quali si può accedere direttamente dal vano scala condominiale. L’autorimessa ha l’accesso carraio da via G. Miglioli dal corsello comune. Anche l’accesso pedonale è su via G. Miglioli e si esplica attraverso la corte comune condominiale, fino a giungere all’edificio. Le unità immobiliari sono così descritte al Catasto dei Fabbricati del Comune di Coccaglio: • Sez. Urb. NCT, Foglio 11, particella 173, subalterno 19, via Castrezzato piano S1- T, Rendita Euro 451,90, cat. A/2, classe 3, consistenza 7 vani, superficie totale 125 mq; (appartamento al piano rialzato con piccola corte esclusiva pertinenziale e cantina al piano seminterrato) • Sez. Urb. NCT, Foglio 11, Particella 173, subalterno 46, via Castrezzato piano S1, rendita Euro 29,54, cat. C/6, Classe 2, consistenza 22 mq, superficie totale 22 mq. (autorimessa al piano seminterrato) CONFINI: - dell’abitazione e della corte esclusiva Ovest: cortile comune all’intero condominio Sud: cortile comune all’intero condominio Est: vano scala comune e A.U.I.
+della cantina: Nord: proprietà di terzi; Ovest: cortile comune Sud: proprietà di terzi Est: corridoio comune
+dell’autorimessa : Nord: corridoio comune Ovest: corridoio comune Est: cortile comune Sud: A.U.I."""
+
+MESSAGE assistant {"Comune":"Coccaglio", "Indirizzo":"Via Guido Miglioli 6", Vani": 7, "Locali": 4, "Mq": 125, "Bagni": 1, "Piano": 0, "Posti auto": 1, "N° Procedura": "269/2023", "Lotto":"LOTTO UNICO"}
+MESSAGE user """
+TRIBUNALE CIVILE DI BRESCIA Sezione Esecuzioni Immobiliari Procedura esecutiva n. 116/2023 R.G.E. AVVISO DI VENDITA TELEMATICA ASINCRONA I ESPERIMENTO Gestore della vendita: Edicom Finance s.r.l.; Portale del Gestore: www.garavirtuale.it; Custode: Notaio Paolo Volta (per visite e-mail: info@astecommissionarie.it).
+Il sottoscritto Notaio Paolo Volta, quale delegata dal Giudice delle Esecuzioni del Tribunale di Brescia con ordinanza emessa in data 5 marzo 2024, ai sensi dell’art. 591 bis c.p.c. e domiciliata per la carica presso S-Mart, Via Solferino n. 24, avvisa che, a suo ministero, il giorno 17 ottobre 2024 alle ore 11.00 si procederà alle operazioni di vendita con modalità telematica asincrona dei seguenti beni immobili: Lotto unico piena proprietà = in Comune di Brescia (BS), Via Valcamonica n. 53: Appartamento al piano secondo parte di palazzina residenziale il tutto censito al Catasto Fabbricati di detto Comune, Sez. FIU - Fg. 1 - mapp. 812 sub 2 – Z.C. 3 - P. 1 - cat. A/3 - cl. 1 - vani 3 - R.C. Euro 102,26 Oltre alle proporzionali quote sulle parti comuni dell’edificio. Dalla perizia agli atti si segnala che nella planimetria catastale vi è un errore nell’identificazione del piano, l’immobile non è situato infatti al primo piano ma al secondo. Il costo per la sistemazione della scheda è stimato in Euro 450,00 oltre iva, già decurtato dal valore di stima. Confini come da elaborato planimetrico. = Il tutto salvo errore e come meglio in fatto.
+La continuità delle trascrizioni risulta regolare nel ventennio. PREZZO BASE = Euro 23.000,00. Si precisa che saranno considerate valide le offerte anche inferiori di un quarto rispetto al prezzo base sopra indicato. Tali offerte non potranno essere di importo comunque inferiore ad Euro 17.250,00. Cauzione pari almeno al 10% del prezzo offerto (arrotondamento per eccesso senza decimali). Rilancio minimo di gara: Euro 300,00."""
+
+MESSAGE assistant {"Comune":"Brescia", "Indirizzo":"Via Valcamonica 53", "Vani": 3, "Locali": null, "Mq": null, "Bagni": null, "Piano": 2, "Posti auto": null, "N° Procedura": "116/2023", "Lotto":"LOTTO UNICO"}
+MESSAGE user """
+ASSOCIAZIONE NOTARILE PER LE PROCEDURE ESECUTIVE Via S. Zeno, 99/a 25124 - BRESCIA Tel. 030 22.28.49 - FAX 030 22.42.37 TRIBUNALE ORDINARIO DI BRESCIA DIVISIONE GIUDIZIALE ENDOESECUTIVA rg n.11593/2021 (236-23) mb AVVISO DI VENDITA TELEMATICA ASINCRONA II VENDITA SENZA INCANTO Gestore della vendita: Edicom Finance S.r.l. Portale del Gestore: www.garavirtuale.it
+DESCRIZIONE DEL BENE Piena proprietà. in Comune di CASTREZZATO - via Giovanni Pascoli n.10. Trattasi, ex perizia, di un'abitazione su due piani fuori terra costituita al piano terra da un appartamento, due autorimesse e vari accessori ed al piano primo da due appartamenti e una terrazza, il tutto censito al:
+Catasto Fabbricati - Sez. NCT - Fg. 5 mapp. 358 sub. 9 P. T, cat. A/3 - cl. 3 - vani 8 - R.C. Euro 433,82; mapp. 358 sub. 10 P. T, cat. C/6 - cl. 2 - mq. 20 - R.C. Euro 32,02; mapp. 358 sub. 11 P. T, cat. C/6 - cl. 2 - mq. 33 - R.C. Euro 52,83; mapp. 358 sub. 12 P. 1, cat. A/3 - cl. 3 - vani 5,5 - R.C. Euro 298,25; mapp. 358 sub. 13 P. 1, cat. A/3 - cl. 3 - vani 3,5 - R.C. Euro 189,80; con le proporzionali quote delle parti comuni ai sensi di legge. Il tutto così come pervenuto in forza di: - provvedimento di acquisizione gratuita al patrimonio dello stato del 27/09/23 dell'Agenzia del Demanio D.R. Lombardia n.2275/2023 rep., trascritto a Brescia il 20/10/23 ai n.ri 46402/32059; - successione legittima, giusta accettazione con beneficio di inventario con atto del 01/10/98 della Pretura Circondariale di Brescia rep. 2125/1998, trascritta il 10/10/98 ai n.ri 32854/21588; - successione legittima - dichiarazione di successione presentata a Chiari il 17/08/92 al n° 52 vol. 362 e trascritta a Brescia il 18/04/94 ai n.ri 10142/7322. L'immobile è stato costruito ante 01/09/67 ed è interessato dai titoli autorizzativi indicati a pag. 16 e 17 della perizia. Il perito ha rilevato delle difformità urbanistiche come specificato da pag. 17 a pag. 20 della perizia, ove è stata prudenzialmente quantificata anche la spese per il ripristino. Il perito dichiara che le planimetrie catastali non corrispondono esattamente allo stato di fatto per le motivazioni indicate a pag. 23 della perizia. Nella relazione notarile si segnala la trascrizione della domanda giudiziale di divisione del 18/10/21 del Tribunale di Brescia rep. 11593, trascritta a Brescia il 22/11/21 ai n.ri 55226/36820 (detta trascrizione non verrà cancellata con il decreto di trasferimento). Gli immobili si trovano disabitati."""
+
+MESSAGE assistant {"Comune":"Castrezzato", "Indirizzo":"Via Giovanni Pascoli 10", "Vani": 17, "Locali": null,  "Mq": null, "Bagni": null, "Piano": 0, "Posti auto": 2, "N° Procedura": "11593/2021", "Lotto":"LOTTO UNICO"}
+
+MESSAGE user """
+TRIBUNALE DI BRESCIA UFFICIO ESECUZIONI IMMOBILIARI PROCEDURA ESECUTIVA R.G.E. 71/2018 (V ESPERIMENTO)
+Il sottoscritto avv. Casimiro Tomasoni, Professionista Delegato ex art. 591 bis c.p.c. il 4.9.2023
+dal Giudice dell’Esecuzione Immobiliare del Tribunale di Brescia al compimento delle
+operazioni di vendita dei beni immobili oggetto della procedura esecutiva in epigrafe, a norma
+dell’art. 490 c.p.c.
+BENI OGGETTO DELLA VENDITA
+LOTTO 1
+Piena proprietà in Comune di Montichiari (BS), via Santellone n.45.
+Trattasi di immobile con destinazione d'uso residenziale costruito prima del 1967 e ristrutturato
+nel 1992, distribuito su tre piani fuori terra.
+A piano terra sono presenti i locali accessori quali ingresso, bagno, taverna, disimpegno, bagno e
+locale tecnico.
+A piano primo è presente la cucina, il soggiorno, due balconi, due camere, bagno, ripostiglio,
+guardaroba e disimpegno.
+A piano secondo è presente una camera con bagno, soggiorno e soppalco con affaccio sulla
+terrazza.
+L'immobile è censito come segue:
+Catasto Fabbricati – Sez. Urb.NCT - Foglio 74
+particella 55, subalterno 1, cat. A/2, classe 4, consistenza 9 vani, Rendita € 604,25, Piano T-1-2;
+particella 55, subalterno 2, cat. C/6, classe 4, consistenza 43 mq, Rendita € 79,95, Piano T;
+con diritto alla particella 55, subalterno 3, bene comune non censibile comune alle particelle
+55, subalterni 1 e 2, e con le proporzionali quote delle parti comuni ai sensi di legge.
+Confini particella 55: Nord: stessa proprietà (particella 145)
+Sud: strada (particella 312)
+Est: altra proprietà (particella 58)
+Ovest: altra proprietà (particella 50)
+Gli immobili vengono posti in vendita a corpo e non a misura, nello stato di fatto e di diritto in
+cui si trovano, con tutte le pertinenze, accessioni, ragioni e azioni, eventuali servitù attive e
+passive, apparenti e non apparenti.
+
+LOTTO 2
+Piena proprietà in Comune di Montichiari (BS), via Santellone n.45.
+Trattasi di terreno edificabile censito come segue:
+Catasto Terreni - Foglio 74
+particella 144 con qualità Sem. Irr. Arb. di classe 1, ha 0.24.00, R.D. € 24,79 R.A. 19,83.
+Confini particella 144: Nord: altra proprietà (particella 50)
+Sud: stessa proprietà (particella 55)
+Est: stessa proprietà (particella 145)
+Ovest: altra proprietà (particella 50)
+L'immobile viene posto in vendita a corpo e non a misura, nello stato di fatto e di diritto in cui si
+trova, con tutte le pertinenze, accessioni, ragioni e azioni, eventuali servitù attive e passive,
+apparenti e non apparenti.
+"""
+MESSAGE assistant """
+[
+	{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": 9, "Locali": 5,  "Mq": null, "Bagni": 4, "Piano": 0, "Posti auto": 1, "N° Procedura": "71/2018", "Lotto":"1"},
+	{"Comune":"Montichiari", "Indirizzo":"Via Santellone 45", "Vani": null, "Locali": null,  "Mq": 2400, "Bagni": null, "Piano": 0, "Posti auto": null, "N° Procedura": "71/2018", "Lotto":"2"}
+]
+"""
+
+MESSAGE user """
+TRIBUNALE DI BRESCIA SEZIONE ESECUZIONI IMMOBILIARI PROCEDURA ESECUTIVA R.G.E. 148/2023 Giudice dell’Esecuzione: Dott. Alessandro Pernigotto Custode Giudiziario e Professionista Delegato: Avv. Giuseppe Ayroldi
+AVVISO DI VENDITA TELEMATICA ASINCRONA SENZA INCANTO II_ESPERIMENTO
+Gestore della vendita: Aste Giudiziarie Inlinea S.p.A. Portale del Gestore: www.astetelematiche.it
+* * * Il sottoscritto Avv. Giuseppe Ayroldi con studio in Brescia, via Fratelli Ugoni n. 32, visto il provvedimento in data 28 novembre 2023 con il quale il Giudice dell’Esecuzione del Tribunale di Brescia lo ha delegato, ai sensi dell’art. 591 bis c.p.c., al compimento delle operazioni di vendita dell’immobile pignorato, così come individuato nella relazione di stima agli atti oggetto di pubblicazione, da intendersi qui integralmente richiamata ed alla quale si rinvia per una migliore identificazione del bene,
+AVVISA che il giorno 12 dicembre 2024 alle ore 12:00, fatti salvi eventuali ritardi dovuti a cause di forza maggiore, ed in caso di gara fino alle ore 12:00 del giorno 19 dicembre 2024, presso il proprio studio sito in Brescia, via Fratelli Ugoni n. 32, procederà VENDITA SENZA INCANTO CON MODALITÀ TELEMATICA ASINCRONA ai sensi dell’art. 24 del D.M. Giustizia n. 32/2015, dei beni pignorati di seguito descritti, così come da perizia depositata agli atti da intendersi comunque qui richiamata nonché parte integrante del presente bando, posta a corredo della pubblicazione consultabile dall’offerente ed alla quale si rinvia.
+FISSA per il deposito delle offerte telematiche, ai sensi dell’art. 571 c.p.c. e degli artt. 12 e ss. del D.M. Giustizia n. 32/2015, il termine sino alle ore 12:00 del giorno 11 dicembre 2024, (giorno antecedente la vendita).
+§ § § DESCRIZIONE DEI BENI LOTTO UNO Intera piena proprietà Nel Comune di Angolo Terme (Bs), Via Regina Elena n. 95, unità immobiliare adibita a negozio, ex relazione di stima: “sita al piano TERRA del fabbricato e si sviluppa su di un unico livello. L’ ingresso avviene dalla strada- via Regina Elena, con ripostiglio e servizio igienico” Il tutto, così censito al Catasto Fabbricati:
+1
+
+- sezione urbana: ANG, foglio 6, particella 500, sub. 5, cat. C/1, classe 6, consistenza 37 mq, Rendita catastale € 542,69. Con la proporzionale quota di comproprietà delle parti comuni del fabbricato ai sensi di legge.
+LOTTO DUE Intera piena proprietà
+Nel Comune di Angolo Terme (Bs), Via Regina Elena n. 95, unità immobiliare adibita aa appartamento, ex relazione di stima: “al piano primo e si sviluppa su di un unico livello. L’accesso avviene da scala interna a cui si accede dalla via Regina Elena.L’ abitazione e’ composta da : cucina-soggiorno, ripostiglio, camera, bagno, ripostiglio al piano terra e soffitta al piano 3.” Il tutto, così censito al Catasto Fabbricati: - sezione urbana: ANG, foglio 6, particella 500, sub. 6, cat. A/4, classe 2, consistenza 4,5 vani 91 mq, Rendita catastale € 81,34. Con la proporzionale quota di comproprietà delle parti comuni del fabbricato ai sensi di legge.
+LOTTO TRE Intera piena proprietà
+Nel Comune di Angolo Terme (Bs), Via Regina Elena n. 95, unità immobiliare adibita ad appartamento, ex relazione di stima: “sita al piano secondo e si sviluppa su di un unico livello. L’accesso avviene da scala interna a cui si accede dalla via Regina Elena. L’abitazione è composta da : cucina-soggiorno, ripostiglio, n 2 camere, bagno, disimpegno e soffitta al piano 3. L’appartamento internamente risulta completo di finiture e impianti, mancano solamente alcune porte interne, i serramenti esterni sono vetusti in legno con vetro semplice. Il vano scala tra piano 1 e secondo è al rustico: mancano gli intonaci, rivestimento gradini e pavimento dei pianerottoli. La soffitta è al rustico, la caldaia dell’impianto di riscaldamento è collocata nella soffitta” Il tutto, così censito al Catasto Fabbricati: - sezione urbana: ANG, foglio 6, particella 500, sub. 3, cat. A/4, classe 5, consistenza 5 vani, 106 mq, Rendita catastale € 144,61. Con la proporzionale quota di comproprietà delle parti comuni del fabbricato ai sensi di legge.
+"""
+
+MESSAGE assistant """
+[
+	{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": null, "Locali": null,  "Mq": 37, "Bagni": 0, "Piano": 0, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"1"},
+	{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": 4.5, "Locali": 2,  "Mq": 91, "Bagni": 1, "Piano": 1, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"2"},
+	{"Comune":"Angolo Terme", "Indirizzo":"Via Regina Elena 95", "Vani": 5, "Locali": 3,  "Mq": 106, "Bagni": 1, "Piano": 2, "Posti auto": 0, "N° Procedura": "148/2023", "Lotto":"3"}
+]
+"""

@@ -26,24 +26,6 @@
                 </form>
             </div>
         </div>
-        <!--<div hidden>
-            <div class="container">
-                <h4 class="display-4">Prompt per Ollama AI</h4>
-                <form method="POST" action="call_ollama.php">
-                    <div class="form-group">
-                        <label for="model">Model</label>
-                        <input class="form-control" type="text" name="model" id="model" placeholder="Inserire model" />
-                    </div>
-                    <div class="form-group">
-                        <label for="prompt">Prompt</label>
-                        <input class="form-control" type="text" name="prompt" id="prompt" placeholder="Inserire prompt per Ollama" />
-                    </div>
-                    <div class="form-group">
-                        <button type="submit" class="btn btn-primary">Invia</button>
-                    </div>
-                </form>
-            </div>
-        </div>-->
     </main>
 </body>
 </html>
