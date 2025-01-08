@@ -1,4 +1,6 @@
 <?php
+  #i file selezionati con POST vengono processati dal modello selezionato. L'output è strutturato per l'estrazione di dati di immobili
+  
   $prompt_dir = './uploads';
   $response_dir = './responses';
   $download = false;
