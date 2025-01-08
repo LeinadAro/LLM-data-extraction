@@ -1,4 +1,4 @@
-FROM qwen2.5:7b-instruct-q8_0
+FROM qwen2.5:0.5b-instruct-q8_0
 TEMPLATE """{{- if .Messages }}
 {{- if or .System .Tools }}<|im_start|>system
 {{- if .System }}
@@ -52,7 +52,7 @@ For each function call, return a json object with function name and arguments wi
 PARAMETER temperature 0
 PARAMETER top_p 0.4
 PARAMETER repeat_penalty 1.18
-PARAMETER num_ctx 50000
+PARAMETER num_ctx 32000
 PARAMETER stop "DISCIPLINA DELLA VENDITA TELEMATICA CON MODALITA’ ASINCRONA"
 
 SYSTEM """

@@ -31,10 +31,12 @@ OPT			serie di modelli open-source gpt3-like
 
 tools:
 
+ollama
+huggingface
 LLaMA.cpp
 gpt4all.io		
-huggingface
-ollama
+
+
 
 
 link utili:
@@ -49,16 +51,17 @@ https://www.cloudskillsboost.google/paths/118/course_templates/539
 https://jalammar.github.io/illustrated-transformer/  spiegazione semplificata del transformer
 https://stanford-cs324.github.io/winter2022/lectures/modeling/  corso di stanford su large language model 
 https://stanford-cs324.github.io/winter2022/lectures/training/
-https://www.youtube.com/watch?v=J_3hDqSvpmg QLorA lightweught fine-tuning
+https://www.youtube.com/watch?v=J_3hDqSvpmg QLorA lightweight fine-tuning
 https://huggingface.co/blog/4bit-transformers-bitsandbytes ulteriore spiegazione QLorA fine-tuning
 https://huggingface.co/blog/rlhf  Reinforcement learning from Human Feedback
 https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG
 https://web.stanford.edu/class/cs224n/readings/		Stanford CS224n: Natural Language Processing with Deep Learning
+https://apxml.com/posts/ultimate-system-requirements-llama-3-models		guida con i requisiti di sistema di tutte le versioni di llama 3
+https://www.youtube.com/watch?v=oaV_8ZSFblg		spiegazione semplice requisiti di sistema per LLM
 
 https://github.com/tensorflow/tensor2tensor
 https://github.com/google/trax
 
-https://github.com/openai/tiktoken
 
 https://huggingface.co/blog/llama32		spiegazione su come usare modelli lightweight on device 
 										o browser
@@ -66,13 +69,10 @@ https://stanford-cs221.github.io/autumn2021/modules/
 
 https://github.com/unslothai/unsloth?tab=readme-ov-file#-installation-instructions
 https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing#scrollTo=QmUBVEnvCDJv
-https://parquet.apache.org/docs/
-https://arrow.apache.org/docs/python/parquet.html
 
 https://pytorch.org/torchtune/0.3/overview.html strumenti per finetuning
 https://unsloth.ai/		strumenti per finetuning molto utili i colab notebook
 https://github.com/unslothai
 
-https://apxml.com/posts/ultimate-system-requirements-llama-3-models
+ 
 
-https://github.com/ArdaGnsrn/ollama-php
