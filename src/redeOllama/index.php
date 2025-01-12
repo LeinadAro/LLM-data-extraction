@@ -9,7 +9,25 @@
 <body>
     <main>
     <div>
-            <div class="container">
+        <?php 
+            $ollama_url = "http://localhost:11434/api/tags";                          
+            $ch = curl_init($ollama_url);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+            $response = curl_exec($ch);
+            $showExtractionDiv=false;
+            $showNoModelDiv=false;
+            if(!curl_error($ch)){
+                $return = json_decode($response, true);
+                if(array_key_exists("models", $return) && count($return["models"])!=0){
+                    $showExtractionDiv=true;
+                }
+                else $showNoModelDiv=true;
+                curl_close($ch);
+            }
+            else echo '<p>Errore: Nessuna connesione a Ollama server</p>';
+        ?>
+            <div class="container" <?php if($showExtractionDiv==false) echo 'hidden' ?>>
                 <h4 class="display-4">Estrazione dati di immobili</h4>
                 <form method="POST" action="call_ollama.php" enctype="multipart/form-data">
                     <div class="form-group">
@@ -17,18 +35,13 @@
                         <select class="form-control" name="model" id="model" required>
                             <?php
                                 #visualizza modelli disponibili sul server come opzioni del select
-                                $ollama_url = "http://localhost:11434/api/tags";                          
-                                $ch = curl_init($ollama_url);
-                                curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-                                curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
-                                $response = curl_exec($ch);
-                                $return = json_decode($response, true);
-                                if(array_key_exists("models", $return)){
-                                    foreach($return["models"] as $key => $value){
-                                        echo '<option>'.$value["name"].'</option>';
+                                if(!curl_error($ch)){
+                                    if(array_key_exists("models", $return)){
+                                        foreach($return["models"] as $key => $value){
+                                            echo '<option>'.$value["name"].'</option>';
+                                        }
                                     }
                                 }
-                                curl_close($ch);
                             ?>
                         </select>
                     </div>
@@ -40,6 +53,12 @@
                         <button type="submit" class="btn btn-primary">Invia</button>
                     </div>
                 </form>
+            </div>
+            <div class="container" <?php if($showNoModelDiv==false) echo 'hidden' ?>>
+                <h4>Non ci sono modelli disponibili</h4>
+                <p>
+                    Non sono attualmente disponibili modelli per l'estrazione dati.</br>
+                </p>
             </div>
         </div>
     </main>

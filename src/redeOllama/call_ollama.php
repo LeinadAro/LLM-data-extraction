@@ -1,5 +1,6 @@
 <?php
-  #i file selezionati con POST vengono processati dal modello selezionato. L'output è strutturato per l'estrazione di dati di immobili
+  #i file selezionati con POST vengono processati dal modello selezionato.
+  #L'output è strutturato per l'estrazione di dati di immobili con la variabile format inizializzata da un json schema.
   
   $prompt_dir = './uploads';
   $response_dir = './responses';
