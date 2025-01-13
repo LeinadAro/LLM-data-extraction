@@ -1,2 +1,0 @@
-def zucc():
-    return 'zucc'
