@@ -1,4 +1,8 @@
 #!/bin/bash
+
+#script per installare in una volta sola ollama, tool e librerie python necessari per i test con LLM su macchina virtuale.
+#ollama funziona standalone.
+
 usr=$USER
 appList="pip p7zip-full zip unzip"
 pipList="langchain langchain-ollama langchain-experimental transformers datasets evaluate accelerate torch torchvision torchao torchtune  huggingface_hub[cli]"
