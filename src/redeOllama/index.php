@@ -47,7 +47,7 @@
                     </div>
                     <div class="form-group">
                         <label for="prompt">Prompt</label>
-                        <input class="form-control" type="file" name="prompt[]" id="prompt[]" multiple="multiple" required />
+                        <input class="form-control" type="file" name="prompt[]" id="prompt[]" multiple="multiple" accept=".txt" required />
                     </div>
                     <div class="form-group">
                         <button type="submit" class="btn btn-primary">Invia</button>
