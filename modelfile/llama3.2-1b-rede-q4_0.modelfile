@@ -48,7 +48,8 @@ For each function call, return a json object with function name and arguments wi
 {{ end }}{{ if .Prompt }}<|im_start|>user
 {{ .Prompt }}<|im_end|>
 {{ end }}<|im_start|>assistant
-{{ end }}{{ .Response }}{{ if .Response }}<|im_end|>{{ end }}"""PARAMETER temperature 0
+{{ end }}{{ .Response }}{{ if .Response }}<|im_end|>{{ end }}"""
+PARAMETER temperature 0
 PARAMETER top_p 0.4
 PARAMETER repeat_penalty 1.18
 PARAMETER num_ctx 50000
